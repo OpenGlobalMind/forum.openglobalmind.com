@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Elemental Chat on Holochain</title>
+    <link>https://forum.openglobalmind.com/t/elemental-chat-on-holochain/548</link>
+    <description>Holochain announces that Elemental Chat on Holochain RSM is working, with about 50 nodes fully peer-to-peer
+
+[IT&#39;S ALIIIIIIVE\!](https://blog.holochain.org/its-aliiiiiive/) - Holochain Blog
+
+[Closing the Year with Elemental Chat on Holochain RSM](https://medium.com/h-o-l-o/closing-the-year-with-elemental-chat-on-holochain-rsm-105f9eede19c) - Medium, 2020-12-24
+
+[&quot;RSM&quot; refers to the new, performant, and simplified version of Holochain on Rust (sometimes called Holochain RSM for Refactored State Model) - https://github.com/holochain/holochain]</description>
+    
+    <lastBuildDate>Tue, 19 Jan 2021 17:38:38 +0000</lastBuildDate>
+    <category>#random</category>
+    <atom:link href="https://forum.openglobalmind.com/t/elemental-chat-on-holochain/548.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Elemental Chat on Holochain</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Holochain announces that Elemental Chat on Holochain RSM is working, with about 50 nodes fully peer-to-peer</p>
+<p><a href="https://blog.holochain.org/its-aliiiiiive/">IT’S ALIIIIIIVE!</a> - Holochain Blog</p>
+<p><a href="https://medium.com/h-o-l-o/closing-the-year-with-elemental-chat-on-holochain-rsm-105f9eede19c">Closing the Year with Elemental Chat on Holochain RSM</a> - Medium, 2020-12-24</p>
+<p>[“RSM” refers to the new, performant, and simplified version of Holochain on Rust (sometimes called Holochain RSM for Refactored State Model) - <a href="https://github.com/holochain/holochain">https://github.com/holochain/holochain</a>]</p>
+          <p><a href="https://forum.openglobalmind.com/t/elemental-chat-on-holochain/548/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/elemental-chat-on-holochain/548/1</link>
+        <pubDate>Tue, 19 Jan 2021 17:38:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-548-1</guid>
+        <source url="https://forum.openglobalmind.com/t/elemental-chat-on-holochain/548.rss">Elemental Chat on Holochain</source>
+      </item>
+  </channel>
+</rss>

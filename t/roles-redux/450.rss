@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Roles, redux</title>
+    <link>https://forum.openglobalmind.com/t/roles-redux/450</link>
+    <description>I&#39;d like to run through the Roles described on the [OGM webpage](https://www.openglobalmind.com/about/team/roles) and see how they match the nascent pattern language that is [OGM Workshop Group 1 output](https://forum.openglobalmind.com/t/ogm-workshop-group-1-output/413).
+
+**A. Sensors**
+
+&gt; Sensors fulfill the primary research function of OGM. The primary responsibility of a sensor is to grow our knowledge base. Consider them similar to **market research analysts** responsible for key subject areas. They scan the environment and the world, searching for new thoughts, ideas, and insights to bring into the system.
+
+This seems related to [**Defining Characteristics** : *Maps of the landscape*](https://forum.openglobalmind.com/t/defining-characteristics/415) — insofar as sensors are also like &quot;scouts&quot; or &quot;surveyors&quot;; and furthermore, the map-making project influences the &quot;view&quot; of the landscape.
+ 
+**B. Protectors**
+
+&gt; Owners of how OGM interfaces with the outside world. Their responsibilities include API’s, IP, access controls, cyber security, membership, etc.
+
+Although the quote above is mostly technically worded, it sounds a lot like [ **Scope of Work** : *Debug individual and joint activities*](https://forum.openglobalmind.com/t/scope-of-work/417), insofar as the &quot;scope&quot; of work defines a *boundary* and the boundary helps protect the organisation (I&#39;m thinking of Stafford Beer&#39;s model of the firm, and Ronald Coase&#39;s).  It&#39;s interesting to think of the &quot;debugging&quot; process as a form of immune system, as well, of which the boundary is only one part.
+
+**C. Fellows**
+
+&gt; Investors, leaders, and thought-provokers. To be a Fellow suggests a **deeper level of partnership** with OGM. These individuals (or organizations) grow and advance the fundamental mechanisms that support OGM. They help provide or procure funding for the pursuit of new projects and help guide thought leadership.
+
+Now this sounds a bit like [ **Values** : *Practices of stewardship*](https://forum.openglobalmind.com/t/values/416).  The &quot;deeper level&quot; of partnership sounds like it may well involve a &quot;stewardship&quot; role. Or, put otherwise, these roles might feed into and sustain the &quot;values&quot; of the organization itself. One keeps in mind that &quot;funding&quot; and &quot;Financial Capital&quot; is only one of seven Community Captials!  The &quot;thought leadership&quot; might be along any of the other dimensions. This [essay](https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17) by Joi Ito might be worth reading in connection with these themes.
+
+![Screenshot from 2020-12-02 22-36-23|690x339](upload://vv8iGAvNGtERmCbp7Y9vdEqVu5P.jpeg) 
+
+**D. Makers (Builders)**
+
+&gt; The primary function of the “Makers”, or “Creators” is to create – or shepherd the creation of – tools and services.
+
+Although the link is a bit lose, I wonder if this is connected with [**Strategic Objectives** : *Ongoing learning (w/ a shared memory artifact) and unlearning*](https://forum.openglobalmind.com/t/strategic-objectives/419), since the strategic objectives contribute to an articulation of the project, and as such are &quot;tools for thought.&quot;  Another thing that the makers *make* is memory.  Am I reaching too much here...?
+
+*We are the music makers,*
+&amp;nbsp;    *And we are the dreamers of dreams,*
+*Wandering by lone sea-breakers,*
+&amp;nbsp;    *And sitting by desolate streams;—*
+*World-losers and world-forsakers,*
+&amp;nbsp;    *On whom the pale moon gleams:*
+*Yet we are the movers and shakers*
+&amp;nbsp;    *Of the world for ever, it seems.*
+
+**E. StoryThreaders**
+
+&gt; The story-tellers of the group seek to make connections across multiple narratives, nodes, ideas, or strings of thought. They find creative ways to introduce these new stories to the global consciousness.
+
+This seems related to [ **Sustainability Model** : *Develop collective wisdom*](https://forum.openglobalmind.com/t/sustainability-model/421) — as I understand it.  (Thanks to @kenhomer, @Jerry, and @Mila for explaining to me what they mean by &quot;story&quot;.)  What I&#39;m piecing together is that stories are &quot;sustaining&quot; because they are a kind of ground for mindfulness and discernment.  It was also interesting to learn that @maparent that he recently read &quot;After Buddhism&quot; — a book that&#39;s built mostly out of stories.     
+
+**F. Participants**
+
+&gt; Users of OGM platform who may be makers, story threaders, protectors, or sensors in their own rights.
+
+This is an exact match for [ **Participants** : *Maintain sufficient cohesion to generate value*](https://forum.openglobalmind.com/t/participants/418). I emphasised the need for &quot;cohesion&quot; and pulling together different resources (similar to the multiple capitals theory mentioned above, or the metaphor of a kombucha-like functionality of the map-makers/scouts mentioned above under **Sensors**. 
+
+**G. Sponsors**
+
+&gt; Members who support OGM in the form of grants, scholarships, sponsorships, time, etc.
+
+This seems related to [**Core Purpose** : *Connect the connectors to what they need to thrive*](https://forum.openglobalmind.com/t/core-purpose/414) as I understood it.  People would &quot;sponsor&quot; the project by providing these needed resources.
+
+**H. Advisors**
+
+&gt; Members who offer guidance or advice to OGM. Perhaps more of a steering committee.
+
+I wonder if the steering committee might take charge of the [**Key Operating Principles and Practices** : *Online with intention, and in the world with compassion*](https://forum.openglobalmind.com/t/ogm-workshop-group-1-output/413) — after all, if they are going to &quot;steer&quot; or &quot;operate&quot; the project, they will need access to such a control system!
+
+**Guild Members**
+
+&gt; Membership in a guild **distinguishes those that can be leveraged** for guidance, advice, or inventive solutions in a given discipline or practice from other participants. An all-encompassing role, Guild Members are master practitioners of OGM capabilities. They are builders of the product, solution designers, and engagement seekers. Think of Guild Members as **SME**’s. For example, a developer with extensive experience developing API’s might be a guild member of an API-related guild. Similarly, a story-threader may be a member of a related guild. Furthermore, guild membership is not mutually exclusive. That is to say, a story-threader can belong to a “Builder” guild or a “Story-Threader” guild.
+
+Personally, I&#39;m a bit less charmed by this &quot;guild&quot; language and have suggested  &quot;[working groups](https://forum.openglobalmind.com/t/guilds-which-ones/65/9)&quot; as a more down-to-earth alternative term. That said, maybe the guild term means something important that I&#39;m not grasping (as was the case with &quot;story&quot; until it was explained to me).  However, the other point to make at this juncture is that I have run out of link targets.  So, in the words of [Pierre-Simon Laplace](https://en.wikipedia.org/wiki/Pierre-Simon_Laplace): *je n&#39;avais pas besoin de cette hypothèse.*</description>
+    
+    <lastBuildDate>Fri, 22 Jan 2021 14:02:31 +0000</lastBuildDate>
+    <category>Organizing OGM</category>
+    <atom:link href="https://forum.openglobalmind.com/t/roles-redux/450.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Joe:</p>
+<p>Thanks for mentioning Cicolab and the Zeitgeist movement.   I currently am not looking at any OGM activities coming from them.   Maybe my scope needs to be redefined?   I will bring this up at the Steering Comittee meeting.    If you think of any other high-level initiatives, please let me know.</p>
+<p>Thanks,</p>
+<p>Tony Markatos</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/15</link>
+        <pubDate>Fri, 22 Jan 2021 14:02:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-15</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Tony,</p>
+<aside class="quote no-group" data-username="Tony" data-post="13" data-topic="450">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/letter_avatar_proxy/v4/letter/t/ee7513/40.png" class="avatar"> Tony:</div>
+<blockquote>
+<p>I have heard that the high-level goal of OGM is to solve the worlds major problems.</p>
+</blockquote>
+</aside>
+<p>That seems like a good starting place <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> <img src="https://forum.openglobalmind.com/images/emoji/apple/mechanical_arm.png?v=9" title=":mechanical_arm:" class="emoji" alt=":mechanical_arm:"></p>
+<p>Some other orgs that profess similar goals are <a href="https://www.xinx.co/" rel="nofollow noopener">https://www.xinx.co/</a> and <a href="https://topos.institute/" rel="nofollow noopener">https://topos.institute/</a></p>
+<p>That said, I’m a bit concerned about this seemingly random collection of orgs (c/o <a class="mention" href="/u/arena">@Arena</a> if I understand correctly) :</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/67cd486fabc1dc0c72f341956bf34462e4a3644e.jpeg" class="site-icon" width="32" height="32">
+      <a href="https://www.catalist.directory/communities-explorer#List" target="_blank" rel="nofollow noopener">catalist.directory</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="" height="">
+
+<h3><a href="https://www.catalist.directory/communities-explorer#List" target="_blank" rel="nofollow noopener">Communities Explorer</a></h3>
+
+<p>Explore Catalist Networks: aggregated crowd-sourced knowledge bases of industries like design, movements like regenerative agriculture, &amp; issues like climate change.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>It includes both Cicolab and (for example) the Zeitgeist Movement, the latter of which is said to draw on conspiracy theory (<a href="https://en.wikipedia.org/wiki/The_Zeitgeist_Movement#Reactions" rel="nofollow noopener">https://en.wikipedia.org/wiki/The_Zeitgeist_Movement#Reactions</a>). And there’s even more that it doesn’t include!</p>
+<p>Clearly, within the remit of your activity-diagramming, and OGM more broadly, it’s not <em>necessary</em> to map the entire collaboration landscape, but I did propose a while ago that creating maps of this landscape <em>could be</em> a “defining characteristic” for OGM:</p>
+<ul>
+<li><a href="https://forum.openglobalmind.com/t/defining-characteristics/415" class="inline-onebox">Defining Characteristics</a></li>
+</ul>
+<p>With that in mind, I think it’s worthwhile to look at OGM’s activity ‘contextually’: after all OGM is clearly an “open system”.</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/14</link>
+        <pubDate>Thu, 21 Jan 2021 12:06:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-14</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Lovolution:</p>
+<p>I am creating activity diagrams on what OGM does.  I seek feedback.   I have heard that the high-level goal of OGM is to solve the worlds major problems.</p>
+<p>Agree?   What is the approach?</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/13</link>
+        <pubDate>Mon, 18 Jan 2021 12:59:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-13</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p>Lauren &amp; CICOLAB have been going long and deep into these roles, frameworks, pushing envelopes within this Miro board:<br>
+<a href="https://miro.com/app/board/o9J_laWoqqM=/" class="onebox" target="_blank" rel="nofollow noopener">https://miro.com/app/board/o9J_laWoqqM=/</a><br>
+Thoughts welcome <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/12</link>
+        <pubDate>Sun, 10 Jan 2021 21:28:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-12</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Love the production style here! <img src="https://forum.openglobalmind.com/images/emoji/apple/raised_hands.png?v=9" title=":raised_hands:" class="emoji" alt=":raised_hands:"></p>
+<p>Miro IRL! <img src="https://forum.openglobalmind.com/images/emoji/apple/fireworks.png?v=9" title=":fireworks:" class="emoji" alt=":fireworks:"></p>
+<p>When <a href="https://anchor.fm/entrepreneurs-verse/episodes/003---Joseph-Corneli-edjc15" rel="nofollow noopener">I</a> was at <a href="https://joinef.com/" rel="nofollow noopener">Entrepreneur First</a> (EF) earlier this year, they talked in terms of the roles Catalyst (often with a business background), Tech Edge (often with a PhD), and Domain Edge (often with industry experience), per <a href="https://www.joinef.com/ideas-pt-ii-finding-your-edge/" rel="nofollow noopener">this discussion</a>.   There was a <a href="https://medium.com/@lellouche.eden/a-look-into-entrepreneur-first-journey-412047fbb284" rel="nofollow noopener">further breakdown</a> of Catalyst into “catalyst doer” and “catalyst talker”, which might be variants of “hacker” and “hustler”.  This role seems a bit like the Maker/Builder in your sketch, since the catalyst doesn’t strictly speaking have their own project but helps others succeed.</p>
+<p>Granted, EF was about venture investment so the whole game was different; but, maybe a compare-and-contrast is worthwhile.  IMO, OGM may turn out to be more “investment worthy” — keeping in mind the multiple capitals theory indicated above — than EF: and they’re <a href="https://techcrunch.com/2019/02/19/a-lof-of-efffing-money/" rel="nofollow noopener">capitalised to the tune of &gt;$115M</a>.</p>
+<p>With that in mind, I wonder if another loop through the roles and other details to think about (multiple) ROIs.  To opine further, this points in the direction of further developing the <em>transversal relationships</em> between the things in your map.  I wonder if <a class="mention" href="/u/maparent">@maparent</a> would be willing to give this a go, maybe imagining this as an iteration or extension of the E-R diagram for the Semantic Mediawiki?</p>
+<p>One critique: I don’t see “learning” as a well-defined quest unless it also gets a future endpoint that is somewhat more pinned down — contrast FJB which has quite clear completion criteria. There could be many learning-related quests, though.</p>
+<p>In my PhD thesis I made an ontology of an imagined <a href="https://en.wikipedia.org/wiki/PlanetMath" rel="nofollow noopener">PlanetMath</a> “3.0”, with this quite notationally-juicy result (p. 117):</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/c26faafcc3d6e1be17d0bde3dd25457b1d0caadd.png" data-download-href="https://forum.openglobalmind.com/uploads/default/c26faafcc3d6e1be17d0bde3dd25457b1d0caadd" title="Screenshot from 2020-12-14 16-20-18"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/c26faafcc3d6e1be17d0bde3dd25457b1d0caadd_2_690x332.png" alt="Screenshot from 2020-12-14 16-20-18" data-base62-sha1="rK3SlXD8173sLHVsvzJ9ULfRHOJ" width="690" height="332" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/c26faafcc3d6e1be17d0bde3dd25457b1d0caadd_2_690x332.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/c26faafcc3d6e1be17d0bde3dd25457b1d0caadd_2_1035x498.png 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/c26faafcc3d6e1be17d0bde3dd25457b1d0caadd.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/c26faafcc3d6e1be17d0bde3dd25457b1d0caadd_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot from 2020-12-14 16-20-18</span><span class="informations">1074×518 32.3 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p>The first column, in words: articles link to articles, sometimes via explicit links; all objects in the system belong to some “project” [cf. quests].  Some other salient details:</p>
+<ul>
+<li>Projects are updated sequentially</li>
+<li>Projects “model” their outcome</li>
+<li>People share conjectural solutions to problems</li>
+<li>Not all conversations need to be fully public; some can be ephemeral</li>
+</ul>
+<p>Even though it’s of specialist interest, the content of PlanetMath could be another source of potentially interesting content BTW — I recently got a testimonial from some of the principals of <a href="https://topos.institute/networked-mathematics" rel="nofollow noopener">topos.institute who are using it to good effect</a>, and I plan to discuss with them in January). Topos seems to have a <a href="https://topos.institute/" rel="nofollow noopener">vison</a> that’s compatible with OGM’s, and maybe a team-up with them could be on the cards at some future date.</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/11</link>
+        <pubDate>Mon, 14 Dec 2020 17:03:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-11</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[Jerry]]></dc:creator>
+        <description><![CDATA[
+            <p>I created <a href="https://photos.app.goo.gl/r2fvkka58uee7WhB9">this video</a> to try to separate and explain roles, guilds, quests, partners and commons.</p>
+<p>All feedback welcome.</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/10</link>
+        <pubDate>Sun, 13 Dec 2020 06:10:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-10</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/kenhomer">@kenhomer</a> : Building civilizations separates us from everyone else out there.</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/9</link>
+        <pubDate>Wed, 09 Dec 2020 17:46:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-9</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/mila">@Mila</a>: Prefer Guardian or Steward rather than “Protector”.</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/8</link>
+        <pubDate>Tue, 08 Dec 2020 17:36:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-8</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/jerry">@Jerry</a> : Getting some kind of project management chart would give the “accounting” that would make this become more tangible.</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/7</link>
+        <pubDate>Tue, 08 Dec 2020 17:33:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-7</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="skreutzer" data-post="3" data-topic="450">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"> skreutzer:</div>
+<blockquote>
+<p>Probably not realistic to get such a thing set up and integrated into processes/activities from a technical point of view, considering the current stacks/“tools”/services.</p>
+</blockquote>
+</aside>
+<p>i remain optimistic, while not kidding myself it will be quick or easy</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/6</link>
+        <pubDate>Fri, 04 Dec 2020 22:53:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-6</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="holtzermann17" data-post="1" data-topic="450">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"> holtzermann17:</div>
+<blockquote>
+<p>Am I reaching too much here…?</p>
+</blockquote>
+</aside>
+<p>great work, reach on brother !! reach !!</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/5</link>
+        <pubDate>Fri, 04 Dec 2020 22:44:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-5</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>A sign-up list would be good (at some stage); for now I think a do-able objective would be to get a picture of the specific actions that people who are currently in these roles are doing (and, vice versa, check whether what people do here match the roles).  This seems like a kind of applied metacognition so I wonder if <a class="mention" href="/u/lovolution">@lovolution</a> and <a class="mention" href="/u/robert.best">@robert.best</a> might want to join in on this.</p>
+<p>Here’s one early research output from the early “paragogy” days:</p>
+<aside class="onebox pdf">
+  <header class="source">
+      <a href="https://oro.open.ac.uk/33221/1/corneli_chap_okada_book.pdf" target="_blank" rel="nofollow noopener">oro.open.ac.uk</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://oro.open.ac.uk/33221/1/corneli_chap_okada_book.pdf" target="_blank" rel="nofollow noopener"><span class="pdf-onebox-logo"></span></a>
+<h3><a href="https://oro.open.ac.uk/33221/1/corneli_chap_okada_book.pdf" target="_blank" rel="nofollow noopener">corneli_chap_okada_book.pdf</a></h3>
+
+<p class="filesize">1054.51 KB</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<blockquote>
+<p><strong>ABSTRACT</strong> Learning online has significantly evolved over the past decade due to the emergence of Web 2.0 and 3.0 technologies that facilitate social learning in adaptive online environments. The open content movement and the associated techniques of crowdsourcing (i.e. assimilating several small contributions into resources of high quality) have further influenced education on the Web. This chapter investigates the concept of crowdsourcing in education through an analysis of case studies dealing with two open online learning communities, Peer 2 Peer University, and <a href="http://PlanetMath.org" rel="nofollow noopener">PlanetMath.org</a>. The case studies proceed via an analysis of the various roles played by the individuals involved in each organization. The outcomes of this analysis are used to extract general recommendations for building online communities and applying crowdsourcing techniques in educational contexts.</p>
+</blockquote>
+<p>An analysis of OGM along these lines would be pretty straightforward (though obviously it would take some effort to do).</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/4</link>
+        <pubDate>Thu, 03 Dec 2020 12:33:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-4</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Heh, thanks for the reminder, forgot about these roles entirely by now. I was and continue about the following: somewhere there is or should be a people/account list with people self-assigning their preferred role(s), maybe asked for reviewing/update on a regular, more long-term basis (with options to switch/opt-out/opt-in at any time), and that would group people together as an organizing pattern/structure right there, giving some initial time to get used to it. For channeling notifications, dispatch offers/requests, etc. Like Howard Rheingold’s roles. Probably not realistic to get such a thing set up and integrated into processes/activities from a technical point of view, considering the current stacks/“tools”/services.</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/3</link>
+        <pubDate>Thu, 03 Dec 2020 00:20:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-3</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>The real questions would be: do these roles map <em>empirically</em> to things that people are actually doing around here?  And, is the pattern language at all descriptive, or only normative (in a weak sense)?</p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/2</link>
+        <pubDate>Wed, 02 Dec 2020 23:06:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-2</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+      <item>
+        <title>Roles, redux</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d like to run through the Roles described on the <a href="https://www.openglobalmind.com/about/team/roles" rel="nofollow noopener">OGM webpage</a> and see how they match the nascent pattern language that is <a href="https://forum.openglobalmind.com/t/ogm-workshop-group-1-output/413">OGM Workshop Group 1 output</a>.</p>
+<p><strong>A. Sensors</strong></p>
+<blockquote>
+<p>Sensors fulfill the primary research function of OGM. The primary responsibility of a sensor is to grow our knowledge base. Consider them similar to <strong>market research analysts</strong> responsible for key subject areas. They scan the environment and the world, searching for new thoughts, ideas, and insights to bring into the system.</p>
+</blockquote>
+<p>This seems related to <a href="https://forum.openglobalmind.com/t/defining-characteristics/415"><strong>Defining Characteristics</strong> : <em>Maps of the landscape</em></a> — insofar as sensors are also like “scouts” or “surveyors”; and furthermore, the map-making project influences the “view” of the landscape.</p>
+<p><strong>B. Protectors</strong></p>
+<blockquote>
+<p>Owners of how OGM interfaces with the outside world. Their responsibilities include API’s, IP, access controls, cyber security, membership, etc.</p>
+</blockquote>
+<p>Although the quote above is mostly technically worded, it sounds a lot like <a href="https://forum.openglobalmind.com/t/scope-of-work/417"> <strong>Scope of Work</strong> : <em>Debug individual and joint activities</em></a>, insofar as the “scope” of work defines a <em>boundary</em> and the boundary helps protect the organisation (I’m thinking of Stafford Beer’s model of the firm, and Ronald Coase’s).  It’s interesting to think of the “debugging” process as a form of immune system, as well, of which the boundary is only one part.</p>
+<p><strong>C. Fellows</strong></p>
+<blockquote>
+<p>Investors, leaders, and thought-provokers. To be a Fellow suggests a <strong>deeper level of partnership</strong> with OGM. These individuals (or organizations) grow and advance the fundamental mechanisms that support OGM. They help provide or procure funding for the pursuit of new projects and help guide thought leadership.</p>
+</blockquote>
+<p>Now this sounds a bit like <a href="https://forum.openglobalmind.com/t/values/416"> <strong>Values</strong> : <em>Practices of stewardship</em></a>.  The “deeper level” of partnership sounds like it may well involve a “stewardship” role. Or, put otherwise, these roles might feed into and sustain the “values” of the organization itself. One keeps in mind that “funding” and “Financial Capital” is only one of seven Community Captials!  The “thought leadership” might be along any of the other dimensions. This <a href="https://jods.mitpress.mit.edu/pub/resisting-reduction/release/17" rel="nofollow noopener">essay</a> by Joi Ito might be worth reading in connection with these themes.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/dcc85acbb9a08a20f33064c2dde4b17cf27c4279.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/dcc85acbb9a08a20f33064c2dde4b17cf27c4279" title="Screenshot from 2020-12-02 22-36-23"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/dcc85acbb9a08a20f33064c2dde4b17cf27c4279_2_690x339.jpeg" alt="Screenshot from 2020-12-02 22-36-23" data-base62-sha1="vv8iGAvNGtERmCbp7Y9vdEqVu5P" width="690" height="339" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/dcc85acbb9a08a20f33064c2dde4b17cf27c4279_2_690x339.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/dcc85acbb9a08a20f33064c2dde4b17cf27c4279_2_1035x508.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/dcc85acbb9a08a20f33064c2dde4b17cf27c4279_2_1380x678.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/dcc85acbb9a08a20f33064c2dde4b17cf27c4279_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot from 2020-12-02 22-36-23</span><span class="informations">1716×844 296 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p><strong>D. Makers (Builders)</strong></p>
+<blockquote>
+<p>The primary function of the “Makers”, or “Creators” is to create – or shepherd the creation of – tools and services.</p>
+</blockquote>
+<p>Although the link is a bit lose, I wonder if this is connected with <a href="https://forum.openglobalmind.com/t/strategic-objectives/419"><strong>Strategic Objectives</strong> : <em>Ongoing learning (w/ a shared memory artifact) and unlearning</em></a>, since the strategic objectives contribute to an articulation of the project, and as such are “tools for thought.”  Another thing that the makers <em>make</em> is memory.  Am I reaching too much here…?</p>
+<p><em>We are the music makers,</em><br>
+&nbsp;    <em>And we are the dreamers of dreams,</em><br>
+<em>Wandering by lone sea-breakers,</em><br>
+&nbsp;    <em>And sitting by desolate streams;—</em><br>
+<em>World-losers and world-forsakers,</em><br>
+&nbsp;    <em>On whom the pale moon gleams:</em><br>
+<em>Yet we are the movers and shakers</em><br>
+&nbsp;    <em>Of the world for ever, it seems.</em></p>
+<p><strong>E. StoryThreaders</strong></p>
+<blockquote>
+<p>The story-tellers of the group seek to make connections across multiple narratives, nodes, ideas, or strings of thought. They find creative ways to introduce these new stories to the global consciousness.</p>
+</blockquote>
+<p>This seems related to <a href="https://forum.openglobalmind.com/t/sustainability-model/421"> <strong>Sustainability Model</strong> : <em>Develop collective wisdom</em></a> — as I understand it.  (Thanks to <a class="mention" href="/u/kenhomer">@kenhomer</a>, <a class="mention" href="/u/jerry">@Jerry</a>, and <a class="mention" href="/u/mila">@Mila</a> for explaining to me what they mean by “story”.)  What I’m piecing together is that stories are “sustaining” because they are a kind of ground for mindfulness and discernment.  It was also interesting to learn that <a class="mention" href="/u/maparent">@maparent</a> that he recently read “After Buddhism” — a book that’s built mostly out of stories.</p>
+<p><strong>F. Participants</strong></p>
+<blockquote>
+<p>Users of OGM platform who may be makers, story threaders, protectors, or sensors in their own rights.</p>
+</blockquote>
+<p>This is an exact match for <a href="https://forum.openglobalmind.com/t/participants/418"> <strong>Participants</strong> : <em>Maintain sufficient cohesion to generate value</em></a>. I emphasised the need for “cohesion” and pulling together different resources (similar to the multiple capitals theory mentioned above, or the metaphor of a kombucha-like functionality of the map-makers/scouts mentioned above under <strong>Sensors</strong>.</p>
+<p><strong>G. Sponsors</strong></p>
+<blockquote>
+<p>Members who support OGM in the form of grants, scholarships, sponsorships, time, etc.</p>
+</blockquote>
+<p>This seems related to <a href="https://forum.openglobalmind.com/t/core-purpose/414"><strong>Core Purpose</strong> : <em>Connect the connectors to what they need to thrive</em></a> as I understood it.  People would “sponsor” the project by providing these needed resources.</p>
+<p><strong>H. Advisors</strong></p>
+<blockquote>
+<p>Members who offer guidance or advice to OGM. Perhaps more of a steering committee.</p>
+</blockquote>
+<p>I wonder if the steering committee might take charge of the <a href="https://forum.openglobalmind.com/t/ogm-workshop-group-1-output/413"><strong>Key Operating Principles and Practices</strong> : <em>Online with intention, and in the world with compassion</em></a> — after all, if they are going to “steer” or “operate” the project, they will need access to such a control system!</p>
+<p><strong>Guild Members</strong></p>
+<blockquote>
+<p>Membership in a guild <strong>distinguishes those that can be leveraged</strong> for guidance, advice, or inventive solutions in a given discipline or practice from other participants. An all-encompassing role, Guild Members are master practitioners of OGM capabilities. They are builders of the product, solution designers, and engagement seekers. Think of Guild Members as <strong>SME</strong>’s. For example, a developer with extensive experience developing API’s might be a guild member of an API-related guild. Similarly, a story-threader may be a member of a related guild. Furthermore, guild membership is not mutually exclusive. That is to say, a story-threader can belong to a “Builder” guild or a “Story-Threader” guild.</p>
+</blockquote>
+<p>Personally, I’m a bit less charmed by this “guild” language and have suggested  “<a href="https://forum.openglobalmind.com/t/guilds-which-ones/65/9">working groups</a>” as a more down-to-earth alternative term. That said, maybe the guild term means something important that I’m not grasping (as was the case with “story” until it was explained to me).  However, the other point to make at this juncture is that I have run out of link targets.  So, in the words of <a href="https://en.wikipedia.org/wiki/Pierre-Simon_Laplace" rel="nofollow noopener">Pierre-Simon Laplace</a>: <em>je n’avais pas besoin de cette hypothèse.</em></p>
+          <p><a href="https://forum.openglobalmind.com/t/roles-redux/450/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/roles-redux/450/1</link>
+        <pubDate>Wed, 02 Dec 2020 23:03:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-450-1</guid>
+        <source url="https://forum.openglobalmind.com/t/roles-redux/450.rss">Roles, redux</source>
+      </item>
+  </channel>
+</rss>

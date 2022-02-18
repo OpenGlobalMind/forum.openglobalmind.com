@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Responding via Email</title>
+    <link>https://forum.openglobalmind.com/t/responding-via-email/99</link>
+    <description>It appears that I can&#39;t just do a reply all to the email I get and have it post to the right discussion thread in here. Is that correct or have I mucked up something on my end?</description>
+    
+    <lastBuildDate>Sun, 02 Aug 2020 17:01:43 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forum.openglobalmind.com/t/responding-via-email/99.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Responding via Email</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Gene,</p>
+<p>Responding via email is just not set up yet – it’s one of the set-up steps we haven’t gotten to yet.  We should get to it later this week.</p>
+<p>Sorry for the inconvenience in the meantime!</p>
+          <p><a href="https://forum.openglobalmind.com/t/responding-via-email/99/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/responding-via-email/99/2</link>
+        <pubDate>Sun, 02 Aug 2020 17:01:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-99-2</guid>
+        <source url="https://forum.openglobalmind.com/t/responding-via-email/99.rss">Responding via Email</source>
+      </item>
+      <item>
+        <title>Responding via Email</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>It appears that I can’t just do a reply all to the email I get and have it post to the right discussion thread in here. Is that correct or have I mucked up something on my end?</p>
+          <p><a href="https://forum.openglobalmind.com/t/responding-via-email/99/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/responding-via-email/99/1</link>
+        <pubDate>Sun, 02 Aug 2020 15:31:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-99-1</guid>
+        <source url="https://forum.openglobalmind.com/t/responding-via-email/99.rss">Responding via Email</source>
+      </item>
+  </channel>
+</rss>

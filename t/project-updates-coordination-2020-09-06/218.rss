@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Project updates/coordination (2020-09-06)</title>
+    <link>https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218</link>
+    <description>So from the recent OGM check-in call I pick up that the plan is to expand the amount of weekly calls focusing on particular topics/domains/projects, and the check-in call for reporting back on progress and pick up reviews/feedback/direction.
+
+Is there somebody willing + able to extract and mine the findings and main topics covered in these? Is there machinery available by now or soon which would allow to get a guide/index into the recording as constructed/computed from the transcript? Could the result of such processing provided to the people in the OGM space? @peterkaminski  @max If the expanded events go on for some time without tool/methodological/curation support, I guess that would lead to some people not being able to attend and stay aware, and with a growing unstructured pile of material, there&#39;s less hope that it might get curated later and still be relevant or connect to the current state of thinking/conversation.
+
+There&#39;s the idea of [StoryThreading](https://forum.openglobalmind.com/t/storythreading-at-least-a-place-to-store-some-links-or-ideas-for-now) as a facilitation service/role, and OGM already and only increasingly so would urgently need that kind of organization and condensation, to help with navigating and orienting within the growing record and get something useful out of it without requiring an enormous time investment. But it looks like, as such curation/facilitation activities haven&#39;t started much on OGM content already (doogfooding, safe experiments in this sandbox, bootstrapping), the Storythreading discussion might be exclusively designed as a commercial offer, which is fine. So is it then the case that OGM itself ironically might remain without facilitation and curation for its own material?
+
+I also have seen several diagrams and system graph visualizations. Is there anybody around (including those who came up with the drawings/models as well as those who saw them) who would want to make a case for trying to translate them into actual processes, practices and/or tools to be used on/with OGM and other groups and beyond (meta)? And be it an experiment to learn something about these models and how to possibly apply/implement them. The other option is that they&#39;re capturing an observation of flows and relations which already exist, in which case it&#39;s the other way around, having a close look of how to measure/track these, if that&#39;s interesting or of use -- and if not, what would be the purpose of having the diagram then? :-) Onboarding would likely be a typical candidate, notifications about certain events maybe too, identifying and establishing connections, starting to make use of pattern languages and roles, and similar.
+
+These things should not be put in place simply because one is used to such instruments and approaches in the workplace, but have their benefit in channeling energy and attention in a beneficial way instead of scattering and burning/wasting them into the void, including your very own! As this is as of now mostly an open peer space, the precise design and mechanisms are all up for discussion, exploration and change, there could even be multiple ones used in parallel for each of the respective purposes.
+
+It&#39;s also interesting to observe that there&#39;s an uptake in the use of the mailing list again, instead of retiring it in favor of this Discourse forum. I think that this most likely comes from the impression that the mailing list is active push-out/broadcast, so people think their messages have a better change to get read, in comparison to posting to the forum that&#39;s of less immediate notification and pull. Does the Website link to the Discourse forum for registration (if that&#39;s even desirable and not counterproductive), or is the Google form onboarding to it? Plus, e-mail messages in many cases might end up in the inbox of the e-mail client together with many other messages, so it&#39;s more convenient to review them there, in comparison to have to log in into a Website and actively look up if there&#39;s something new (sometimes that might not be the case), or for replying. Same likely goes for online calls, as every attendee is spending lots of dedicated time and attention in exchange of receiving a small slot of the same in exchange. For progress of practical work, asynchronous task tracking tends to be far more efficient. Doesn&#39;t exclude discussing results from the operational departments in the context of more social exchanges or conversational formats, especially to accompany and direct iterative developments over longer periods of time.
+
+Haven&#39;t heard some news (no matter which direction, just a lack of clarity which can easily lead to a lot of loss and frustration down the line) regarding the publication and libre-free licensing of any of the material as a growing amount of it gets produced, so I wonder if all of these OGM things are to be considered trapped and stuck legally as well as technically, not much categorically and pratically different from putting it all into TheBrain as far as I&#39;m concerned.</description>
+    
+    <lastBuildDate>Thu, 10 Sep 2020 11:20:23 +0000</lastBuildDate>
+    <category>Action! Doing Things Now</category>
+    <atom:link href="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Project updates/coordination (2020-09-06)</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>I just realize: this week’s call around food, agriculture, soil, in part facilitated by <a class="mention" href="/u/klaus">@Klaus</a> did not take place because Jerry was otherwise occupied. Isn’t that strange? Why would the track not be able to take place without Jerry? Is that some artificial technical reason that you need access/permission to use some real-time conferencing call service that’s owned/operated by Jerry? What year is it?</p>
+          <p><a href="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/4</link>
+        <pubDate>Thu, 10 Sep 2020 11:20:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-218-4</guid>
+        <source url="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218.rss">Project updates/coordination (2020-09-06)</source>
+      </item>
+      <item>
+        <title>Project updates/coordination (2020-09-06)</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, could also be called some channels/flows. The output can be fed back into/as an input again, a feedback loop for amplification or learning or condensing/reducing or whatever. Wouldn’t such configuration (regardless whether merely observed/discovered or deliberately, intentionally constructed) concentrate energies, attentions, contributions, examinations and put them to good use, in comparison of leaving them diverging into all directions? Remembering the diagram <a class="mention" href="/u/neild">@NeilD</a> recently shared via the mailing list, or the drawings that are in the <a href="https://forum.openglobalmind.com/t/draft-vision-document/">Draft Vision Document</a>, and the other ones which were contributed. Doesn’t really matter what exactly the model or models are in particular, if they are accurate or work well, why not have a whole bunch of them and see how they might apply? Or for the proposal of roles - why not, as a fun exercise, collect them, have people sign themselves up if they want (can also switch roles or step out again, no obligations), for having conversations about the activities such a role would be occupied/tasked with in order to start some early, small experiments, including refining the roles or coming up with new ones or dropping one. I would assume that roles are about some process with input or output, it’s not just an abstract title/position, or is it?</p>
+          <p><a href="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/3</link>
+        <pubDate>Tue, 08 Sep 2020 11:35:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-218-3</guid>
+        <source url="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218.rss">Project updates/coordination (2020-09-06)</source>
+      </item>
+      <item>
+        <title>Project updates/coordination (2020-09-06)</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="skreutzer" data-post="1" data-topic="218">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"> skreutzer:</div>
+<blockquote>
+<p>I also have seen several diagrams and system graph visualizations. Is there anybody around (including those who came up with the drawings/models as well as those who saw them) who would want to make a case for trying to translate them into actual processes, practices and/or tools to be used on/with OGM and other groups and beyond (meta)?</p>
+</blockquote>
+</aside>
+<p>A process is defined by the input/process/output format.    Do you want models modified to such?   Which models?</p>
+          <p><a href="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/2</link>
+        <pubDate>Mon, 07 Sep 2020 11:47:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-218-2</guid>
+        <source url="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218.rss">Project updates/coordination (2020-09-06)</source>
+      </item>
+      <item>
+        <title>Project updates/coordination (2020-09-06)</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>So from the recent OGM check-in call I pick up that the plan is to expand the amount of weekly calls focusing on particular topics/domains/projects, and the check-in call for reporting back on progress and pick up reviews/feedback/direction.</p>
+<p>Is there somebody willing + able to extract and mine the findings and main topics covered in these? Is there machinery available by now or soon which would allow to get a guide/index into the recording as constructed/computed from the transcript? Could the result of such processing provided to the people in the OGM space? <a class="mention" href="/u/peterkaminski">@peterkaminski</a>  <a class="mention" href="/u/max">@max</a> If the expanded events go on for some time without tool/methodological/curation support, I guess that would lead to some people not being able to attend and stay aware, and with a growing unstructured pile of material, there’s less hope that it might get curated later and still be relevant or connect to the current state of thinking/conversation.</p>
+<p>There’s the idea of <a href="https://forum.openglobalmind.com/t/storythreading-at-least-a-place-to-store-some-links-or-ideas-for-now">StoryThreading</a> as a facilitation service/role, and OGM already and only increasingly so would urgently need that kind of organization and condensation, to help with navigating and orienting within the growing record and get something useful out of it without requiring an enormous time investment. But it looks like, as such curation/facilitation activities haven’t started much on OGM content already (doogfooding, safe experiments in this sandbox, bootstrapping), the Storythreading discussion might be exclusively designed as a commercial offer, which is fine. So is it then the case that OGM itself ironically might remain without facilitation and curation for its own material?</p>
+<p>I also have seen several diagrams and system graph visualizations. Is there anybody around (including those who came up with the drawings/models as well as those who saw them) who would want to make a case for trying to translate them into actual processes, practices and/or tools to be used on/with OGM and other groups and beyond (meta)? And be it an experiment to learn something about these models and how to possibly apply/implement them. The other option is that they’re capturing an observation of flows and relations which already exist, in which case it’s the other way around, having a close look of how to measure/track these, if that’s interesting or of use – and if not, what would be the purpose of having the diagram then? <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Onboarding would likely be a typical candidate, notifications about certain events maybe too, identifying and establishing connections, starting to make use of pattern languages and roles, and similar.</p>
+<p>These things should not be put in place simply because one is used to such instruments and approaches in the workplace, but have their benefit in channeling energy and attention in a beneficial way instead of scattering and burning/wasting them into the void, including your very own! As this is as of now mostly an open peer space, the precise design and mechanisms are all up for discussion, exploration and change, there could even be multiple ones used in parallel for each of the respective purposes.</p>
+<p>It’s also interesting to observe that there’s an uptake in the use of the mailing list again, instead of retiring it in favor of this Discourse forum. I think that this most likely comes from the impression that the mailing list is active push-out/broadcast, so people think their messages have a better change to get read, in comparison to posting to the forum that’s of less immediate notification and pull. Does the Website link to the Discourse forum for registration (if that’s even desirable and not counterproductive), or is the Google form onboarding to it? Plus, e-mail messages in many cases might end up in the inbox of the e-mail client together with many other messages, so it’s more convenient to review them there, in comparison to have to log in into a Website and actively look up if there’s something new (sometimes that might not be the case), or for replying. Same likely goes for online calls, as every attendee is spending lots of dedicated time and attention in exchange of receiving a small slot of the same in exchange. For progress of practical work, asynchronous task tracking tends to be far more efficient. Doesn’t exclude discussing results from the operational departments in the context of more social exchanges or conversational formats, especially to accompany and direct iterative developments over longer periods of time.</p>
+<p>Haven’t heard some news (no matter which direction, just a lack of clarity which can easily lead to a lot of loss and frustration down the line) regarding the publication and libre-free licensing of any of the material as a growing amount of it gets produced, so I wonder if all of these OGM things are to be considered trapped and stuck legally as well as technically, not much categorically and pratically different from putting it all into TheBrain as far as I’m concerned.</p>
+          <p><a href="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218/1</link>
+        <pubDate>Sun, 06 Sep 2020 16:40:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-218-1</guid>
+        <source url="https://forum.openglobalmind.com/t/project-updates-coordination-2020-09-06/218.rss">Project updates/coordination (2020-09-06)</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>&#39;Peeragogy Quest&#39;, Deluxe</title>
+    <link>https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534</link>
+    <description>Continuing the discussion from [Potential quests, reducks](https://forum.openglobalmind.com/t/potential-quests-reducks/519/2):
+
+[quote=&quot;holtzermann17, post:2, topic:519&quot;]
+**Project Name:** The Peeragogy Project
+**Envisioned goal:** Sources differ, but one goal would be to create a free, degree granting online university, peeragogy.edu.
+[/quote]
+A somewhat thought-through discussion of this goal is on offer in the paper &quot;[Patterns of Peeragogy](https://dlnext.acm.org/doi/abs/10.5555/3124497.3124531)&quot;. As for why it matters, one go-to source is the NYT article &quot;[How to Save the Amazon Without Condescending to Brazil](https://www.nytimes.com/2019/08/26/opinion/amazon-rainforest-fire.html)&quot; by  Roberto Mangabeira Unger:
+
+ &gt; The only system with a chance of saving both the people and the trees is a [knowledge economy](https://www.nytimes.com/2018/09/16/opinion/what-do-we-actually-know-about-the-economy-wonkish.html). 
+
+That&#39;s not going to magically happen without some effort.  Peeragogy, as a synthesis of peer learning and peer production can help.  BUT the available time is limited, hence a call to action. Obviously there are lots of other calls to action around &quot;ecology&quot;, &quot;citizen action&quot; and so on; Peeragogy — like some of the other efforts around OGM — should ideally help many such efforts work better.  
+
+[quote=&quot;holtzermann17, post:2, topic:519&quot;]
+**Other potential outcomes:** Short of creating a new university, we can still create great online learning environments and activities; in particular we document how other people do this, and amass a catalogue of “good practice”. Historically we’ve done this in the Peeragogy Handbook ([peeragogy.org](https://peeragogy.org/)), with “semi-regular” new editions documenting what we learn.
+**Time available:** ∞ or 5 years, depending on who you ask
+**Accountability structure among participants:** We ask participants to adhere to a set of [Community Guidelines](https://lists.peeragogy.org/pipermail/peeragogy-handbook/Week-of-Mon-20201130/000001.html). Contributors to the Peeragogy Handbook need to sign the [CC0 Waiver](https://peeragogy.org/license.html) which permits unlimited reuse.
+**Any associated Mini-Quests:** For the 4th Edition of the Peeragogy Handbook we want to produce a collection of “mini-Handbooks” that can help people solve various practical problems. We need more examples!
+[/quote]
+
+I&#39;ll mention that I&#39;m &quot;live blogging&quot; a plan of revisions for the Peeragogy Handbook v4 via the &quot;Peeragogy-Handbook&quot; mailing list: https://lists.peeragogy.org/mailman/listinfo/peeragogy-handbook — in effect, the small &quot;actions&quot; I&#39;m describing there are mini-Handbooks (but for contributors rather than passive readers).  I thank @lovolution @skreutzer and others who participated in the MetaCAugs/Augment Reading Group in November 2019 for taking on a significant &quot;editorial&quot; role!
+
+That&#39;s is an important part of the workflow that we only figured out ≈3 years after publishing the latest edition of the Handbook!  Hopefully we can reduce the cycle time for the 4th Ed.
+
+[quote=&quot;holtzermann17, post:2, topic:519&quot;]
+**Next Steps:**
+
+* Having created this “potential quest” description as an example, I would like to receive any **feedback** on whether or not it works as a call to action. I am not afraid to “fail” publicly so if it doesn’t really work, please give constructive feedback. One of my aims with this example is to help figure out what a good way to describe “quests” (in general) is (although I do not specifically find the terminology 100% applicable, e.g., in the ∞ mode of the Peeragogy project, we dispense with notions like “goals” and look at learning in pure process terms).
+* Concretely, one way to get your feet wet would be to watch/listen to our upcoming podcast on Data Ethics, to stream January 13th, 1500 UTC (https://youtu.be/v15f07e0ahQ) — This is our 5th podcast episode and OGM would be an interesting topic for a future one!
+* And we invite contributions to the Peeragogy Handbook from interested participants
+* … And we have numerous other activities going on across software, writing, editing, media production, teaching, etc., so if you’re interested, just ask me.
+* One additional interesting thing about Peeragogy is that we’re currently revitalising our method of using “design patterns” to manage next steps.
+[/quote]
+I hope that some people will take me up on my request for feedback/critique. It would be nice to have a cohort of quest-level &quot;peers&quot; so that we could learn from each other at the project level. Is OGM itself a quest? Are there others? 
+
+[quote=&quot;holtzermann17, post:2, topic:519&quot;]
+**How the world was before and what sparked the journey (why this matters):** Before peeragogy, there was a prototype, “paragogy”: and before paragogy, there was no identified practical theory of online peer produced peer learning. (There was Benkler’s admirable theory of peer production, which served as inspiration, and Knowles’s theory of “andragogy” which served as a kind of interlocutor.) This meant that organizations that were doing peer learning were trying “whatever” and efforts to build and share good practices were limited. This matters because, while we have great state-sanctioned resources like *the public domain* , these don’t come with instructions! Furthermore, in terms of a “need” the world has many giant problems (too many to list here) that are going to require adaptation and learning at a collective level.
+**What the great challenge was/is (what it is):** Creating the Handbook is an example that has served to get the process started. Increasingly, the Handbook is now accompanied by software and other media, which will help us make the material accessible and applicable to as many people as possible. But, the scaling up process is still a bit “stuck”: e.g., we haven’t yet used the Handbook as a textbook in a formal course. Furthermore finding contributors who want to engage with this process can be difficult, even though it *should (perhaps) be* easy. Create a thriving global collaboration based on “sharing” and “learning” — these Kindergarten concepts — is certainly possible! But doing this in a timely fashion could use the help/input of more people.
+**What attracted the powerful collaboration (who’s involved and the pieces they bring):** Some of the most involved participants have been Charlie Danoff, Howard Rheingold, Charlotte Pierce, Paola Ricaurte, and Lisa Snow McDonald. Over 30 people have signed the waiver, and many more have joined discussions. Stephan Kreutzer has been taking the lead on software support in the sense of a “neutral data department”. We also have support from the Oregon State University Open Source Lab.
+**What is the world we envision after (outcomes):** Considered as a “question”, it goes something like this:
+
+&gt; *would it be possible for everyone in the world to have access to high-quality learning support, so that we could do away with the old exclusive models of education, and help everyone find meaningful work, that is, moreover, in harmony with nature?*
+[/quote]
+
+Any ideas about who are the &quot;problem holders&quot; here?  I suppose I could reach out to R.M. Unger... his Nesta Whitepaper also seems relevant: https://www.nesta.org.uk/report/imagination-unleashed/
+
+An obvious point of critique is that something on a ≈5 year scale needs to be broken down into smaller bite-sized pieces to become more actionable.  Are these also quests, or are they merely &quot;tasks&quot;?  Either way, part of the breakdown should also be some attention towards making them meaningful/valuable — so far, &quot;learning&quot; has been the main incentive in focus, but some of my other efforts also try to engage with peer production as an economic force: that&#39;s described at https://hyperreal.enterprises/ with ongoing work appearing at https://exp2exp.github.io/index.html and brief updates at https://exp2exp.github.io/feed.xml.
+
+I want to emphasise that as a &quot;call to action&quot; there are many options here: reading, reflection, discourse, writing, viewing, criticising...</description>
+    
+    <lastBuildDate>Mon, 11 Jan 2021 12:46:27 +0000</lastBuildDate>
+    <category>Designing the System</category>
+    <atom:link href="https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>&#39;Peeragogy Quest&#39;, Deluxe</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p>right on joe, stellar exposition !!</p>
+<p>setting a high bar !!</p>
+          <p><a href="https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534/2</link>
+        <pubDate>Mon, 11 Jan 2021 12:46:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-534-2</guid>
+        <source url="https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534.rss">&#39;Peeragogy Quest&#39;, Deluxe</source>
+      </item>
+      <item>
+        <title>&#39;Peeragogy Quest&#39;, Deluxe</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Continuing the discussion from <a href="https://forum.openglobalmind.com/t/potential-quests-reducks/519/2">Potential quests, reducks</a>:</p>
+<aside class="quote no-group" data-username="holtzermann17" data-post="2" data-topic="519">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"><a href="https://forum.openglobalmind.com/t/potential-quests-reducks/519/2">Potential quests, reducks</a>
+</div>
+<blockquote>
+<p><strong>Project Name:</strong> The Peeragogy Project<br>
+<strong>Envisioned goal:</strong> Sources differ, but one goal would be to create a free, degree granting online university, peeragogy.edu.</p>
+</blockquote>
+</aside>
+<p>A somewhat thought-through discussion of this goal is on offer in the paper “<a href="https://dlnext.acm.org/doi/abs/10.5555/3124497.3124531" rel="nofollow noopener">Patterns of Peeragogy</a>”. As for why it matters, one go-to source is the NYT article “<a href="https://www.nytimes.com/2019/08/26/opinion/amazon-rainforest-fire.html" rel="nofollow noopener">How to Save the Amazon Without Condescending to Brazil</a>” by  Roberto Mangabeira Unger:</p>
+<blockquote>
+<p>The only system with a chance of saving both the people and the trees is a <a href="https://www.nytimes.com/2018/09/16/opinion/what-do-we-actually-know-about-the-economy-wonkish.html" rel="nofollow noopener">knowledge economy</a>.</p>
+</blockquote>
+<p>That’s not going to magically happen without some effort.  Peeragogy, as a synthesis of peer learning and peer production can help.  BUT the available time is limited, hence a call to action. Obviously there are lots of other calls to action around “ecology”, “citizen action” and so on; Peeragogy — like some of the other efforts around OGM — should ideally help many such efforts work better.</p>
+<aside class="quote no-group" data-username="holtzermann17" data-post="2" data-topic="519">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"><a href="https://forum.openglobalmind.com/t/potential-quests-reducks/519/2">Potential quests, reducks</a>
+</div>
+<blockquote>
+<p><strong>Other potential outcomes:</strong> Short of creating a new university, we can still create great online learning environments and activities; in particular we document how other people do this, and amass a catalogue of “good practice”. Historically we’ve done this in the Peeragogy Handbook (<a href="https://peeragogy.org/" rel="nofollow noopener">peeragogy.org</a>), with “semi-regular” new editions documenting what we learn.<br>
+<strong>Time available:</strong> ∞ or 5 years, depending on who you ask<br>
+<strong>Accountability structure among participants:</strong> We ask participants to adhere to a set of <a href="https://lists.peeragogy.org/pipermail/peeragogy-handbook/Week-of-Mon-20201130/000001.html" rel="nofollow noopener">Community Guidelines</a>. Contributors to the Peeragogy Handbook need to sign the <a href="https://peeragogy.org/license.html" rel="nofollow noopener">CC0 Waiver</a> which permits unlimited reuse.<br>
+<strong>Any associated Mini-Quests:</strong> For the 4th Edition of the Peeragogy Handbook we want to produce a collection of “mini-Handbooks” that can help people solve various practical problems. We need more examples!</p>
+</blockquote>
+</aside>
+<p>I’ll mention that I’m “live blogging” a plan of revisions for the Peeragogy Handbook v4 via the “Peeragogy-Handbook” mailing list: <a href="https://lists.peeragogy.org/mailman/listinfo/peeragogy-handbook" rel="nofollow noopener">https://lists.peeragogy.org/mailman/listinfo/peeragogy-handbook</a> — in effect, the small “actions” I’m describing there are mini-Handbooks (but for contributors rather than passive readers).  I thank <a class="mention" href="/u/lovolution">@lovolution</a> <a class="mention" href="/u/skreutzer">@skreutzer</a> and others who participated in the MetaCAugs/Augment Reading Group in November 2019 for taking on a significant “editorial” role!</p>
+<p>That’s is an important part of the workflow that we only figured out ≈3 years after publishing the latest edition of the Handbook!  Hopefully we can reduce the cycle time for the 4th Ed.</p>
+<aside class="quote no-group" data-username="holtzermann17" data-post="2" data-topic="519">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"><a href="https://forum.openglobalmind.com/t/potential-quests-reducks/519/2">Potential quests, reducks</a>
+</div>
+<blockquote>
+<p><strong>Next Steps:</strong></p>
+<ul>
+<li>Having created this “potential quest” description as an example, I would like to receive any <strong>feedback</strong> on whether or not it works as a call to action. I am not afraid to “fail” publicly so if it doesn’t really work, please give constructive feedback. One of my aims with this example is to help figure out what a good way to describe “quests” (in general) is (although I do not specifically find the terminology 100% applicable, e.g., in the ∞ mode of the Peeragogy project, we dispense with notions like “goals” and look at learning in pure process terms).</li>
+<li>Concretely, one way to get your feet wet would be to watch/listen to our upcoming podcast on Data Ethics, to stream January 13th, 1500 UTC (<a href="https://youtu.be/v15f07e0ahQ" rel="nofollow noopener">https://youtu.be/v15f07e0ahQ</a>) — This is our 5th podcast episode and OGM would be an interesting topic for a future one!</li>
+<li>And we invite contributions to the Peeragogy Handbook from interested participants</li>
+<li>… And we have numerous other activities going on across software, writing, editing, media production, teaching, etc., so if you’re interested, just ask me.</li>
+<li>One additional interesting thing about Peeragogy is that we’re currently revitalising our method of using “design patterns” to manage next steps.</li>
+</ul>
+</blockquote>
+</aside>
+<p>I hope that some people will take me up on my request for feedback/critique. It would be nice to have a cohort of quest-level “peers” so that we could learn from each other at the project level. Is OGM itself a quest? Are there others?</p>
+<aside class="quote no-group quote-modified" data-username="holtzermann17" data-post="2" data-topic="519">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"><a href="https://forum.openglobalmind.com/t/potential-quests-reducks/519/2">Potential quests, reducks</a>
+</div>
+<blockquote>
+<p><strong>How the world was before and what sparked the journey (why this matters):</strong> Before peeragogy, there was a prototype, “paragogy”: and before paragogy, there was no identified practical theory of online peer produced peer learning. (There was Benkler’s admirable theory of peer production, which served as inspiration, and Knowles’s theory of “andragogy” which served as a kind of interlocutor.) This meant that organizations that were doing peer learning were trying “whatever” and efforts to build and share good practices were limited. This matters because, while we have great state-sanctioned resources like <em>the public domain</em> , these don’t come with instructions! Furthermore, in terms of a “need” the world has many giant problems (too many to list here) that are going to require adaptation and learning at a collective level.<br>
+<strong>What the great challenge was/is (what it is):</strong> Creating the Handbook is an example that has served to get the process started. Increasingly, the Handbook is now accompanied by software and other media, which will help us make the material accessible and applicable to as many people as possible. But, the scaling up process is still a bit “stuck”: e.g., we haven’t yet used the Handbook as a textbook in a formal course. Furthermore finding contributors who want to engage with this process can be difficult, even though it <em>should (perhaps) be</em> easy. Create a thriving global collaboration based on “sharing” and “learning” — these Kindergarten concepts — is certainly possible! But doing this in a timely fashion could use the help/input of more people.<br>
+<strong>What attracted the powerful collaboration (who’s involved and the pieces they bring):</strong> Some of the most involved participants have been Charlie Danoff, Howard Rheingold, Charlotte Pierce, Paola Ricaurte, and Lisa Snow McDonald. Over 30 people have signed the waiver, and many more have joined discussions. Stephan Kreutzer has been taking the lead on software support in the sense of a “neutral data department”. We also have support from the Oregon State University Open Source Lab.<br>
+<strong>What is the world we envision after (outcomes):</strong> Considered as a “question”, it goes something like this:</p>
+<blockquote>
+<p><em>would it be possible for everyone in the world to have access to high-quality learning support, so that we could do away with the old exclusive models of education, and help everyone find meaningful work, that is, moreover, in harmony with nature?</em></p>
+</blockquote>
+</blockquote>
+</aside>
+<p>Any ideas about who are the “problem holders” here?  I suppose I could reach out to R.M. Unger… his Nesta Whitepaper also seems relevant: <a href="https://www.nesta.org.uk/report/imagination-unleashed/" rel="nofollow noopener">https://www.nesta.org.uk/report/imagination-unleashed/</a></p>
+<p>An obvious point of critique is that something on a ≈5 year scale needs to be broken down into smaller bite-sized pieces to become more actionable.  Are these also quests, or are they merely “tasks”?  Either way, part of the breakdown should also be some attention towards making them meaningful/valuable — so far, “learning” has been the main incentive in focus, but some of my other efforts also try to engage with peer production as an economic force: that’s described at <a href="https://hyperreal.enterprises/" rel="nofollow noopener">https://hyperreal.enterprises/</a> with ongoing work appearing at <a href="https://exp2exp.github.io/index.html" rel="nofollow noopener">https://exp2exp.github.io/index.html</a> and brief updates at <a href="https://exp2exp.github.io/feed.xml" rel="nofollow noopener">https://exp2exp.github.io/feed.xml</a>.</p>
+<p>I want to emphasise that as a “call to action” there are many options here: reading, reflection, discourse, writing, viewing, criticising…</p>
+          <p><a href="https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534/1</link>
+        <pubDate>Mon, 11 Jan 2021 09:49:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-534-1</guid>
+        <source url="https://forum.openglobalmind.com/t/peeragogy-quest-deluxe/534.rss">&#39;Peeragogy Quest&#39;, Deluxe</source>
+      </item>
+  </channel>
+</rss>

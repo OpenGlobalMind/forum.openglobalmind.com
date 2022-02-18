@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Help Needed category</title>
+    <link>https://forum.openglobalmind.com/t/about-the-help-needed-category/344</link>
+    <description>Post a new topic here when you need help. Reply to a topic to offer to help.</description>
+    
+    <lastBuildDate>Sun, 08 Nov 2020 16:14:43 +0000</lastBuildDate>
+    <category>Help Needed</category>
+    <atom:link href="https://forum.openglobalmind.com/t/about-the-help-needed-category/344.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Help Needed category</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Post a new topic here when you need help. Reply to a topic to offer to help.</p>
+          <p><a href="https://forum.openglobalmind.com/t/about-the-help-needed-category/344/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/about-the-help-needed-category/344/1</link>
+        <pubDate>Sun, 08 Nov 2020 15:41:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-344-1</guid>
+        <source url="https://forum.openglobalmind.com/t/about-the-help-needed-category/344.rss">About the Help Needed category</source>
+      </item>
+  </channel>
+</rss>

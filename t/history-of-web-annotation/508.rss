@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>History of Web Annotation</title>
+    <link>https://forum.openglobalmind.com/t/history-of-web-annotation/508</link>
+    <description>I wanted to start a resource topic about the history of web annotation.
+
+Back in the day, I hung out with some of the people (centered around Ka-Ping Yee) doing Crit/CritSuite, but much info of which has link-rotted away:
+
+* [Enhancing the World Wide Web](https://foresight.org/WebEnhance/)
+* [CritLink: Better Hyperlinks for the WWW](https://web.archive.org/web/20010421051642/http://crit.org/~ping/ht98.html)
+
+A little later, there was Third Voice:
+
+* [CritSuite got there before Third Voice\!](http://www.doc.ic.ac.uk/~ids/dotdot/misc/research_related/AnnotatingTheWeb/locally_hosted_annotations/CritSuite_got_there_before_Third_Voice.html)
+
+I remember using Third Voice a little, too.
+
+Nowadays, there is Hypothesis:
+
+* [Hypothesis](https://web.hypothes.is/)
+
+One of the wonderments of the WWW for me is that web annotation has never become first class.</description>
+    
+    <lastBuildDate>Sun, 14 Feb 2021 19:47:08 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/history-of-web-annotation/508.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>History of Web Annotation</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Reminder by Deyan that there’s also XPointer.</p>
+<p>Other than that, support for annotations which never got released with Mosaic, but the Web is pretty late and primitive in terms of text/hypertext anyway, so no wonder.</p>
+          <p><a href="https://forum.openglobalmind.com/t/history-of-web-annotation/508/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/history-of-web-annotation/508/5</link>
+        <pubDate>Sun, 14 Feb 2021 19:47:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-508-5</guid>
+        <source url="https://forum.openglobalmind.com/t/history-of-web-annotation/508.rss">History of Web Annotation</source>
+      </item>
+      <item>
+        <title>History of Web Annotation</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>I heard them say at least once that they would like to see other services/tools supporting Web Annotation as well. There are a few libre-freely licensed ones of course, but it would take some work to independently add/support it everywhere, so out of convenience (and centralization effect), Hypothes.is ends up the main place/hoster for/of annotation data. This leaves them with the unresolved copyright issues as the annotations don’t/can’t go together with the annotated source material. Sure they’re trying all kinds of workarounds, like <a href="https://web.hypothes.is/help/what-is-the-via-proxy/" rel="nofollow noopener">acting as a proxy</a> (is it embedding or is it via their server as a potentially copyright-infringing distributor lacking permission?) overlaying the live source material on the Web, or archiving via the copyright exemptions for libraries to avoid <a href="https://www.slideshare.net/maturban/quantifying-orphaned-annotations-in-hypothes" rel="nofollow noopener">annotations getting orphaned</a> (but that gets the source material stuck/trapped in a library, can’t move out or be redistributed or worked on/with independently from the library – also note that these slides/numbers are from 2015), or there’s an online annotator service based on people <a href="https://docdrop.org" rel="nofollow noopener">uploading the source material</a> (and in the process potentially violating copyright, disclosing confidential information, and orphaning the annotations right away as the source material isn’t public/shareable). In any event, at least there’s <a href="https://jonudell.info/h/facet/?max=50" rel="nofollow noopener">this interface</a> to get your own and other’s annotations out from Hypothes.is again. And then, how to apply them independently onto the original sources, if not orphaned already or the result remaining non-shareable/redistributable/publishable? Why then annotate in the first place, if not on your own local copies of your personal archive, at best?</p>
+          <p><a href="https://forum.openglobalmind.com/t/history-of-web-annotation/508/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/history-of-web-annotation/508/4</link>
+        <pubDate>Tue, 12 Jan 2021 12:08:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-508-4</guid>
+        <source url="https://forum.openglobalmind.com/t/history-of-web-annotation/508.rss">History of Web Annotation</source>
+      </item>
+      <item>
+        <title>History of Web Annotation</title>
+        <dc:creator><![CDATA[BillSeitz]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, I’m bummed they built a complex/scalable stack instead of something simpler which was focused on being easily/cheaply hosted for a smallish group.</p>
+          <p><a href="https://forum.openglobalmind.com/t/history-of-web-annotation/508/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/history-of-web-annotation/508/3</link>
+        <pubDate>Thu, 07 Jan 2021 04:24:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-508-3</guid>
+        <source url="https://forum.openglobalmind.com/t/history-of-web-annotation/508.rss">History of Web Annotation</source>
+      </item>
+      <item>
+        <title>History of Web Annotation</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Here’s a way to think about this: Web Annotation is totally cool, W3C media fragments finally put to some better use and standardizing the semantics. Hypothes.is doing all the work is a great contribution, but on the other hand, very unhealthy to just have them around as the major implementation, also again a very dumb idea to slap Hypothes.is onto Websites, to become dependent on their server/domain, plus it’s simply avoiding the copyright issues, so what’s the point of annotating restrictively licensed material or such that can simply vanish from the Web, and even if you have a local copy, you’re not permitted to share or re-publish, orphaning the annotations. Instead, better add independent Web Annotation implementations everywhere and annotate libre-freely licensed repositories.</p>
+<p>Other than that, Ted Nelson has his <a href="https://xanadu.com/xuDemoPage.html" rel="nofollow noopener">Edit Decision Lists</a> around for quite some time as well, even with new implementations of sorts in the form of the xanaviewer and span selector.</p>
+          <p><a href="https://forum.openglobalmind.com/t/history-of-web-annotation/508/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/history-of-web-annotation/508/2</link>
+        <pubDate>Tue, 29 Dec 2020 18:18:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-508-2</guid>
+        <source url="https://forum.openglobalmind.com/t/history-of-web-annotation/508.rss">History of Web Annotation</source>
+      </item>
+      <item>
+        <title>History of Web Annotation</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>I wanted to start a resource topic about the history of web annotation.</p>
+<p>Back in the day, I hung out with some of the people (centered around Ka-Ping Yee) doing Crit/CritSuite, but much info of which has link-rotted away:</p>
+<ul>
+<li><a href="https://foresight.org/WebEnhance/">Enhancing the World Wide Web</a></li>
+<li><a href="https://web.archive.org/web/20010421051642/http://crit.org/~ping/ht98.html">CritLink: Better Hyperlinks for the WWW</a></li>
+</ul>
+<p>A little later, there was Third Voice:</p>
+<ul>
+<li><a href="http://www.doc.ic.ac.uk/~ids/dotdot/misc/research_related/AnnotatingTheWeb/locally_hosted_annotations/CritSuite_got_there_before_Third_Voice.html">CritSuite got there before Third Voice!</a></li>
+</ul>
+<p>I remember using Third Voice a little, too.</p>
+<p>Nowadays, there is Hypothesis:</p>
+<ul>
+<li><a href="https://web.hypothes.is/">Hypothesis</a></li>
+</ul>
+<p>One of the wonderments of the WWW for me is that web annotation has never become first class.</p>
+          <p><a href="https://forum.openglobalmind.com/t/history-of-web-annotation/508/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/history-of-web-annotation/508/1</link>
+        <pubDate>Tue, 29 Dec 2020 17:42:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-508-1</guid>
+        <source url="https://forum.openglobalmind.com/t/history-of-web-annotation/508.rss">History of Web Annotation</source>
+      </item>
+  </channel>
+</rss>

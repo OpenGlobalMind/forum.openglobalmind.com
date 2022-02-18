@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Multi-relational / hyper-relational knowledge graphs</title>
+    <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282</link>
+    <description>I ran across a mention of &quot;Message Passing for Hyper-Relational Knowledge Graphs&quot; (a #GNN architecture for hyper-relational KGs like @wikidata) and wanted to capture it somewhere, so here&#39;s a new thread. :slight_smile:
+
+Here&#39;s the twitter thread about it:
+
+https://twitter.com/michael_galkin/status/1305855466115870720
+ 
+Also, here&#39;s a good intro presentation to [CompGCN (Composition-based Multi-Relational Graph Convolutional Networks)](https://shikhar-vashishth.github.io/assets/pdf/slides_compgcn.pdf) (PDF).</description>
+    
+    <lastBuildDate>Thu, 12 Nov 2020 16:13:13 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicons/favicon.svg" class="site-icon" width="32" height="32">
+      <a href="https://github.com/migalkin/StarE" target="_blank" rel="nofollow noopener">GitHub</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/original/1X/c3ded617fdcf400048935c63e33e80054c8b92e7.png" class="thumbnail onebox-avatar" width="420" height="420">
+
+<h3><a href="https://github.com/migalkin/StarE" target="_blank" rel="nofollow noopener">migalkin/StarE</a></h3>
+
+<p>EMNLP 2020: Message Passing for Hyper-Relational Knowledge Graphs - migalkin/StarE</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/9</link>
+        <pubDate>Thu, 12 Nov 2020 16:13:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-9</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://static.arxiv.org/static/browse/0.3.2.6/images/icons/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://arxiv.org/abs/2009.10847" target="_blank" rel="nofollow noopener">arXiv.org</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="16" height="16">
+
+<h3><a href="https://arxiv.org/abs/2009.10847" target="_blank" rel="nofollow noopener">Message Passing for Hyper-Relational Knowledge Graphs</a></h3>
+
+<p>Hyper-relational knowledge graphs (KGs) (e.g., Wikidata) enable associating
+additional key-value pairs along with the main triple to disambiguate, or
+restrict the validity of a fact. In this work, we propose a message passing
+based graph encoder -...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/8</link>
+        <pubDate>Thu, 12 Nov 2020 16:09:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-8</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p>As shown above, search for the term multi-relational graph on wikipedia returns no matches.<br>
+Yet you can find articles matching the term like<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <a href="https://hyp.is/NmvcIiDFEeux9lPiuloqFQ/www.semanticscholar.org/paper/A-path-algebra-for-multi-relational-graphs-Rodriguez-Neubauer/bb9ddc6d1767056af520c361883e454e5d48dc8a" target="_blank" rel="nofollow noopener">Hypothesis</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b.png" class="thumbnail" width="690" height="388" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b_2_10x10.png"></div>
+
+<h3><a href="https://hyp.is/NmvcIiDFEeux9lPiuloqFQ/www.semanticscholar.org/paper/A-path-algebra-for-multi-relational-graphs-Rodriguez-Neubauer/bb9ddc6d1767056af520c361883e454e5d48dc8a" target="_blank" rel="nofollow noopener">A path algebra for multi-relational graphs</a></h3>
+
+<p>multi-relational graph
+![](https://d3i71xaburhd42.cloudfront.net/bb9ddc6d1767056af520c361883e454e5d48dc8a/250px/4-Figure1-1.png)</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>I am a long time researcher in this space, yet haven’t come cross it.</p>
+<p>Google and other search engine do a great job of auto-associative recall, i.e. giving you all the documents on the web that contain the terms you search for.</p>
+<p>But as Engelbart asked back in 2007 at Google:<br>
+</p><div class="onebox lazyYT lazyYT-container" data-youtube-id="xQx-tuW9A4Q" data-youtube-title="Inventing the Computer Mouse | Douglas Engelbart | Talks at Google" data-parameters="feature=oembed&amp;wmode=opaque&amp;start=1063">
+  <a href="https://www.youtube.com/watch?v=xQx-tuW9A4Q" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/b656af638701416d531effd61fc55c151a0a0d56.jpeg" title="Inventing the Computer Mouse | Douglas Engelbart | Talks at Google" width="690" height="388">
+  </a>
+</div>
+
+<p>“Google might be proudly saying, we are doing a lot to help people find things on the net frontier,<br>
+Who is doing the job of maybe making better maps understanding the frontier”</p>
+<p>Organizing knowledge right at the edges of the “endless frontier” of knowledge from inception, through indwelling and growth in networks of people who care, to the point of it being notable and part of “The Common Record”. Empower People at the edges to do it for themselves, share and have conversations over their HyperMaps,of the edges, federate these conversations in emergent communities.</p>
+<p>With the Wiki, Ward Cunningham gave us the ability to “create a new linked” page when you reach the edge of your knowledge"</p>
+<p>What we need is for everybody to be able to do that, and at the same time have conversations with other people in an interest based emergent social network of thoughts and thinkers.</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <a href="https://hyp.is/9_SmgCDKEeuXxO8mN5IZmA/docdrop.org/video/xQx-tuW9A4Q/" target="_blank" rel="nofollow noopener">Hypothesis</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b.png" class="thumbnail" width="690" height="388" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b_2_10x10.png"></div>
+
+<h3><a href="https://hyp.is/9_SmgCDKEeuXxO8mN5IZmA/docdrop.org/video/xQx-tuW9A4Q/" target="_blank" rel="nofollow noopener">Google might be proudly say okay we're doing a lot to help people find things...</a></h3>
+
+<p>Google and other search engine do a great job of auto-associative recall, i.e. giving you all the documents on the web that contain the terms you search for.
+
+But as Engelbart asked back in 2007 at...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/014e65420f36f942304e1d74b5ddafaba3d0b71a.png" data-download-href="https://forum.openglobalmind.com/uploads/default/014e65420f36f942304e1d74b5ddafaba3d0b71a" title="image"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/014e65420f36f942304e1d74b5ddafaba3d0b71a_2_625x500.png" alt="image" data-base62-sha1="byre31ZM9XzDFpyJk7y8VQV1Im" width="625" height="500" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/014e65420f36f942304e1d74b5ddafaba3d0b71a_2_625x500.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/014e65420f36f942304e1d74b5ddafaba3d0b71a_2_937x750.png 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/014e65420f36f942304e1d74b5ddafaba3d0b71a_2_1250x1000.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/014e65420f36f942304e1d74b5ddafaba3d0b71a_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1280×1024 370 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/7</link>
+        <pubDate>Sat, 07 Nov 2020 07:42:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-7</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Gyuri" data-post="4" data-topic="282">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/gyuri/40/68_2.png" class="avatar"> Gyuri:</div>
+<blockquote>
+<p>more relevant if you have an interest in Knowledge Graphs.<br>
+It does not (yet) have a wikipedia entry.<br>
+It is all about the same “Thing”, the elephant in the room I like to call “Symbolic Unity”, all mutually arising from the Metaphysics of Adjacency</p>
+</blockquote>
+</aside>
+<p>tuning in and appreciating the language here<br>
+also finding <a href="https://en.wikipedia.org/wiki/Knowledge_graph?wprov=sfsi1" rel="nofollow noopener">https://en.wikipedia.org/wiki/Knowledge_graph?wprov=sfsi1</a> — what doesn’t have an entry yet, did you name “it” or as yet unnamed?</p>
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/6</link>
+        <pubDate>Sat, 31 Oct 2020 18:01:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-6</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p>Created an <a href="https://www.are.na/gyuri-lajos/explore-arena" rel="nofollow noopener">Are.na</a> channel</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <a href="https://www.are.na/gyuri-trailmarker/mindgraph" target="_blank" rel="nofollow noopener">are.na</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:600/434;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/bae7c1f233f959d2a57064c2336ad95926b654d4.png" class="thumbnail" width="600" height="434"></div>
+
+<h3><a href="https://www.are.na/gyuri-trailmarker/mindgraph" target="_blank" rel="nofollow noopener">MindGraph — Are.na</a></h3>
+
+<p>the ultimate</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Where I collect resources for this nexus under the banner MindGraph. It is Open, so anyone can link to it and add to it.</p>
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/5</link>
+        <pubDate>Sat, 10 Oct 2020 07:31:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-5</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve been out of academic discussion related to<br>
+Lanugage-Orineted Programming</p>
+<aside class="onebox wikipedia">
+  <header class="source">
+      <a href="https://hyp.is/y_bEsNR2EemVRGvZ0p1vIQ/en.wikipedia.org/wiki/Language-oriented_programming" target="_blank" rel="nofollow noopener">hyp.is</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://hyp.is/y_bEsNR2EemVRGvZ0p1vIQ/en.wikipedia.org/wiki/Language-oriented_programming" target="_blank" rel="nofollow noopener"></a></h3>
+
+<p>Loading annotation for en.wikipedia.org</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<aside class="onebox wikipedia">
+  <header class="source">
+      <a href="https://en.wikipedia.org/wiki/Language-oriented_programming#annotations:y_bEsNR2EemVRGvZ0p1vIQ" target="_blank" rel="nofollow noopener">en.wikipedia.org</a>
+  </header>
+  <article class="onebox-body">
+    
+
+<h3><a href="https://en.wikipedia.org/wiki/Language-oriented_programming#annotations:y_bEsNR2EemVRGvZ0p1vIQ" target="_blank" rel="nofollow noopener">Language-oriented programming</a></h3>
+
+<p>Language-oriented programming (LOP) is a software-development paradigm where "language" is a software building block with the same status as objects, modules and components, and rather than solving problems in general-purpose programming languages, the programmer creates one or more domain-specific languages for the problem first, and solves the problem in those languages. Language-oriented programming was first described in detail in Martin Ward's 1994 paper Language Oriented Programming[1 The c...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/409f8d366d127f6f1fb4027c48d8bcc6dd879fde.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/409f8d366d127f6f1fb4027c48d8bcc6dd879fde" title="image"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/409f8d366d127f6f1fb4027c48d8bcc6dd879fde_2_690x253.jpeg" alt="image" data-base62-sha1="9dGoxGB8WdrvBUtkLzzykH1AqbY" width="690" height="253" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/409f8d366d127f6f1fb4027c48d8bcc6dd879fde_2_690x253.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/409f8d366d127f6f1fb4027c48d8bcc6dd879fde_2_1035x379.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/409f8d366d127f6f1fb4027c48d8bcc6dd879fde.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/409f8d366d127f6f1fb4027c48d8bcc6dd879fde_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1112×408 145 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
+for the past 25 years.
+<p>The concept of Multi-relational graph is the missing link connecting Language-Oriented Programming, Engelbart’s Augmentation Research  <a href="https://en.wikipedia.org/wiki/TREE-META" rel="nofollow noopener">Tree-Meta</a><br>
+and my current work on MindGraph<br>
+between parse-trees and knowledge graphs</p>
+<p>It is analogous to the link between Monad and Grammars,</p>
+<aside class="onebox pdf">
+  <header class="source">
+      <a href="https://wiki.hh.se/wg211/images/c/cc/WG211_M19_VanWyk.pdf" target="_blank" rel="nofollow noopener">wiki.hh.se</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://wiki.hh.se/wg211/images/c/cc/WG211_M19_VanWyk.pdf" target="_blank" rel="nofollow noopener"><span class="pdf-onebox-logo"></span></a>
+<h3><a href="https://wiki.hh.se/wg211/images/c/cc/WG211_M19_VanWyk.pdf" target="_blank" rel="nofollow noopener">WG211_M19_VanWyk.pdf</a></h3>
+
+<p class="filesize">336.60 KB</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+but more relevant if you have an interest in Knowledge Graphs.<br>
+It does not (yet) have a wikipedia entry.<br>
+It is all about the same “Thing”, the elephant in the room I like to call “Symbolic Unity”, all mutually arising from the Metaphysics of Adjacency
+<p>This is where the requirement of notability is a hindrance to the growth of knowledge<br>
+Understandable, but all because we do not have emergent networks of personal knowledge graph that are themselves discoverable.<br>
+That’s what need building. That’s what I am working on.<br>
+<img src="https://forum.openglobalmind.com/uploads/default/original/1X/e79bc87f3143f3b8c7451022a153a1eef1440cbe.jpeg" alt="image" data-base62-sha1="x2U3HbhPU4oGIuaJ4ozk0iSu0Ds" width="631" height="422"></p>
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/4</link>
+        <pubDate>Sat, 10 Oct 2020 06:44:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-4</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you <a class="mention" href="/u/peterkaminski">@peterkaminski</a>  for surfacing this<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/d39513f56db1bd874f7f61d090498228646f3e86.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/d39513f56db1bd874f7f61d090498228646f3e86" title="image"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/d39513f56db1bd874f7f61d090498228646f3e86_2_689x500.jpeg" alt="image" data-base62-sha1="ubK8WNCuj4WoPb40TyMTPVobSL4" width="689" height="500" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/d39513f56db1bd874f7f61d090498228646f3e86_2_689x500.jpeg, https://forum.openglobalmind.com/uploads/default/original/1X/d39513f56db1bd874f7f61d090498228646f3e86.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/d39513f56db1bd874f7f61d090498228646f3e86.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/d39513f56db1bd874f7f61d090498228646f3e86_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1020×740 140 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p>link to the paper<br>
+</p><aside class="onebox pdf">
+  <header class="source">
+      <a href="https://www.ijcai.org/Proceedings/2020/0175.pdf" target="_blank" rel="nofollow noopener">ijcai.org</a>
+  </header>
+  <article class="onebox-body">
+    <a href="https://www.ijcai.org/Proceedings/2020/0175.pdf" target="_blank" rel="nofollow noopener"><span class="pdf-onebox-logo"></span></a>
+<h3><a href="https://www.ijcai.org/Proceedings/2020/0175.pdf" target="_blank" rel="nofollow noopener">0175.pdf</a></h3>
+
+<p class="filesize">465.29 KB</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/3</link>
+        <pubDate>Sat, 10 Oct 2020 06:30:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-3</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[maparent]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you, good catch! Still not recursive hypergraphs, but they’re getting there :-&gt;</p>
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/2</link>
+        <pubDate>Fri, 09 Oct 2020 22:05:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-2</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+      <item>
+        <title>Multi-relational / hyper-relational knowledge graphs</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>I ran across a mention of “Message Passing for Hyper-Relational Knowledge Graphs” (a <span class="hashtag">#GNN</span> architecture for hyper-relational KGs like <span class="mention">@wikidata</span>) and wanted to capture it somewhere, so here’s a new thread. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Here’s the twitter thread about it:</p>
+<aside class="onebox twitterstatus">
+  <header class="source">
+      <a href="https://twitter.com/michael_galkin/status/1305855466115870720" target="_blank" rel="noopener">twitter.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/original/1X/98b279092f9a3e4eef7cfd9829cbe667b33a4db7.jpeg" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h4><a href="https://twitter.com/michael_galkin/status/1305855466115870720" target="_blank" rel="noopener">Michael Galkin (michael_galkin)</a></h4>
+
+<div class="tweet"> We are glad to announce that our paper "Message Passing for Hyper-Relational Knowledge Graphs" by @michael_galkin @shape_mismatch @__gauravm @Ricardo_Usbeck @JLehmann82 has been accepted at @emnlp2020! 🎆 We propose a #GNN architecture for hyper-relational KGs like @wikidata. ⬇️</div>
+
+<div class="date">
+  <a href="https://twitter.com/michael_galkin/status/1305855466115870720" target="_blank" rel="noopener">6:06 AM - 15 Sep 2020</a>
+    <span class="like">
+      <svg viewBox="0 0 512 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path>
+      </svg> 76
+    </span>
+    <span class="retweet">
+      <svg viewBox="0 0 640 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path>
+      </svg> 17
+    </span>
+</div>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Also, here’s a good intro presentation to <a href="https://shikhar-vashishth.github.io/assets/pdf/slides_compgcn.pdf">CompGCN (Composition-based Multi-Relational Graph Convolutional Networks)</a> (PDF).</p>
+          <p><a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/1</link>
+        <pubDate>Fri, 09 Oct 2020 13:52:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-282-1</guid>
+        <source url="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282.rss">Multi-relational / hyper-relational knowledge graphs</source>
+      </item>
+  </channel>
+</rss>

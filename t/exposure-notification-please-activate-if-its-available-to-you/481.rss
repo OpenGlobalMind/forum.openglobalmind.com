@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Exposure Notification - please activate if it&#39;s available to you</title>
+    <link>https://forum.openglobalmind.com/t/exposure-notification-please-activate-if-its-available-to-you/481</link>
+    <description>[CA Notify](https://canotify.ca.gov/), the California edition of the Google/Apple Exposure Notification system, has gone live, which prompts me to encourage you to activate it on your smartphone if you live or work in California:
+
+https://canotify.ca.gov/
+
+There are a number of other countries and US states where the Exposure Notification system has gone live, check this list: https://en.wikipedia.org/wiki/Exposure_Notification#Adoption
+
+If it&#39;s not available where you live yet, consider asking your public health officials to make it available.
+
+As the California website says,
+
+&quot;Q: How will I help?  A: CA Notify is an added layer of protection for you and your community. In addition to wearing a face covering, physically distancing, and washing your hands, adding your phone will help to keep you and others safe.&quot;
+
+and,
+
+&quot;Q: How does it work?  A: Once you activate CA Notify, it does all the work. All you do is keep your Bluetooth on. You will only receive alerts if you were in close contact with someone who tests positive for COVID-19. Your privacy is protected as your identity is not known and your location is not tracked.&quot;
+
+For those who know me as a technologist, I can say that the privacy protection is top-notch, near magical in fact, and it is a fundamental property of the way the system is designed, not something that will break down or be broken into.  Your location and identity are not tracked and cannot / will not be exposed by this system.
+
+For those who don&#39;t know me as a technologist, don&#39;t trust me -- either examine the system yourself, or ask an expert you trust for their opinion.</description>
+    
+    <lastBuildDate>Fri, 11 Dec 2020 16:59:35 +0000</lastBuildDate>
+    <category>#random</category>
+    <atom:link href="https://forum.openglobalmind.com/t/exposure-notification-please-activate-if-its-available-to-you/481.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Exposure Notification - please activate if it&#39;s available to you</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://canotify.ca.gov/">CA Notify</a>, the California edition of the Google/Apple Exposure Notification system, has gone live, which prompts me to encourage you to activate it on your smartphone if you live or work in California:</p>
+<p><a href="https://canotify.ca.gov/" class="onebox" target="_blank">https://canotify.ca.gov/</a></p>
+<p>There are a number of other countries and US states where the Exposure Notification system has gone live, check this list: <a href="https://en.wikipedia.org/wiki/Exposure_Notification#Adoption">https://en.wikipedia.org/wiki/Exposure_Notification#Adoption</a></p>
+<p>If it’s not available where you live yet, consider asking your public health officials to make it available.</p>
+<p>As the California website says,</p>
+<p>“Q: How will I help?  A: CA Notify is an added layer of protection for you and your community. In addition to wearing a face covering, physically distancing, and washing your hands, adding your phone will help to keep you and others safe.”</p>
+<p>and,</p>
+<p>“Q: How does it work?  A: Once you activate CA Notify, it does all the work. All you do is keep your Bluetooth on. You will only receive alerts if you were in close contact with someone who tests positive for COVID-19. Your privacy is protected as your identity is not known and your location is not tracked.”</p>
+<p>For those who know me as a technologist, I can say that the privacy protection is top-notch, near magical in fact, and it is a fundamental property of the way the system is designed, not something that will break down or be broken into.  Your location and identity are not tracked and cannot / will not be exposed by this system.</p>
+<p>For those who don’t know me as a technologist, don’t trust me – either examine the system yourself, or ask an expert you trust for their opinion.</p>
+          <p><a href="https://forum.openglobalmind.com/t/exposure-notification-please-activate-if-its-available-to-you/481/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/exposure-notification-please-activate-if-its-available-to-you/481/1</link>
+        <pubDate>Fri, 11 Dec 2020 16:52:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-481-1</guid>
+        <source url="https://forum.openglobalmind.com/t/exposure-notification-please-activate-if-its-available-to-you/481.rss">Exposure Notification - please activate if it&#39;s available to you</source>
+      </item>
+  </channel>
+</rss>

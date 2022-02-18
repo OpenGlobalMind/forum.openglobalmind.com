@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>&quot;When Do You Need Billions of Words of Pretraining Data</title>
+    <link>https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356</link>
+    <description>See more at:
+
+https://twitter.com/zhang_yian/status/1325836454975557632
+
+https://github.com/nyu-mll/pretraining-learning-curves</description>
+    
+    <lastBuildDate>Thu, 12 Nov 2020 22:21:58 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>&quot;When Do You Need Billions of Words of Pretraining Data</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <blockquote>
+<p>NLP is currently dominated by general-purpose pretrained language models like RoBERTa, which achieve strong performance on NLU tasks through pretraining on billions of words. But what exact knowledge or skills do Transformer LMs learn from large-scale pretraining that they cannot learn from less data? We adopt four probing methods—classifier probing, information-theoretic probing, unsupervised relative acceptability judgment, and fine-tuning on NLU tasks—and draw learning curves that track the growth of these different measures of linguistic ability with respect to pretraining data volume using the MiniBERTas, a group of RoBERTa models pretrained on 1M, 10M, 100M and 1B words. We find that LMs require only about 10M or 100M words to learn representations that reliably encode most syntactic and semantic features we test. A much larger quantity of data is needed in order to acquire enough commonsense knowledge and other skills required to master typical downstream NLU tasks. The results suggest that, while the ability to encode linguistic features is almost certainly necessary for language understanding, it is likely that other forms of knowledge are the major drivers of recent improvements in language understanding among large pretrained models.</p>
+</blockquote>
+          <p><a href="https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356/3</link>
+        <pubDate>Thu, 12 Nov 2020 22:21:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-356-3</guid>
+        <source url="https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356.rss">&quot;When Do You Need Billions of Words of Pretraining Data</source>
+      </item>
+      <item>
+        <title>&quot;When Do You Need Billions of Words of Pretraining Data</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://static.arxiv.org/static/browse/0.3.2.6/images/icons/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://arxiv.org/abs/2011.04946" target="_blank" rel="nofollow noopener">arXiv.org</a>
+  </header>
+  <article class="onebox-body">
+    <img src="" class="thumbnail" width="16" height="16">
+
+<h3><a href="https://arxiv.org/abs/2011.04946" target="_blank" rel="nofollow noopener">When Do You Need Billions of Words of Pretraining Data?</a></h3>
+
+<p>NLP is currently dominated by general-purpose pretrained language models like
+RoBERTa, which achieve strong performance on NLU tasks through pretraining on
+billions of words. But what exact knowledge or skills do Transformer LMs learn
+from...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356/2</link>
+        <pubDate>Thu, 12 Nov 2020 22:19:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-356-2</guid>
+        <source url="https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356.rss">&quot;When Do You Need Billions of Words of Pretraining Data</source>
+      </item>
+      <item>
+        <title>&quot;When Do You Need Billions of Words of Pretraining Data</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>See more at:</p>
+<aside class="onebox twitterstatus">
+  <header class="source">
+      <a href="https://twitter.com/zhang_yian/status/1325836454975557632" target="_blank" rel="noopener">twitter.com</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/0ba7a23d0ba67031dfd31e7a74d358674bb029e7_2_690x456.jpeg" class="thumbnail onebox-avatar" width="690" height="456" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/0ba7a23d0ba67031dfd31e7a74d358674bb029e7_2_690x456.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/0ba7a23d0ba67031dfd31e7a74d358674bb029e7_2_1035x684.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/0ba7a23d0ba67031dfd31e7a74d358674bb029e7.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/0ba7a23d0ba67031dfd31e7a74d358674bb029e7_2_10x10.png">
+
+<h4><a href="https://twitter.com/zhang_yian/status/1325836454975557632" target="_blank" rel="noopener">Yian Zhang (zhang_yian)</a></h4>
+
+<div class="tweet"> 🚨 NEW PAPER ALERT 🤓 CURVES📈📈📈 ALERT 🚨
+Transformer LMs pretrained on billions of words have dominated NLP, but which skills/features really depend on this huge scale? How much can models learn from more modest amounts of data?  [1/10]</div>
+
+<div class="date">
+  <a href="https://twitter.com/zhang_yian/status/1325836454975557632" target="_blank" rel="noopener">8:23 AM - 9 Nov 2020</a>
+    <span class="like">
+      <svg viewBox="0 0 512 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M462.3 62.6C407.5 15.9 326 24.3 275.7 76.2L256 96.5l-19.7-20.3C186.1 24.3 104.5 15.9 49.7 62.6c-62.8 53.6-66.1 149.8-9.9 207.9l193.5 199.8c12.5 12.9 32.8 12.9 45.3 0l193.5-199.8c56.3-58.1 53-154.3-9.8-207.9z"></path>
+      </svg> 210
+    </span>
+    <span class="retweet">
+      <svg viewBox="0 0 640 512" width="14px" height="16px" aria-hidden="true">
+        <path d="M629.657 343.598L528.971 444.284c-9.373 9.372-24.568 9.372-33.941 0L394.343 343.598c-9.373-9.373-9.373-24.569 0-33.941l10.823-10.823c9.562-9.562 25.133-9.34 34.419.492L480 342.118V160H292.451a24.005 24.005 0 0 1-16.971-7.029l-16-16C244.361 121.851 255.069 96 276.451 96H520c13.255 0 24 10.745 24 24v222.118l40.416-42.792c9.285-9.831 24.856-10.054 34.419-.492l10.823 10.823c9.372 9.372 9.372 24.569-.001 33.941zm-265.138 15.431A23.999 23.999 0 0 0 347.548 352H160V169.881l40.416 42.792c9.286 9.831 24.856 10.054 34.419.491l10.822-10.822c9.373-9.373 9.373-24.569 0-33.941L144.971 67.716c-9.373-9.373-24.569-9.373-33.941 0L10.343 168.402c-9.373 9.373-9.373 24.569 0 33.941l10.822 10.822c9.562 9.562 25.133 9.34 34.419-.491L96 169.881V392c0 13.255 10.745 24 24 24h243.549c21.382 0 32.09-25.851 16.971-40.971l-16.001-16z"></path>
+      </svg> 44
+    </span>
+</div>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicons/favicon.svg" class="site-icon" width="32" height="32">
+      <a href="https://github.com/nyu-mll/pretraining-learning-curves" target="_blank" rel="noopener">GitHub</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/original/1X/2089f9ad15c06e6c951578d2e26638375e29c317.png" class="thumbnail onebox-avatar" width="128" height="128">
+
+<h3><a href="https://github.com/nyu-mll/pretraining-learning-curves" target="_blank" rel="noopener">nyu-mll/pretraining-learning-curves</a></h3>
+
+<p>The repository for the paper "When Do You Need Billions of Words of Pretraining Data?" - nyu-mll/pretraining-learning-curves</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+          <p><a href="https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356/1</link>
+        <pubDate>Thu, 12 Nov 2020 14:42:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-356-1</guid>
+        <source url="https://forum.openglobalmind.com/t/when-do-you-need-billions-of-words-of-pretraining-data/356.rss">&quot;When Do You Need Billions of Words of Pretraining Data</source>
+      </item>
+  </channel>
+</rss>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+    <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81</link>
+    <description>Made a quick, rough thing for the [current OGM call](https://www.youtube.com/watch?v=VOvw30-mCM4&amp;list=PLreQNsM8LqWA2ib_Yfkde8m30ANi0WtJr): a [summarizing transcript (CSV)](https://gitlab.com/skreutzer/open-global-mind-data-repository-experimental/-/raw/master/meeting-recordings-1/ogm-call_20200731_summary.csv?inline=false). It&#39;s supposed to offer a fast overview over the topics covered, and invites to dive in deeper, also allowing to skip other parts or noise.
+
+Did it only for the checkin part. There&#39;s the option now to expand it to the remaining portion of the video recording, using any kind of spreadsheet tool like LibreOffice Calc, maybe Gnumeric works too, or a simple plain-text editor. Even if there are some issues with the file format, I would assume that I can clean it up if needed, and in case of doubt, why not start with just a small portion, share that and see if/how it fits? I don&#39;t think we need to over-engineer/-organize right now to avoid having multiple people doing the same section and therefore unnecessarily duplicating the work, just coordinate in this thread and later there could be great tools and interfaces for such a data capture/input activity, as well as organizing the process.
+
+The main idea here is that such a summarized transcript allows the later extraction/mining of all sorts of data feeds from it, as it&#39;s already very apparent and tangible from this little example.
+
+In terms of the content, please correct or suggest corrections, or indicate if you&#39;re not comfortable with being in the summarized transcript at all or if the representation is misleading (also, preferred name, etc.), would like to grant everybody who participated in the call or is otherwise affected a veto for careful consideration. On the other hand, keep in mind that the recording and the statements therein are public. The summarized transcripts might be licensed in a way which hasn&#39;t been determined yet, as the particular expression is property of the author/contributor by default, says the legislator (might also be in part a database work). No need to freak out about the data collection and mining, usually nobody really cares much or finds these or looks into them. :-) Plus, testing how to go about media literacy/competency.
+
+Want to add that the medium of such synchronous online calls is totally terrible (despite feeling good of course), as there&#39;s no technical structures, semantics or tools that can be applied, and if the topics aren&#39;t super-relevant, it&#39;s most of the time barely worth the effort for investing scarce human lifetime to extract what was buried in there after the fact, for no good reason other than using proper tooling in the first place. Philosophical discussion is quite fine, the coordination of practical projects or data/knowledge management however have to be conducted much better, especially for/at scale. Still, inviting to this activity to get started, which can then bootstrap towards a whole range of potential solutions. Note that I didn&#39;t work from the transcript, that&#39;s more useful as input for automatic processing, which we might want to as well, just separately. The argument for the transcript is usually that it helps finding topics by full-text search, fine, but ideally you would want it already filtered, federated, curated, I would guess.
+
+In case of questions or if help is needed, please just post below. :-)</description>
+    
+    <lastBuildDate>Mon, 14 Sep 2020 16:06:13 +0000</lastBuildDate>
+    <category>Action! Doing Things Now</category>
+    <atom:link href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>This activity is closed and superseded by <a href="https://forum.openglobalmind.com/t/experimenting-with-real-time-machine-transcription/">machine transcription</a>, potentially upcoming <a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/18">speaker “swimming lane” on Miro</a> and the <a href="https://forum.openglobalmind.com/c/bringing-ogm-to-the-world/ogm-calls">index of recordings</a>.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/31</link>
+        <pubDate>Mon, 14 Sep 2020 16:06:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-31</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="skreutzer" data-post="29" data-topic="81">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"> skreutzer:</div>
+<blockquote>
+<p>What I would want to learn, opinions/arguments which speak for or against</p>
+</blockquote>
+</aside>
+<p><a class="mention" href="/u/skreutzer">@skreutzer</a>, in my opinion, it’s okay (and actually good) to invite anybody to OGM Forum (this Discourse) who would benefit from or improve the conversation.</p>
+<p>To do so, just have them go to the OGM Forum home page, <a href="https://forum.openglobalmind.com/">https://forum.openglobalmind.com/</a> and tell them to click the “Sign Up” button to create a new account.  One of the admins will approve them within a day or two, or ping me by email or DM to make sure I get to them ASAP.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/30</link>
+        <pubDate>Mon, 14 Sep 2020 14:33:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-30</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Jerry, that’s fine, but I think Nancy or at least me wonder about inviting him (and others) to this Discourse, because it’s here where our discussion about this Action! practical project is, and especially as it’s about curation and transcripts, that’s all for asynchronous consumption, avoiding any need to have to wait until some stars eventually align or not. Additionally, Nancy sometimes is otherwise occupied and can’t attend the call, I’m never attending the call because it’s on Zoom, and then there are others working on transcript things which seem to not report much in this Discourse thread. It’s a big mess, best addressed with focus on how to bootstrap our way out of it. If people present something about video curation or transcripts within the call, I would need their tool/methodology applied and in use in order to efficiently learn about it to begin with, which up to this point apparently isn’t the case yet.</p>
+<p>What I would want to learn, opinions/arguments which speak for or against</p>
+<ol>
+<li>Inviting just about anyone to this Discourse we can/want</li>
+<li>Selectively those who we think could be interested or have something to contribute around the topics discussed in here</li>
+<li>Nobody (for the time being) because things still need to be set up in some other way, so there would be no point in blowing the space up just to then have to move/migrate again</li>
+</ol>
+<p>That’s something I wonder about because the Discourse forum isn’t linked on the main page, and it’s not public. Is the correct way to use the onboard Google Form, which will also invite people to register to the Discourse, as the correct procedure? Avoiding that they register themselves here, but don’t provide data and get added to other spaces via the Google Form? Apologies for asking, I’m just not aware what the policy is, or where to look the current state of it up. For the calls, I think it was said that everybody is invited to join.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/29</link>
+        <pubDate>Thu, 10 Sep 2020 09:57:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-29</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[Jerry]]></dc:creator>
+        <description><![CDATA[
+            <p>Howdy! I’ve added John to the OGM list and am sending a reminder note about the Thursday call now. If the stars line up, he can join us.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/28</link>
+        <pubDate>Thu, 10 Sep 2020 00:26:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-28</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <p>I think Jerry invited him. I continue to be buried in work so I have not made any advancements on my own contributions…</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/27</link>
+        <pubDate>Sun, 06 Sep 2020 16:22:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-27</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/nancyw">@NancyW</a> Any updates on this? I think (according to the most recent OGM check-in call) the inviting protocol is that everybody is invited, be it calls or this Discourse forum. Or if not, fine as well. Are you suggesting asking him or other people to register here? Another option would be to take this out of the Discourse forum and put it into some open project management place. Another option would be directly reaching out, should I shoot an e-mail?</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/26</link>
+        <pubDate>Sun, 06 Sep 2020 15:30:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-26</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/jerry">@Jerry</a> - I can’t recall the inviting protocol, but I keep thinking John Smith would have insights into the things <a class="mention" href="/u/skreutzer">@skreutzer</a> and <a class="mention" href="/u/max">@max</a> are working on. Would it be ok if you invited him? (I do know he is a bit offline right now w/ family stuff.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/25</link>
+        <pubDate>Thu, 27 Aug 2020 18:12:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-25</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Are you suggesting that I should reach out to him, and invite? In case there’s some trouble with OGM/Discourse as an entity/place, it’s also an option to compile a brief overview over the general audio/video curation activities here and elsewhere, to then see if that sparks some interest.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/24</link>
+        <pubDate>Thu, 27 Aug 2020 07:56:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-24</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <p>John Smith is not part of OGM as far as I know, but it strikes me that he could be a generative contributor to this conversation.  John D. Smith <a href="mailto:John.Smith@LearningAlliances.net">John.Smith@LearningAlliances.net</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/23</link>
+        <pubDate>Wed, 26 Aug 2020 20:05:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-23</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>In this project and also beyond/elsewhere, I’m using the “embed” URL in an <code>iframe</code>, because that takes a start and an end position (in total seconds, as MediaFragments prefer too), which has the nice advantage that the video playback actually stops (but can be continued, if the viewer wants). Like a clip, but without actual clipping (which could be arranged too, if needed, but yeah, hosting/copyright).</p>
+<p>That’s probably not much useful for working with/from the VTT, where the chunks/segments are arbitrarily split by text length of a portion of the transcript. Using the t parameter of the regular video “watch” URLs is then probably more for jumping into the video, for navigational purposes.</p>
+<p>So this thread here is about starting work on tools under a libre-free license which help with audio/video curation, also doing it as a practice/exercise for the OGM call recordings content-wise so this group too may benefit from it, but the software is of course generic/universal and can be used on any material. Would you want to join and participate in this, or are you off doing your own thing, maybe planning for a proprietary product, maybe content-wise helping out CICoLab with their transcripts?</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/22</link>
+        <pubDate>Mon, 24 Aug 2020 07:58:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-22</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[max]]></dc:creator>
+        <description><![CDATA[
+            <p>Yep… YouTube videos embed in MIro w time code “start from” — which is just an added parameter/query string of ‘&amp;t=_m_s’</p>
+<p>These could be generated automatically through a number of means, e.g Note-taker Time+topic annotations, and bulk rendered into Miro in time-line location. Or into topic cluster/network.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/21</link>
+        <pubDate>Mon, 24 Aug 2020 05:32:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-21</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>You probably too can easily imagine that the Miro list/table could also include a video clip embed or at least timecode reference links to the original source from the VTT. No need to prematurely cram that into the early prototyping, of course <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/20</link>
+        <pubDate>Sat, 22 Aug 2020 22:49:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-20</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks a lot for sharing! I know several people who work mostly on their own and/or in secret on related ideas, but great to see that you managed to actually build some of it already!</p>
+<p>I think the main advantage of the transcript from Zoom is that they identify the speakers (as the meeting service of course can identify from which connection of which account the audio feed/mic streams in and gets distributed to the other attendants). Reminds be a little bit of Frode Hegland’s and Sam Hahn’s “<a href="http://timebrowser.info/" rel="nofollow noopener">TimeBrowser</a>” (warning: that’s not active, is abandoned). I myself usually don’t care much about the transcript, as it can be of poor quality (dialect, names, multiple people talking at the same time), and there’s also rambling, organisational chatter and other conversational noise in there. On the other hand, I’m kind of along the lines of automatically generating a word cloud from a transcript for, let’s say, 1 minute segments or something (in case of speaker identification, per speaker segment), and then filter/clean that up, and this way automatically mine/extract/recognize the topics/themes in a pretty easy and useful way (basically reducing the noise).</p>
+<p>At the same time, another approach we’ve prototyped for this thread is to enable everybody to segment portions of a recording thematically (also fragmenting a single speaker into segments, or spanning across several speakers) with a brief summary (also tagging/categorization could eventually be added), so these could go into separate feeds, like only the weekly checkins, or checkin by person for each week, or all the mentions of a certain topic through all these calls. Of course there’s already the automatic cutting/clipping into small video bits, and these could also automatically merged/concatenated again into separate videos per theme/topic, with some navigational interface on top of it so it becomes very easy to follow a certain interest, catch up quickly, stay up to date, and also forward/distribute/promote certain themes elsewhere, without the need of sharing many hour-long recordings.</p>
+<p>To me it looks like you’re not really much using Miro other than it being another simple list/table, which is fine, as I think a simple list/table/feed would do just as well. For an online map/graph like workspace, potentially to move clips around and group them into buckets/feeds, I have several components around that could be used for that as well - maybe not for the final tool solution, but for cheap, early prototyping, gluing these things together and testing out how things could work out well.</p>
+<p>It still remains an issue that it doesn’t look that there’s anybody with some inherent motivation around and interest, capacity, need and benefit to do the content work, which I always find strange, because given all these people who tend to participate in such group calls, they usually all agree that curation of their very own material would be important, but of course don’t really want to deal a second time with their own stuff, and therefore every other week or so the last week gets forgotten, and the same topics come up again and again, with little learning or progress, as this linear “phone” medium tends to cause. I’m for that matter much more interested in hypermedia, including big collections of recordings for which the source doesn’t include speaker identification or transcripts (sure, can be still be generated later).</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/19</link>
+        <pubDate>Sat, 22 Aug 2020 22:20:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-19</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[max]]></dc:creator>
+        <description><![CDATA[
+            <p>            <video title="Zoom to Miro Layout - rough prototype" width="695" height="390" style="max-width:100%" poster="https://cdn.loom.com/sessions/thumbnails/ae4df47544dc43abbb9f61dbca9b3ff6-00001.gif" controls="">
+              <source src="https://cdn.loom.com/sessions/transcoded/ae4df47544dc43abbb9f61dbca9b3ff6.mp4?Expires=2147472000&amp;Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZG4ubG9vbS5jb20vc2Vzc2lvbnMvdHJhbnNjb2RlZC9hZTRkZjQ3NTQ0ZGM0M2FiYmI5ZjYxZGJjYTliM2ZmNi5tcDQiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjIxNDc0NzIwMDB9fX1dfQ__&amp;Signature=OND7xUWqKUAuBSYen-ay3~iJGYbtoBAybSoLl5CBzvm8uMdFL4p029~WbCrbG~ed3LbKB3HGFMeby2ro0-vKKWJRcySJ1~EpACoT4t-dyZzhcHgjLOo4fbWCqzHzuSxUaRghcunBPRtZ49b6a~czpMlVcLSCBXK7dcfA6tD1joxfxvyM8LGd-TNCq2phTzTPRvF1BXRZP~8amwRgGJolKrrlndWd7K3WlfbaMefW6GmUN6RIAaSvCvSs0SdxjPvTFovY9ZxzBB~mobVX3VJAscjL3iwQN5XkxW~OXRb3HS9gqvDqT3fINAyzU42C0W25Cuhc4KIYXuR~q8k7~g9RMQ__&amp;Key-Pair-Id=APKAJQIC5BGSW7XXK7FQ">
+            </video>
+</p>
+<p>Here’s a demo of the visualize zoom on miro …  super prototype-y</p>
+<p>Here’s a collab-able Miro board with the output from the proto-app:<br>
+<a href="https://miro.com/app/board/o9J_knZS4J0=/" class="onebox" target="_blank" rel="nofollow noopener">https://miro.com/app/board/o9J_knZS4J0=/</a></p>
+<p>– I’m working Zoom to Miro as much more of a universal tooling project – seeing potential (real time transcription, annotation, synthesis, topic clustering, concept connection  … all the rich pre-processing to enable subsequent sense-making endeavors)</p>
+<p>Separately I think universal argument maps per subject area (~ kialo 2.0) are proving critical in advancing human debate of complex systems (climate, racism, health, etc) .</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/18</link>
+        <pubDate>Sat, 22 Aug 2020 16:51:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-18</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Mark Trexler, who happens to be not on this Discourse, does <a href="https://www.youtube.com/watch?v=AQrsLU6VeQk#t=42m27s" rel="nofollow noopener">clips/summaries as content work/curation</a> for the Climate Web. Sounds like it’s not covering tooling, as this project invitation does.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/17</link>
+        <pubDate>Thu, 20 Aug 2020 23:12:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-17</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Turns out that <a class="mention" href="/u/max">@max</a> <a href="https://www.youtube.com/watch?v=AQrsLU6VeQk&amp;t=303s" rel="nofollow noopener">works on something based on the transcripts of the OGM call recordings</a>. Summarized transcripts are something different from the raw transcripts in their full length, but beyond this practical project invitation/experimentation, of course there are some ideas about what could be done with recordings, so as these other people might already do some of it on their own, let’s put this project invitation on hold for now to not unnecessarily duplicate work and waste capacity. This is a typical example of bad or lack of project management, partially caused by a lack of better/proper tooling.</p>
+<p>Update: Could well be that Max mostly works on it as a <a href="https://www.youtube.com/watch?v=AQrsLU6VeQk#t=58m45s" rel="nofollow noopener">content project for debates about climate change</a> and less as an universal tooling project as this project invitation does. If the former, might be related to <a class="mention" href="/u/bentleydavis">@BentleyDavis</a>’ work for on conversational argumentation/debate.</p>
+<p>Aha, <a href="https://www.youtube.com/watch?v=AQrsLU6VeQk&amp;t=6085s" rel="nofollow noopener">sounds like</a> the CICoLab + OLC/MetaCAugs people want to finally build something around the follow-up usage of the extracted clips, which is one reason more why there’s no need to duplicate and waste time on it within this project effort.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/16</link>
+        <pubDate>Thu, 20 Aug 2020 22:47:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-16</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>One massive problem these days is that there’s hardly anybody doing any tooling of the kind needed/useful here, have to admit that I myself don’t do much of/for it either unfortunately. There’s a whole range of interesting reasons why that is, and it’s barely realized/recognized. At the same time, more content gets created and added to the pile of existing backlog/longtail than ever before, while also loosing and duplicating earlier efforts/works, and little chance to get significantly better with that. <img src="https://forum.openglobalmind.com/images/emoji/apple/slightly_frowning_face.png?v=9" title=":slightly_frowning_face:" class="emoji" alt=":slightly_frowning_face:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/15</link>
+        <pubDate>Mon, 17 Aug 2020 21:59:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-15</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <p>Good distinction to call out. Purpose. Content. Tooling. Process. People. I tend to focus on purpose, process and people. <img src="https://forum.openglobalmind.com/images/emoji/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/14</link>
+        <pubDate>Mon, 17 Aug 2020 17:32:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-14</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>I had some shared background with the media work by what’s now CICoLab, don’t want to go too much into details, but to me theirs is mostly about producing new content, not the tooling. Just the video you’ve linked, that’s a great promotional/inspiring piece, but I can’t help to personally find it rather useless to learn about what was discussed, important findings, navigating through the full record and its topics, how these soundbites connect to something else. I don’t want to produce results like this example, even if they’re great to listen to, might be much more successful/viral, or what not. I need media curation for effect, to actually learn something, make sense, gain some overview, stay up to date, navigate though things, connect/coordinate things, to ultimately get a better handle on complexity.</p>
+<p>The good part is that the tooling is mostly, if not always, univeral/content-agnostic. Can also work for material by CICoLab or OGM or many other media collections and conversation/collaboration groups. The minimal requirement would be that the material must be public (playing around with the “semi-public”, “unlisted” nonsense isn’t useful) because how else would you even reference and with permission/consent share/embed/link it without making all these people angry who don’t want their stuff shared in the first place? Ideally, with libre-free licensing, it could even become a source for creating derivative works (“remix”, but I’m not much in favor of that term/notion, more along the lines of OER/OA etc.).</p>
+<p>You can’t @-mention notify Lauren, because she’s not registered here and the forum isn’t public.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/13</link>
+        <pubDate>Sun, 16 Aug 2020 20:42:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-13</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks a lot for these constructive contributions! That’s exactly the kind of discussion I want to have in/with this thread <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> And splitting/branching/forking off new project invitations and activities is a good vehicle to get some progress started into this general direction, much apprechiated.</p>
+<p>I’m very much for checkins and don’t mind them, even as I myself usually don’t update others that much about my personal current affairs that much, and tend to report more on project progress, but I clearly see the purpose and benefit for each of these habits, and indeed sometimes the personal/social work is the main work, or for all of the philosophical explorations, a checkin can as well be the opportunity to notify about a new discovery or change of view.</p>
+<p>I only get annoyed if the personal checkins get mixed into a meeting that’s also supposed to report on project progress or coordinate practical activities, because lots of shared time gets wasted on talk that’s in no way productive for the tasks at hand. And the talk about the many boring details of “doing” must seem wasted for those who attend for growing personal connections.</p>
+<p>In my opinion, there’s no point at all in trying to somehow merge the two and reach some common denominator, which is then sub-ideal for everybody. Also, no need to separate the two, as we gain of course a lot from listening in and gaining general awareness about what’s going on, who the others are, what they do, how they feel, how they think, their character/values/concerns, etc.</p>
+<p>Therefore, I would favor to remain agnostic in regard of the question how much airtime the different topics for their different purposes should get, especially as I have the easy way out of not attending these group calls in the first place and prefer project coordination in asynchronous ways on the Kanban board or issue/task tracker, avoiding many of the common problems that can easily become huge sinks for productivity.</p>
+<p>For the OGM calls, OK, I can imagine that the extend of checkins vs. other discussion might be an important question, and the after-the-fact curation of the recording offers no way out nor improvement for those who attend in the moment. At the same time, with a little bit of tooling, clips could easily be extracted which are just the checkin part, or just the open discussion (or themed topic of the week). Each of these might be splittable into checkin per person, so you could get your update feeds for individuals you’re subscribing to (aggregated into a weekly digest), almost like them sending you their weekly podcast entry, which could develop into a conscious instrument/medium more deliberately used for exactly such purpose. For the other part of the call as well, I would assume that with some tagging, the portions/sections/clips could be grouped by topic, to basically figuratively “go under the corresponding node in the brain”, and potentially even branching out to other groups and communities, to sprinkle some similar/aligned clips in. I mean, who knows if that would turn out to be entirely awesome or rather somewhat boring and flawed, but I can’t really imagine why it would be the latter, and then give it a try, and be it for the learning and understanding how such a practice could work out, also for greater questions about curation and facilitation.</p>
+<p>Technically, I would consider this entirely feasible, super-easy, quick and cheap. I just hesitate a little to go into the actual content work (I’m more or less already are somewhat used to anyway), for reasons of vague/questionable licensing (not bad, not ideal), that I don’t want to keep only myself occupied with it instead of also doing more software development, and specifically want to test how serious those are who constantly bring up this topic as being super-valuable and urgently needed, but just some other person is supposed to do it for them, not doing any kind of even minor, occasional work themselves. This explicitly excludes people like Jerry or Pete, who have their hands full with all sorts of other important content/tech/people work, and have a understanding how technical tooling can help with the recorded artifacts, and already took/take steps towards curation independently themselves, and also aren’t those who endlessly only talk about it without investing into such practices. In essence, this is a call for the librarians, curators, knowledge workers, which we are as well ourselves, but also by necessity currently have to fill a bunch of other roles as well, which unfortunately doesn’t leave much capacity for content/curation work despite it or the results could turn out to be somewhat enjoyable, by comparison or in general. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/12</link>
+        <pubDate>Sun, 16 Aug 2020 20:21:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-12</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="skreutzer" data-post="9" data-topic="81">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"> skreutzer:</div>
+<blockquote>
+<p>Regarding tracking (practical?) progress</p>
+</blockquote>
+</aside>
+<p>Now where the proverbial rubber makes friends with road. To me there is nothing like an experiment. So <span class="mention">@Lauren</span> made <a href="https://www.youtube.com/watch?v=J7Ndjk6502Q&amp;feature=youtu.be" rel="nofollow noopener">a video to recap</a> last Monday’s edu call.So she has roll modeled one way. People “got into” that call via the OGM Thursday call and Cicolab’s existing network. <span class="mention">@Judith</span> and I had a standalone convo next week, and I carried that to an EDU convo outside of this network right afterwards. How can/should this manifest usefully? How can it be signal?</p>
+<p><a class="mention" href="/u/skreutzer">@skreutzer</a> my sense is your linking project invites to some formal to informal network weavign is a useful first experiment!</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/11</link>
+        <pubDate>Sun, 16 Aug 2020 17:06:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-11</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m going to split this into two replies because of two different sorts potential action. First is the check in. There is a very distinct “Jerry culture” around that process which creates value, particularly for a subset of the larger group. It would probably a fatal loss because it is the interface w/ people that appears to work for Jerry, and Jerry is a central connector. AND there are segments for whom allocating 90 minutes every week to that function is just not in the reality check. The large check ins are a massive idea dating game. Or a casting of seeds. And if we think in terms of an <a href="http://www.liberatingstructures.com/31-ecocycle-planning/" rel="nofollow noopener">Ecocycle</a>, that area of gestation and ideation is super valuable. The question is how to cross over through the poverty trap into doing. What moves things into birth. So in this post, I wonder out loud about to make the magic of the synchronous, checky-iny-comment-braid ideas available for those who can’t/won’t/struggle to bloom in that space. How can people feed in seedlets, and notice and adopt seedlets. On to the next post.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/10</link>
+        <pubDate>Sun, 16 Aug 2020 17:03:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-10</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>For the theme of this very thread, how would it be if you could jump directly to the main part of the call and skip the checkins? Or if the checkins would be devided into section per speaker, so you could subscribe/filter for a few of them or get the last month or all-time feed of checkins they’ve made? Or if everybody could post checkins/updates asynchronously, so the time of the call could be saved for other discussion, attendees already updated on each other’s progress/status/situation/mood? Of course people prefer linear airtime and having everybody else exclusively listening to them, and be it at the expense of waiting for everybody else, which is clearly not a scalable arrangement <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Regarding tracking (practical?) progress with a Kanban board, this <a href="https://forum.openglobalmind.com/t/invitation-design-build-a-collection-and-feed-of-project-invitations-requests/150">project invitation/experiment</a> could indeed be seen as an attempt to gather the ideas, proposals, requests from many sources, including the usual themes frequently mentioned in calls like those under the OGM name/brand. But then I fear that there’s not enough people able or willing to carry the actual work out, so the board would likely remain stuck with a full back-log and no DOING/DONE. Still, maybe the linked project invitation could (should?) be changed into more of a facilitation/coordination role, focusing on the conversational or conceptual “tasks” and helping people to get them solved/implemented/progressed by connecting them with other peole, help them with some project management, etc. Like, for example, with system thinkers or similar, ask them and identify the key problems or areas of work, and then see what could be done to get it to DONE, via the usual small but steady incremental steps, breaking massive tasks down into achievable pieces, accumulating into larger progress over time, and establishing a community that gets pretty good and used to collaborate on their (each others) and shared projects. In part, the OGM gathering itself is already serving in that regard, simply whenever some people meet potentially, but better not leave it to mere chance, instead going strategic about it, like helping with people profiles/intros, getting an idea who works on what or is interested in which topic, and importantly, where and why they disagree or differ, making that explicit and transparent for resolution/understanding, and so on, in fair and good faith.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/9</link>
+        <pubDate>Fri, 14 Aug 2020 17:19:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-9</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks <a class="mention" href="/u/skreutzer">@skreutzer</a>.  My experiment is to start with small conversations with individual members or triads. I can’t sustain the opening check in rounds with larger group in terms of my own ability to focus and act.</p>
+<p>Having a board where we share our smaller convos in an asynch form. Or maybe I just skip the calls! <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Naw, the calls provide the doors and windows to notice sparks and ideas. It just has a high overhead in its current format for the way my brain works. I want to be clear, this is just a preference of mine, not a diagnosis of the group’s process. I’m just impatient enough to start to tune out and miss good things. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> I’m a small group kinda person!</p>
+<p>Just thinking out loud. Introductions can be asynch and then some pattern seeking across them (not so easy in text/Discourse format now, but the reply function is really a useful feature at a personal connection level. Then a Kanban board which has a backlog of all the brilliant ideas, note what moves into DOING and then some explicit noticing of sharing lessons when into DONE. ???</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/8</link>
+        <pubDate>Thu, 13 Aug 2020 14:36:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-8</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+      <item>
+        <title>Invitation: Creating summarizing transcripts for the OGM calls</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s a beautiful description – surely one wouldn’t be too convinced what the purpose of any such additional “meta” work could be, as participants in a call don’t need clips as they were present themselves or new people could simply join instead of diving through loads of previous material, and why have some extra tools or media work where one is already busy with the job and subject matter at hand?</p>
+<p>But then, the repetitive, slow, boring tasks like preparing material in convenient formats, accumulating feeds and distributing them in corresponding filtered/federated channels, notifying the right people about the right stuff or keeping an up-to-date overview available about what’s currently going on, etc. etc. is often done manually by wasting scarce capacity unnecessarily, for no other reason that no two tools can talk to each other, or no meta-improvement/-support is available to discover better processes, or whole ranges of activities are excluded/prevented to begin with as they would be far too expensive to be considered at all.</p>
+<p>With OGM being more of a general concept and vague and deliberately open in some regards, as a branding name and community of some sort, of course a lot of discussion is needed for people to gain some understanding about who’s who, what everybody means by the terms they’re using, and the usual occupations/topics of online group gatherings. At the same time, I wonder a little bit if there is a Kanban board for/with/by this group, and if there is, who’s planning some tasks on it, and for the space in between the conversation and the board, maybe some glue/coordination would be needed as well. But it’s not an imperative, more of an open question/exploration. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Also, I don’t have the answers. It’s well imaginable to test if there’s interest in a whole range of other experiments like games or pattern languages or what not, which can be less related to support functions for OGM to organize itself.</p>
+          <p><a href="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81/7</link>
+        <pubDate>Wed, 12 Aug 2020 23:09:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-81-7</guid>
+        <source url="https://forum.openglobalmind.com/t/invitation-creating-summarizing-transcripts-for-the-ogm-calls/81.rss">Invitation: Creating summarizing transcripts for the OGM calls</source>
+      </item>
+  </channel>
+</rss>

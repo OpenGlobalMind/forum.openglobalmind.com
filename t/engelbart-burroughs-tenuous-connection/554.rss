@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>engelbart-burroughs tenuous connection</title>
+    <link>https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554</link>
+    <description>https://en.wikipedia.org/wiki/System_Development_Corporation?wprov=sfti1 here because of https://en.wikipedia.org/wiki/Augmentation_Research_Center?wprov=sfti1 catching my attention also as i grew up in santa monica i see they were acquired initially by burroughs corp (80-86) ... which connects them to william burroughs although he didn’t share in those profits ...
+thought @holtzermann17 @skreutzer. et al may appreciate 
+
+third mind indeed, maybe there’s something of a clue here in Designing the System</description>
+    
+    <lastBuildDate>Sat, 23 Jan 2021 20:44:18 +0000</lastBuildDate>
+    <category>Designing the System</category>
+    <atom:link href="https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>engelbart-burroughs tenuous connection</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="skreutzer" data-post="2" data-topic="554">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"> skreutzer:</div>
+<blockquote>
+<p>keeping comprehensive record helps a lot more to understand things about the present and future, but very hard if not impossible to reconstruct such retroactively</p>
+</blockquote>
+</aside>
+<p>hard to do in real time as well</p>
+          <p><a href="https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554/3</link>
+        <pubDate>Sat, 23 Jan 2021 20:44:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-554-3</guid>
+        <source url="https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554.rss">engelbart-burroughs tenuous connection</source>
+      </item>
+      <item>
+        <title>engelbart-burroughs tenuous connection</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Hmm, why SDC in particular, via ARPA? From what I remember (pretty limited) of material I’ve read/listened-to, would guess it’s more famous that the NLS work was mostly done on/for a machine by SDS, and <a href="https://www.youtube.com/watch?v=Czggi_cAqQ0#t=23m37s" rel="nofollow noopener">when it became clear that they wouldn’t keep up with the market (video from 23:37)</a>, they switched to DEC (PDPs), and later at least one more time. Because of that, especially the first migration/portation, a layer was added to abstract away the specific hardware details from the higher-level NLS system implementation, so porting would become much easier/cheaper/faster (still, the preservation/extraction effort for/during HyperScope had to deal with file-system/hardware-dependent data formats).</p>
+<p>Guess ARPA had a wide range of different early computers, also doing various stuff for the space race and what not, and one SDC machine is reported to be among those Robert “Bob” Taylor had to connect to from his office with a separate terminal, which might have lead/contributed in part to the notion of the ARPANET and the IMP especially, and probably only so because the SDC was one of the systems around in ARPA with some data or programs or to test the machine. Could be that the SDC was not around any more or wasn’t initially connected to the ARPANET once the latter came into being, but maybe it’s on one of these early network maps. Would doubt that Engelbart’s NIC-NLS was connected to the ARPANET while being on a SDC machine. Not impossible, don’t really know, just speculating, but for now seems/sounds somewhat unlikely. Or maybe it was a spare machine to operate the NIC/NLS from/on, if there was some porting or (old/new) native implementation, but at that point, ARC-NLS came before and separately. The <a href="https://archive.org/details/ComputerNetworks_TheHeraldsOfResourceSharing" rel="nofollow noopener">ARPANET</a> is more a J. C. R. “Lick” Licklider thing following up on Vannevar Bush, and Taylor co-conspired, continued and supported these efforts in major ways.</p>
+<p>Not to be confused with CDC <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>These computers are more of a research, military or business type, even university less and only later so, by being just too expensive for individuals to own/operate. Just from the point of the electronics, even transistors getting cheaper, to construct/design a system to operate as a computer with some architecture, wasn’t a standard, well-known, well-established thing to do (apart from slow, old, even more expensive industry giants not coming from digital or transistors necessarily), and few standardized components, so they tend to be more of a specialized, system-engineered piece of equipment of low reliability and high maintenance demand, and considered for/of “serious computing” in comparison to the later, cheaper personal micro-computers for individuals to own build from a kit or bought pre-built, as some kind of computer electronics toy for hobbyists.</p>
+<p>Another potential connection might be to Ted Nelson, as the SDC Wikipedia article mentions SAGE, and Ted cites either SAGE or similar from advertisements or reports of showing the radar defense computing connected/displayed on a screen (these are not like today’s, or TVs, however), which he says was an inspiration for his hypertext/hypermedia/computer-graphics ideas, as these computer screens too need a director (designer) as with the movies, and from his background in that area, imagined that there would be editing operations wanted/needed on these screens (Edit Decision List for composition + annotation, but also subsequently transclusions and Burroughs-related writer/journalist cut&amp;paste, the latter admittedly by a far stretch).</p>
+<p>One important thing to learn about history is that it’s never one narrow linear progression of single, isolated events in a direct line that did lead to whatever the popular perception of the present happens to be, but it’s lots of things going on in parallel all over the place, most forgotten or under-reported, but this doesn’t mean that they didn’t happen, didn’t play a role in some capacity, or the remaining narrow narrative is “<em>the</em>”, or even a sufficiently accurate “history”, probably more confused and misleading than of help/insight. For that reason, keeping comprehensive record helps a lot more to understand things about the present and future, but very hard if not impossible to reconstruct such retroactively <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554/2</link>
+        <pubDate>Sat, 23 Jan 2021 19:45:15 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-554-2</guid>
+        <source url="https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554.rss">engelbart-burroughs tenuous connection</source>
+      </item>
+      <item>
+        <title>engelbart-burroughs tenuous connection</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://en.wikipedia.org/wiki/System_Development_Corporation?wprov=sfti1" rel="nofollow noopener">https://en.wikipedia.org/wiki/System_Development_Corporation?wprov=sfti1</a> here because of <a href="https://en.wikipedia.org/wiki/Augmentation_Research_Center?wprov=sfti1" rel="nofollow noopener">https://en.wikipedia.org/wiki/Augmentation_Research_Center?wprov=sfti1</a> catching my attention also as i grew up in santa monica i see they were acquired initially by burroughs corp (80-86) … which connects them to william burroughs although he didn’t share in those profits …<br>
+thought <a class="mention" href="/u/holtzermann17">@holtzermann17</a> <a class="mention" href="/u/skreutzer">@skreutzer</a>. et al may appreciate</p>
+<p>third mind indeed, maybe there’s something of a clue here in Designing the System</p>
+          <p><a href="https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554/1</link>
+        <pubDate>Sat, 23 Jan 2021 17:41:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-554-1</guid>
+        <source url="https://forum.openglobalmind.com/t/engelbart-burroughs-tenuous-connection/554.rss">engelbart-burroughs tenuous connection</source>
+      </item>
+  </channel>
+</rss>

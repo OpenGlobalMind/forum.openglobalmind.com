@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Meta-meta-meta discussions</title>
+    <link>https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407</link>
+    <description>Continuing the discussion from [Meta-meta discussions](https://forum.openglobalmind.com/t/meta-meta-discussions/406):
+
+Yes, I think it is as described here: 
+
+https://meta.discourse.org/t/whats-the-best-way-to-branch-off-a-discussion-from-a-topic/48791
+
+Use the &quot;link&quot; at the bottom of any post to create a &quot;linked discussion&quot;.
+
+But this then needs to be taught to people who use this site so that they don&#39;t hijack threads with clutter.</description>
+    
+    <lastBuildDate>Wed, 02 Dec 2020 23:26:04 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Meta-meta-meta discussions</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Here’s one quick highly-meta comment about Discourse: is there an automatic “backlinks” module? Apparently yes!  I notice than when I reference <a href="https://forum.openglobalmind.com/t/letter-to-the-editor-on-pro-life/235">Thread A</a> in <strong>Thread B</strong>, there is a backlink to Thread B added at Thread A!  That’s great!</p>
+<p>However, it’s just slightly confusing that the backlinks show up <em>together with</em> interrelated outbound links! (As evidenced at <a href="https://forum.openglobalmind.com/t/meta-meta-discussions/406" class="inline-onebox">Meta-meta discussions</a>, which see.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/5</link>
+        <pubDate>Wed, 02 Dec 2020 23:10:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-407-5</guid>
+        <source url="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407.rss">Meta-meta-meta discussions</source>
+      </item>
+      <item>
+        <title>Meta-meta-meta discussions</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>I look forward to scaling. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/4</link>
+        <pubDate>Sat, 21 Nov 2020 14:28:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-407-4</guid>
+        <source url="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407.rss">Meta-meta-meta discussions</source>
+      </item>
+      <item>
+        <title>Meta-meta-meta discussions</title>
+        <dc:creator><![CDATA[Technoshaman]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="peterkaminski" data-post="2" data-topic="407">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/peterkaminski/40/3_2.png" class="avatar"> peterkaminski:</div>
+<blockquote>
+<p>split topics and get them sorted into the right place</p>
+</blockquote>
+</aside>
+<p>Yes, a facilitation or curation team can help with that to some extent in young communities with a  few dozens of members and 100s of post. Not so, with 100s of active members, 10,100s of posts, and 100+ categories of “right places.”</p>
+<p>At that stage,  issues of taxonomy, tagsonomy, visual content map, navigation structures, knowledge graphs, and the like kicks in because without the <a href="http://learningalliances.net/2006/12/definition-of-technology-steward/" rel="nofollow noopener">community tech stewards</a> diving into those kinds of niceties, it could become very challenging to identify what is the right place, both when we want to post or find something.</p>
+          <p><a href="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/3</link>
+        <pubDate>Sat, 21 Nov 2020 11:17:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-407-3</guid>
+        <source url="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407.rss">Meta-meta-meta discussions</source>
+      </item>
+      <item>
+        <title>Meta-meta-meta discussions</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks, <a class="mention" href="/u/holtzermann17">@holtzermann17</a>!</p>
+<p>The affordance is structurally sound, but I feel like it’s not quite primary enough UI-wise. And, I don’t know how easy it would be to do in arrears.  (I.e., it’s sometimes hard to tell if you’ve forked the conversational topic, until you’re a few messages down one fork or the other.)</p>
+<p>It’s also possible just to do inline links: <a href="https://forum.openglobalmind.com/t/meta-meta-discussions/406">Meta-meta discussions - Designing the System / Tools - Open Global Mind Forum</a>, or infobox links:</p>
+<aside class="quote quote-modified" data-post="1" data-topic="406">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar">
+    <a href="https://forum.openglobalmind.com/t/meta-meta-discussions/406">Meta-meta discussions</a> <a class="badge-wrapper  bullet" href="/c/designing-the-system/tools/10"><span class="badge-category-parent-bg" style="background-color: #0088CC;"></span><span class="badge-category-bg" style="background-color: #0088CC;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="This is the place to discuss software that helps with visualization, storytelling, analysis, etc.">Tools</span></a>
+  </div>
+  <blockquote>
+    Hi <a class="mention" href="/u/peterkaminski">@peterkaminski</a> 
+Discourse seems quite nice in one particular way: it is soaking up less of my attention than the mailing list was.  However, I’m a bit surprised that it doesn’t seem to have much built in ability to do “meta-…” discussions.  Yes, we can HAVE them, but that’s not marked inside the system. 
+Often that a thread will get started and someone will come along and take it in a completely different direction.  On Wikipedia this kind of “directorial” intervention would go into a talk pa…
+  </blockquote>
+</aside>
+
+<p>Which isn’t <em>trivially</em> easy to do within the Discourse interface, but neither is it particularly hard.</p>
+<p>BTW, another tool we’ll likely start to use is gentle human facilitation and moderation to split topics and get them sorted into the right place (as well as having better “right” places):</p>
+<aside class="quote" data-post="1" data-topic="399">
+  <div class="title">
+    <div class="quote-controls"></div>
+    <img alt="" width="20" height="20" src="/user_avatar/forum.openglobalmind.com/peterkaminski/40/3_2.png" class="avatar">
+    <a href="https://forum.openglobalmind.com/t/forming-a-moderation-team/399">Forming a Moderation Team</a> <a class="badge-wrapper  bullet" href="/c/site-feedback/2"><span class="badge-category-bg" style="background-color: #808281;"></span><span style="" data-drop-close="true" class="badge-category clear-badge" title="Discussion about this site, its organization, how it works, and how we can improve it.">Site Feedback</span></a>
+  </div>
+  <blockquote>
+    <a class="mention" href="/u/robok">@RobOK</a> and I had a good conversation today covering both <a href="https://forum.openglobalmind.com/t/suggestion-for-topic-areas-to-promote-discussion-over-time/366/9">Suggestion for Topic Areas to promote discussion over time</a> and <a href="https://forum.openglobalmind.com/t/how-much-curating-moderation-should-be-done-here/396/4">How much curating/moderation should be done here?</a>. 
+We are looking forward to bringing some suggested changes to the OGM Tuesday call next week. 
+One suggestion is to form a “Moderation Team” of folks who help to structure, curate, and facilitate OGM Forum. 
+Let us know if you’d be interested in participating!
+  </blockquote>
+</aside>
+
+<p>Meta:</p>
+<p>I <img src="https://forum.openglobalmind.com/images/emoji/apple/heart.png?v=9" title=":heart:" class="emoji" alt=":heart:"> that you have created a “meta-meta-meta” topic. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/2</link>
+        <pubDate>Fri, 20 Nov 2020 23:52:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-407-2</guid>
+        <source url="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407.rss">Meta-meta-meta discussions</source>
+      </item>
+      <item>
+        <title>Meta-meta-meta discussions</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Continuing the discussion from <a href="https://forum.openglobalmind.com/t/meta-meta-discussions/406">Meta-meta discussions</a>:</p>
+<p>Yes, I think it is as described here:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/whats-the-best-way-to-branch-off-a-discussion-from-a-topic/48791" target="_blank" rel="nofollow noopener" title="09:55AM - 18 August 2016">Discourse Meta – 18 Aug 16</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png" class="thumbnail onebox-avatar" width="500" height="500" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_500x500.png, https://forum.openglobalmind.com/uploads/default/original/1X/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/ecc92a52ee7353e03d5c0d1ea6521ce4541d9c25_2_10x10.png">
+
+<h3><a href="https://meta.discourse.org/t/whats-the-best-way-to-branch-off-a-discussion-from-a-topic/48791" target="_blank" rel="nofollow noopener">What's the best way to branch off a discussion from a topic?</a></h3>
+
+<p>We have one topic where new community members are introducing themselves and I’m seeing lots of cases where I’d like to get into a more in-depth conversation on a tangent to the thread topic.  If I reply to a comment, it shows up nicely under a 1...</p>
+
+  <p><span class="label1">Reading time: 1 mins 🕑</span>
+    <span class="label2">Likes: 7 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Use the “link” at the bottom of any post to create a “linked discussion”.</p>
+<p>But this then needs to be taught to people who use this site so that they don’t hijack threads with clutter.</p>
+          <p><a href="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407/1</link>
+        <pubDate>Fri, 20 Nov 2020 23:42:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-407-1</guid>
+        <source url="https://forum.openglobalmind.com/t/meta-meta-meta-discussions/407.rss">Meta-meta-meta discussions</source>
+      </item>
+  </channel>
+</rss>

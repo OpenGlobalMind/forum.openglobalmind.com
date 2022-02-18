@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Announcements category</title>
+    <link>https://forum.openglobalmind.com/t/about-the-announcements-category/140</link>
+    <description>Announcements about OGM and OGM Forum.</description>
+    
+    <lastBuildDate>Fri, 07 Aug 2020 01:17:58 +0000</lastBuildDate>
+    <category>Announcements</category>
+    <atom:link href="https://forum.openglobalmind.com/t/about-the-announcements-category/140.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Announcements category</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Announcements about OGM and OGM Forum.</p>
+          <p><a href="https://forum.openglobalmind.com/t/about-the-announcements-category/140/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/about-the-announcements-category/140/1</link>
+        <pubDate>Fri, 07 Aug 2020 01:17:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-140-1</guid>
+        <source url="https://forum.openglobalmind.com/t/about-the-announcements-category/140.rss">About the Announcements category</source>
+      </item>
+  </channel>
+</rss>

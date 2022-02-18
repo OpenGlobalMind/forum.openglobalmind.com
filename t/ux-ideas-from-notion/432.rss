@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>UX ideas from Notion</title>
+    <link>https://forum.openglobalmind.com/t/ux-ideas-from-notion/432</link>
+    <description>[Here](https://medium.com/swlh/how-to-use-notion-for-research-6003ed8cc07b) is a piece about using Notion in research.
+
+I am particularly fascinated with the many ways in which the author is able to use gestures in that platform to accomplish so many tasks.  I believe it can be a valuable exercise to imagine how some of that can be mapped into an open source OGM tool ecosystem.</description>
+    
+    <lastBuildDate>Wed, 25 Nov 2020 20:26:07 +0000</lastBuildDate>
+    <category>Designing the System</category>
+    <atom:link href="https://forum.openglobalmind.com/t/ux-ideas-from-notion/432.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>UX ideas from Notion</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <p>There is a weak Notion clone - node/express/mongo/react <a href="https://github.com/konstantinmuenster/notion-clone" rel="nofollow noopener">here</a>.</p>
+          <p><a href="https://forum.openglobalmind.com/t/ux-ideas-from-notion/432/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/ux-ideas-from-notion/432/2</link>
+        <pubDate>Wed, 25 Nov 2020 20:26:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-432-2</guid>
+        <source url="https://forum.openglobalmind.com/t/ux-ideas-from-notion/432.rss">UX ideas from Notion</source>
+      </item>
+      <item>
+        <title>UX ideas from Notion</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="https://medium.com/swlh/how-to-use-notion-for-research-6003ed8cc07b" rel="nofollow noopener">Here</a> is a piece about using Notion in research.</p>
+<p>I am particularly fascinated with the many ways in which the author is able to use gestures in that platform to accomplish so many tasks.  I believe it can be a valuable exercise to imagine how some of that can be mapped into an open source OGM tool ecosystem.</p>
+          <p><a href="https://forum.openglobalmind.com/t/ux-ideas-from-notion/432/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/ux-ideas-from-notion/432/1</link>
+        <pubDate>Wed, 25 Nov 2020 20:21:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-432-1</guid>
+        <source url="https://forum.openglobalmind.com/t/ux-ideas-from-notion/432.rss">UX ideas from Notion</source>
+      </item>
+  </channel>
+</rss>

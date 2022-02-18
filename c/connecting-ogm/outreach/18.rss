@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>OGM Connections - Open Global Mind Forum</title>
+    <link>https://forum.openglobalmind.com/c/connecting-ogm/outreach/18</link>
+    <description>Topics in the &#39;OGM Connections&#39; category OGM is trying, as much as possible, to be a bridge, a catalyst, a connector. There are already &lt;a href=&quot;https://bra.in/7jL4YN&quot;&gt;many communities around the world&lt;/a&gt; that are building components of OGM.</description>
+    
+      <lastBuildDate>Mon, 23 Nov 2020 07:24:50 +0000</lastBuildDate>
+      <atom:link href="https://forum.openglobalmind.com/c/connecting-ogm/outreach/18.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Collective Sense Commons Agora (A Chat Service)</title>
+          <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+          <category>OGM Connections</category>
+          <description><![CDATA[
+            <p>You may have heard me talking about the <strong>Collective Sense Commons</strong> (CSC) in the past month or so.  Or perhaps not.</p>
+<p>Collective Sense Commons is an expression of my belief that there should be an information and communications commons for persons and organizations who are working on collective sensemaking.</p>
+<p>It starts now with a chat service, running Mattermost software.  Mattermost is very similar to Slack.  Chat services like Mattermost or Slack are good for in-the-moment conversations, and for conversations that run from minutes to hours to days.  They are a little more quick and nimble than a forum (such as OGM Forum), which is why you might use a chat service instead of a forum.</p>
+<p>On the flip side, chat services are harder to use for conversations that run from days to weeks to months, which is why you might use a forum instead of chat.  Or, maybe you just prefer one over the other, or hanging out with the folks who happen to use one or the other.</p>
+<p>CSC is currently an ad hoc organization, similar to the way OGM is an ad hoc organization, although it’s much smaller right now, just me and a few advisors.</p>
+<p>My general idea is that CSC is a member of OGM, and that OGM will hopefully be a member of CSC, together with many other individuals and organizations, in a big federation.</p>
+<p>That’s a little ways down the road.  For today, I’d like to announce that CSC Agora is ready for Early Adopters or the very curious.  It is a nice, fresh install of Mattermost, currently with just two starter channels, “Town Square” (like <span class="hashtag">#general</span>, for Slack folks) and “Off-Topic” (like <span class="hashtag">#random</span>).  I expect soon we’ll have a couple of OGM channels, a couple of CICOLAB channels, and who knows, maybe a few others, based around other orgs, or other areas of interest, we’ll see.</p>
+<p>In the coming weeks, I’ll also be setting up a CSC wiki, running MediaWiki.  But that’s for later; for now, if you’re a little adventurous, feel free to come check out CSC Agora!</p>
+<p>Go here to sign up:</p>
+<blockquote>
+<p>CSC Agora<br>
+<a href="https://chat.collectivesensecommons.org/">https://chat.collectivesensecommons.org/</a></p>
+</blockquote>
+<p>Also consider installing dedicated mobile and desktop Mattermost clients, which you can use with CSC Agora and other Mattermost servers: <a href="https://mattermost.com/download/#mattermostApps">https://mattermost.com/download/#mattermostApps</a></p>
+<p>Thank you!</p>
+            <p><small>4 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428</link>
+          <pubDate>Mon, 23 Nov 2020 07:24:50 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-428</guid>
+          <source url="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428.rss">Collective Sense Commons Agora (A Chat Service)</source>
+        </item>
+        <item>
+          <title>Collective Intelligence &amp; Wisdom: an OGM-branded virtual fair</title>
+          <dc:creator><![CDATA[Technoshaman]]></dc:creator>
+          <category>OGM Connections</category>
+          <description><![CDATA[
+            <p>In his email, <a class="mention" href="/u/jerry">@Jerry</a> called our attention to the EU Collective Intelligence Summit of next week. He also mentioned, “we often use this list to share things going on of interest.” That triggered the following stream of consciousness.</p>
+<p>Yeah, the “collective intelligence summit” theme is certainly both OGMy and Technoshamany <img src="https://forum.openglobalmind.com/uploads/default/original/1X/a673a54eddce0a26b12e501c03e0775a492ef8e1.png" alt="🙂" data-base62-sha1="nKv1R58Zpr1ba9c06pFC4wixma5" width="48" height="48"> . Unfortunately, this one, just like most other events about the same subject, speaks <em>about</em> and not <em>from</em> it. I.e. The event designers don’t use the great brain power present in the conference hall, physical or virtual, for turning its collection of intelligence into a collective intelligence, beyond the eventual break-out rooms that, typically, lead to nowhere.</p>
+<p>Well, maybe that’s not “unfortunate” because it gives <em>us</em> the opportunity for a truly trailblazing global event where CI wouldn’t only be the topic but CI principles and practices would be fully embedded in how it is designed, facilitated, and harvested.</p>
+<p>Why not celebrate the global premiere of OGM with a masterfully designed unconference or virtual fair, where if someone wants to be a presenter, s/he would need to accept an answer from us, like, “only if you’re willing to participate in the practices for augmenting the CI of the whole event.”</p>
+<p>For those of us curious about the history of the efforts to co-create CI-boosting public events, there’s a <a href="https://www.co-intelligence.org/CIC-Origins.doc" rel="nofollow noopener">“Collective Intelligence Convergence” write-up</a> about what I started with my friend, Tom Atlee, back in 1993. Those efforts culminated, in 2007, in the design of the <a href="https://www.co-intelligence.org/CIC-Invitation1.html" rel="nofollow noopener">Collective Intelligence and Human Choice</a> that was going to be a CI convergence event.</p>
+<p>That plan didn’t materialize but both of the documents referenced above have plenty of mineable insights for future organizers of CI-augmenting events. The only tangible outcome from those efforts was that many of the invitees morphed into co-authors of the 648-page COLLECTIVE INTELLIGENCE: Creating Prosperous World at Peace anthology, to which I contributed a couple of chapters. (You can get the book on Kindle for $3.69.)</p>
+<p>But not all of my big unconference organizing efforts remained fruitless. With my friends I co-designed and facilitated, in 1998, the Knowledge Ecology Fair, a highly successful, month-long virtual event attended by 400 participants from all over the world and complete with all this:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/0546e1d25363d8f1e43a31b480971ff412876716.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/0546e1d25363d8f1e43a31b480971ff412876716" title="KEFair home page"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/0546e1d25363d8f1e43a31b480971ff412876716_2_690x495.jpeg" alt="KEFair home page" data-base62-sha1="KGfB5CrBldLldzwEd39VjP6LNs" width="690" height="495" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/0546e1d25363d8f1e43a31b480971ff412876716_2_690x495.jpeg, https://forum.openglobalmind.com/uploads/default/original/1X/0546e1d25363d8f1e43a31b480971ff412876716.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/0546e1d25363d8f1e43a31b480971ff412876716.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/0546e1d25363d8f1e43a31b480971ff412876716_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">KEFair home page</span><span class="informations">710×510 107 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p>So, if my team could accomplish that, with some corporate sponsorship, 32 years ago, why couldn’t <em>we</em>, OGMers, not celebrate collective intelligence &amp; wisdom with a global virtual fair, complete self-organizing workshops, virtual booths of CI tool and process startups, knowledge café, etc.? Just an idea worth pondering…</p>
+            <p><small>7 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/collective-intelligence-wisdom-an-ogm-branded-virtual-fair/364">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/collective-intelligence-wisdom-an-ogm-branded-virtual-fair/364</link>
+          <pubDate>Thu, 12 Nov 2020 20:41:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-364</guid>
+          <source url="https://forum.openglobalmind.com/t/collective-intelligence-wisdom-an-ogm-branded-virtual-fair/364.rss">Collective Intelligence &amp; Wisdom: an OGM-branded virtual fair</source>
+        </item>
+        <item>
+          <title>Event, 8/13: &quot;Sensemaking: Cooperative Frameworks post-COVID19 &amp; Cross-Silo Cooperation&quot;</title>
+          <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+          <category>OGM Connections</category>
+          <description><![CDATA[
+            <p>Date: Thursday, August 13, 2020, 11:00 AM – 12:00 PM California time (PDT).</p>
+<p>This nominal-cost online event is part of the Foresight Institute’s weekly online salons.  Foresight is a nonprofit research and public policy org focused on “technologies of fundamental importance to the human future, focusing on molecular machine nanotechnology, cybersecurity, and artificial intelligence.”  I’ve been part of their extended community for 25+ years, it’s a good org.  Their site: <a href="https://foresight.org/">https://foresight.org/</a></p>
+<p>This week’s event seems well-aligned with OGM’s interests.  A donation (of any amount) is required.  Here’s the Eventbrite signup:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/2d0195e8881be5d4b437654748a94f10589051bd.png" class="site-icon" width="32" height="32">
+      <a href="https://www.eventbrite.com/e/sensemaking-cooperative-frameworks-post-covid19-cross-silo-cooperation-tickets-116654688313" target="_blank" rel="noopener">Eventbrite</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/345;"><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F108330949%2F36921949044%2F1%2Foriginal.20200811-201022?w=1000&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;rect=197%2C0%2C1034%2C517&amp;s=aa37602eb43c4d95d21a4d59e5aab7e0" class="thumbnail" width="690" height="345"></div>
+
+<h3><a href="https://www.eventbrite.com/e/sensemaking-cooperative-frameworks-post-covid19-cross-silo-cooperation-tickets-116654688313" target="_blank" rel="noopener">Sensemaking: Cooperative Frameworks post-COVID19 &amp; Cross-Silo Cooperation</a></h3>
+
+<p>How can we improve our perception of the complexity we live within, so we may improve our interaction with the world?</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Here’s the blurb (also on the page above):</p>
+<p>====</p>
+<p>“How can we improve our perception of the complexity we live within, so we may improve our interaction with the world?”</p>
+<p>About this Event</p>
+<p>We are delighted to host Nora Bateson and Phoebe Tickell this Thursday for a discussion focused on cooperative frameworks for advancing cooperation across disciplines in a post covid-19 world.</p>
+<p>Nora Bateson is an award-winning filmmaker, writer and educator, as well as President of the International Bateson Institute, based in Sweden. Her work asks the question “How we can improve our perception of the complexity we live within, so we may improve our interaction with the world?”. Her work brings the fields of biology, cognition, art, anthropology, psychology, and information technology together into a study of the patterns in ecology of living systems.</p>
+<p>The IBI integrates the sciences, arts and professional knowledge to create a qualitative inquiry of the integration of life. As President, Nora directs research projects at the IBI that require multiple contexts of research and interdependent processes. Asking, “How can we create a context in which to study the contexts?”, an impressive team of international thinkers, scientists and artists have been brought together by the IBI to generate an innovative form of inquiry, which Nora coined “Transcontextual Research”.</p>
+<p>Phoebe Tickell is a scientist, educator and serial systems entrepreneur. She has co-founded a series of organisations that steward systems change via innovation, weaving together networks and learning programmes across the sectors of education, food and farming, sustainability, and technology. She has a first class degree in Biological Natural Sciences from Cambridge University, and she brings this training in understanding biological networks and systems thinking into all of her work.</p>
+<p>She brings her training in systems and networks into the areas of sustainability, re-thinking business and work, and personal development. She is part of the design and delivery team of a cutting-edge Master’s programme at Schumacher College, UK, which trains and prepares students for a complex world with a basis in systems thinking, network science, complexity, and earth systems science, and the Youth Initiative Programme, Sweden. She is a Member of the social change freelancer network Enspiral which both supports and is supported by her work.</p>
+            <p><small>15 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/event-8-13-sensemaking-cooperative-frameworks-post-covid19-cross-silo-cooperation/158">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/event-8-13-sensemaking-cooperative-frameworks-post-covid19-cross-silo-cooperation/158</link>
+          <pubDate>Wed, 12 Aug 2020 05:53:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-158</guid>
+          <source url="https://forum.openglobalmind.com/t/event-8-13-sensemaking-cooperative-frameworks-post-covid19-cross-silo-cooperation/158.rss">Event, 8/13: &quot;Sensemaking: Cooperative Frameworks post-COVID19 &amp; Cross-Silo Cooperation&quot;</source>
+        </item>
+        <item>
+          <title>About the OGM Connections category</title>
+          <dc:creator><![CDATA[Jerry]]></dc:creator>
+          <category>OGM Connections</category>
+          <description><![CDATA[
+            <p>OGM is trying, as much as possible, to be a bridge, a catalyst, a connector. There are already <a href="https://bra.in/7jL4YN">many communities around the world</a> that are building components of OGM.</p>
+<p>How should we approach them? What is our offer to them? How do we integrate what they’ve created?</p>
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/about-the-ogm-connections-category/31">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/about-the-ogm-connections-category/31</link>
+          <pubDate>Thu, 30 Jul 2020 05:55:11 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-31</guid>
+          <source url="https://forum.openglobalmind.com/t/about-the-ogm-connections-category/31.rss">About the OGM Connections category</source>
+        </item>
+  </channel>
+</rss>

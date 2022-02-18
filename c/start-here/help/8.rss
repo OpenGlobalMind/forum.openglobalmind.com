@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Help! - Open Global Mind Forum</title>
+    <link>https://forum.openglobalmind.com/c/start-here/help/8</link>
+    <description>Topics in the &#39;Help!&#39; category If you can’t find what you’re looking for in this forum, ask for help here and we’ll try to sort things out.</description>
+    
+      <lastBuildDate>Thu, 30 Jul 2020 05:50:53 +0000</lastBuildDate>
+      <atom:link href="https://forum.openglobalmind.com/c/start-here/help/8.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>About the Help! category</title>
+          <dc:creator><![CDATA[Jerry]]></dc:creator>
+          <category>Help!</category>
+          <description><![CDATA[
+            <p>If you can’t find what you’re looking for in this forum, ask for help here and we’ll try to sort things out.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/about-the-help-category/21">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/about-the-help-category/21</link>
+          <pubDate>Thu, 30 Jul 2020 05:50:53 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-21</guid>
+          <source url="https://forum.openglobalmind.com/t/about-the-help-category/21.rss">About the Help! category</source>
+        </item>
+  </channel>
+</rss>

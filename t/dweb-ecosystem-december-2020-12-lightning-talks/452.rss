@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>DWeb Ecosystem, December 2020: 12 Lightning Talks</title>
+    <link>https://forum.openglobalmind.com/t/dweb-ecosystem-december-2020-12-lightning-talks/452</link>
+    <description>@holtzermann17, sort of posting this for you; I already posted it to the mailing list and to CSC Agora, but I don&#39;t think you&#39;re on either of those right now.  And some of this event might appeal to you.
+
+Also for anyone else, of course! 
+
+**Good virtual event for the tech folks, organized by DWeb Meetup SF. Thursday 5pm PST, 8pm EST, 2am CET.** (Time was specifically chosen for this event to be Asia-friendly; sorry Europe!) **Free/donate registration through Eventbrite required.**
+
+https://www.eventbrite.com/e/dweb-meetup-december-2020-the-latest-in-the-dweb-ecosystem-tickets-130047907793
+
+Hear from 12 Projects: challenges, milestones &amp; lessons learned
+
+Even amidst the COVID lockdown, builders of the Decentralized Web have hit new milestones. At our next DWeb Meetup, we will hear from a dozen projects about their breakthroughs, challenges, and roadmaps for the coming year. As with all of our DWeb Meetups, these lightning talks will provide an opportunity to learn from others and explore potential partnerships and collaboration. (We ask for less “product pitch” and more sharing important lessons.)
+
+Join us for lightning rounds of 5 minute talks with 2 minutes of Q&amp;A in Zoom. Afterwards we will head to Gather.town for socializing and networking.
+
+Here are some of the 12 Presenters:
+
+Mauve Signweaver, Founder, Agregore
+
+Agregore: Local-First Web Of Everything
+
+Agregore is a local-first web browser which aims to simplify application development across different peer-to-peer protocols while staying as minimal and customizable as possible.
+
+Twitter: @RangerMauve
+
+Tom Trowbridge, Founder, Fluence Labs
+
+Fluence Labs was established in 2017 by 3 founders, Dmitry Kurinskiy, Tom Trowbridge and Evgeny Ponomarev. Fluence Labs has developed an open application platform that leverages blockchain to enable new software business models. Applications share data and users and are radically easier to create, allowing developers to build on each other and be rewarded as their services and applications are used.
+
+Twitter: @Fluence_Project
+
+Maria Bustillos, Co-Founder, Brick House Co-operative
+
+Megaplatforms from Amazon to Facebook to Penguin Random House have flattened and centralized the human imagination. The Brick House Cooperative, launching December 8th, is addressing this problem as writers and artists, ‘from the other side’. They’re looking to join forces with technologists and others interested in decorporatizing media. Maria will also share how her previous experience with Civil, a blockchain-based media platform that aimed to fund journalism, will inform her work with The Brick House.
+
+Twitter: @mariabustillos
+
+Dietrich Ayala, Ecosystem Lead, IPFS
+
+Big is Small is Big: IPFS Usage, Users and Use-cases in 2020
+
+As adoption and availability of IPFS grew in 2020, we saw it used across a broad spectrum of applications, varying widely in industry category, use-case, architecture and more. IPFS ecosystem lead Dietrich Ayala will speedrun through a sampling of these, sharing what was learned and how our users are guiding the IPFS project into 2021.
+
+Twitter: @dietrich
+
+Karissa McKelvey, Researcher, Simply Secure
+
+Decentralization Off The Shelf: Patterns x Decentralized Applications
+
+It&#39;s hard to get started building a decentralized application. Even if you&#39;ve been building them for years, it&#39;s hard to get them adopted. Decentralized applications operate differently than centralized ones — and we need new tools that developers and designers can use to understand how to build applications. Simply Secure is now producing a library of resources, assets, and patterns to support the design and development of better user-facing applications that are backed by decentralized architecture.
+
+Twitter: @okdistribute
+
+Adam Souzis, One Commons
+
+“At the DWeb Camp in 2019, I led a brainstorming session on how we can build a cloud providing the same openness and freedoms to users and developers as open source. One year and a pandemic later, I&#39;m excited to finally release the first step in pursuit of that vision: &quot;ensembles,&quot; git repositories that package open cloud services. They are designed to be the building blocks of an open and decentralized cloud infrastructure: reproducible, relocatable and shareable. Decentralization is obtained via a notion of a persistent identity that is defined not by a network location but rather a reproducible state.”
+
+@onecommons
+
+Travis Vachon -- ItMe.company (The first Co-op Data union built on top of SOLID)
+
+Centralized tech monopolies and other large corporations capture the vast majority of the value of the world&#39;s data in 2020. In order to create the conditions necessary to return this value to the world&#39;s users, we need new politico-technical-social institutions that give users the ability to provide and retract informed consent over the ways their data is used. itme is building the world&#39;s first cooperatively owned and operated data union built on Tim Berners-Lee&#39;s new Solid web standard to let users reassemble their digital bodies and capture the value of the data they create.
+
+https://itme.company
+
+@itmepress
+
+Brandon Wallace, &amp; Drew O&#39;Meara, PLAN Systems
+
+PLAN Systems is a technology 501(c)(3) founded in 2018 by two U.S. veterans in Austin TX. Their development effort centers on building a framework of open protocols and universally accessible interfaces designed for privacy, real time collaboration, data visualization, and secure data storage &amp; portability. November was a critical milestone, demonstrating PLAN (pre-alpha) running on 4 major platforms across desktop and mobile devices.
+
+Github: https://github.com/plan-systems
+
+Paul Frazee, Founder, Beaker Browser
+
+Beaker Browser 1.0: Share P2P Websites
+
+Unless there was a disaster between now and Thursday, then Beaker Browser 1.0 will be available! Join us for a quick overview of building and sharing peer-to-peer Websites with this newest release.
+
+@pfrazee https://beakerbrowser.com
+
+Mark Nadal, Founder, Gun.eco
+
+Founded in 2014, GUN is an open source cybersecurity protocol for synchronizing graph data in decentralized mesh networks. It is as easy as Firebase yet supports end-to-end encryption and uses &quot;CRDT&quot; algorithms instead of a Blockchain.
+
+In 2020, GUN hit 200M+ downloads with 30M monthly active users. The project is powered by 2 full time staff, 10 part-time volunteers, and 100+ contributors.
+
+Twitter: @marknadal
+
+Yisi Liu, Founder, DWeb Meetup Shanghai
+
+The DWeb Shanghai group co-hosted a workshop on mesh network building. We joined with the Institute of Network Society at China Academy of Art as a special workshop of its fifth annual conference. I will share an overview of this mesh networking workshop and what we learned.
+
+Twitter: @TheYisiLiu
+
+SCHEDULE:
+
+San Francisco: 5:00 PM / Austin: 7:00 PM / Boston-New York: 8:00 PM / Buenos Aires-São Paulo: 10:00 PM / Shanghai: 9:00 AM next day / Sydney: 12:00 PM next day / Auckland: 2:00 PM next day / London: 1:00 AM next day / Prague-Berlin: 2:00 AM next day / Perm: 6:00 AM next day
+
+Please note that we organized this DWeb Meetup at a different time to make it easier for people in the Asia Pacific region to join us.
+
+The following times are in Pacific Time:
+
+5:00 PM - Welcome &amp; Announcements
+
+5:15 PM - Lightning Talks Begin
+
+6:45 PM - Closing Remarks
+
+7:00 PM - Post-Event Socializing on Gather.town
+
+Questions?
+
+Write to dweb@archive.org with questions, to volunteer, or more.</description>
+    
+    <lastBuildDate>Thu, 03 Dec 2020 06:16:20 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/dweb-ecosystem-december-2020-12-lightning-talks/452.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>DWeb Ecosystem, December 2020: 12 Lightning Talks</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/holtzermann17">@holtzermann17</a>, sort of posting this for you; I already posted it to the mailing list and to CSC Agora, but I don’t think you’re on either of those right now.  And some of this event might appeal to you.</p>
+<p>Also for anyone else, of course!</p>
+<p><strong>Good virtual event for the tech folks, organized by DWeb Meetup SF. Thursday 5pm PST, 8pm EST, 2am CET.</strong> (Time was specifically chosen for this event to be Asia-friendly; sorry Europe!) <strong>Free/donate registration through Eventbrite required.</strong></p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/2d0195e8881be5d4b437654748a94f10589051bd.png" class="site-icon" width="32" height="32">
+      <a href="https://www.eventbrite.com/e/dweb-meetup-december-2020-the-latest-in-the-dweb-ecosystem-tickets-130047907793" target="_blank" rel="noopener">Eventbrite</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/345;"><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F118626647%2F154460368634%2F1%2Foriginal.20201124-212935?w=1000&amp;auto=format%2Ccompress&amp;q=75&amp;sharp=10&amp;rect=0%2C0%2C2160%2C1080&amp;s=d720c6581fd9fb3bd241a2a329cb77db" class="thumbnail" width="690" height="345"></div>
+
+<h3><a href="https://www.eventbrite.com/e/dweb-meetup-december-2020-the-latest-in-the-dweb-ecosystem-tickets-130047907793" target="_blank" rel="noopener">Dweb Meetup December 2020 — The Latest in the DWeb Ecosystem</a></h3>
+
+<p>At our next DWeb Meetup, we hear from a dozen projects about their breakthroughs, challenges, and roadmaps for the coming year.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Hear from 12 Projects: challenges, milestones &amp; lessons learned</p>
+<p>Even amidst the COVID lockdown, builders of the Decentralized Web have hit new milestones. At our next DWeb Meetup, we will hear from a dozen projects about their breakthroughs, challenges, and roadmaps for the coming year. As with all of our DWeb Meetups, these lightning talks will provide an opportunity to learn from others and explore potential partnerships and collaboration. (We ask for less “product pitch” and more sharing important lessons.)</p>
+<p>Join us for lightning rounds of 5 minute talks with 2 minutes of Q&amp;A in Zoom. Afterwards we will head to Gather.town for socializing and networking.</p>
+<p>Here are some of the 12 Presenters:</p>
+<p>Mauve Signweaver, Founder, Agregore</p>
+<p>Agregore: Local-First Web Of Everything</p>
+<p>Agregore is a local-first web browser which aims to simplify application development across different peer-to-peer protocols while staying as minimal and customizable as possible.</p>
+<p>Twitter: <span class="mention">@RangerMauve</span></p>
+<p>Tom Trowbridge, Founder, Fluence Labs</p>
+<p>Fluence Labs was established in 2017 by 3 founders, Dmitry Kurinskiy, Tom Trowbridge and Evgeny Ponomarev. Fluence Labs has developed an open application platform that leverages blockchain to enable new software business models. Applications share data and users and are radically easier to create, allowing developers to build on each other and be rewarded as their services and applications are used.</p>
+<p>Twitter: <span class="mention">@Fluence_Project</span></p>
+<p>Maria Bustillos, Co-Founder, Brick House Co-operative</p>
+<p>Megaplatforms from Amazon to Facebook to Penguin Random House have flattened and centralized the human imagination. The Brick House Cooperative, launching December 8th, is addressing this problem as writers and artists, ‘from the other side’. They’re looking to join forces with technologists and others interested in decorporatizing media. Maria will also share how her previous experience with Civil, a blockchain-based media platform that aimed to fund journalism, will inform her work with The Brick House.</p>
+<p>Twitter: <span class="mention">@mariabustillos</span></p>
+<p>Dietrich Ayala, Ecosystem Lead, IPFS</p>
+<p>Big is Small is Big: IPFS Usage, Users and Use-cases in 2020</p>
+<p>As adoption and availability of IPFS grew in 2020, we saw it used across a broad spectrum of applications, varying widely in industry category, use-case, architecture and more. IPFS ecosystem lead Dietrich Ayala will speedrun through a sampling of these, sharing what was learned and how our users are guiding the IPFS project into 2021.</p>
+<p>Twitter: <span class="mention">@dietrich</span></p>
+<p>Karissa McKelvey, Researcher, Simply Secure</p>
+<p>Decentralization Off The Shelf: Patterns x Decentralized Applications</p>
+<p>It’s hard to get started building a decentralized application. Even if you’ve been building them for years, it’s hard to get them adopted. Decentralized applications operate differently than centralized ones — and we need new tools that developers and designers can use to understand how to build applications. Simply Secure is now producing a library of resources, assets, and patterns to support the design and development of better user-facing applications that are backed by decentralized architecture.</p>
+<p>Twitter: <span class="mention">@okdistribute</span></p>
+<p>Adam Souzis, One Commons</p>
+<p>“At the DWeb Camp in 2019, I led a brainstorming session on how we can build a cloud providing the same openness and freedoms to users and developers as open source. One year and a pandemic later, I’m excited to finally release the first step in pursuit of that vision: “ensembles,” git repositories that package open cloud services. They are designed to be the building blocks of an open and decentralized cloud infrastructure: reproducible, relocatable and shareable. Decentralization is obtained via a notion of a persistent identity that is defined not by a network location but rather a reproducible state.”</p>
+<p><span class="mention">@onecommons</span></p>
+<p>Travis Vachon – ItMe.company (The first Co-op Data union built on top of SOLID)</p>
+<p>Centralized tech monopolies and other large corporations capture the vast majority of the value of the world’s data in 2020. In order to create the conditions necessary to return this value to the world’s users, we need new politico-technical-social institutions that give users the ability to provide and retract informed consent over the ways their data is used. itme is building the world’s first cooperatively owned and operated data union built on Tim Berners-Lee’s new Solid web standard to let users reassemble their digital bodies and capture the value of the data they create.</p>
+<p><a href="https://itme.company" class="onebox" target="_blank">https://itme.company</a></p>
+<p><span class="mention">@itmepress</span></p>
+<p>Brandon Wallace, &amp; Drew O’Meara, PLAN Systems</p>
+<p>PLAN Systems is a technology 501©(3) founded in 2018 by two U.S. veterans in Austin TX. Their development effort centers on building a framework of open protocols and universally accessible interfaces designed for privacy, real time collaboration, data visualization, and secure data storage &amp; portability. November was a critical milestone, demonstrating PLAN (pre-alpha) running on 4 major platforms across desktop and mobile devices.</p>
+<p>Github: <a href="https://github.com/plan-systems">https://github.com/plan-systems</a></p>
+<p>Paul Frazee, Founder, Beaker Browser</p>
+<p>Beaker Browser 1.0: Share P2P Websites</p>
+<p>Unless there was a disaster between now and Thursday, then Beaker Browser 1.0 will be available! Join us for a quick overview of building and sharing peer-to-peer Websites with this newest release.</p>
+<p><span class="mention">@pfrazee</span> <a href="https://beakerbrowser.com">https://beakerbrowser.com</a></p>
+<p>Mark Nadal, Founder, Gun.eco</p>
+<p>Founded in 2014, GUN is an open source cybersecurity protocol for synchronizing graph data in decentralized mesh networks. It is as easy as Firebase yet supports end-to-end encryption and uses “CRDT” algorithms instead of a Blockchain.</p>
+<p>In 2020, GUN hit 200M+ downloads with 30M monthly active users. The project is powered by 2 full time staff, 10 part-time volunteers, and 100+ contributors.</p>
+<p>Twitter: <span class="mention">@marknadal</span></p>
+<p>Yisi Liu, Founder, DWeb Meetup Shanghai</p>
+<p>The DWeb Shanghai group co-hosted a workshop on mesh network building. We joined with the Institute of Network Society at China Academy of Art as a special workshop of its fifth annual conference. I will share an overview of this mesh networking workshop and what we learned.</p>
+<p>Twitter: <span class="mention">@TheYisiLiu</span></p>
+<p>SCHEDULE:</p>
+<p>San Francisco: 5:00 PM / Austin: 7:00 PM / Boston-New York: 8:00 PM / Buenos Aires-São Paulo: 10:00 PM / Shanghai: 9:00 AM next day / Sydney: 12:00 PM next day / Auckland: 2:00 PM next day / London: 1:00 AM next day / Prague-Berlin: 2:00 AM next day / Perm: 6:00 AM next day</p>
+<p>Please note that we organized this DWeb Meetup at a different time to make it easier for people in the Asia Pacific region to join us.</p>
+<p>The following times are in Pacific Time:</p>
+<p>5:00 PM - Welcome &amp; Announcements</p>
+<p>5:15 PM - Lightning Talks Begin</p>
+<p>6:45 PM - Closing Remarks</p>
+<p>7:00 PM - Post-Event Socializing on Gather.town</p>
+<p>Questions?</p>
+<p>Write to <a href="mailto:dweb@archive.org">dweb@archive.org</a> with questions, to volunteer, or more.</p>
+          <p><a href="https://forum.openglobalmind.com/t/dweb-ecosystem-december-2020-12-lightning-talks/452/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/dweb-ecosystem-december-2020-12-lightning-talks/452/1</link>
+        <pubDate>Thu, 03 Dec 2020 06:16:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-452-1</guid>
+        <source url="https://forum.openglobalmind.com/t/dweb-ecosystem-december-2020-12-lightning-talks/452.rss">DWeb Ecosystem, December 2020: 12 Lightning Talks</source>
+      </item>
+  </channel>
+</rss>

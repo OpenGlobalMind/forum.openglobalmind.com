@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Shared Code Repository for OGM</title>
+    <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124</link>
+    <description>EDIT: I created https://github.com/OpenGlobalMind. Comment below with your GitHub ID to request access.
+
+---
+
+I thought we might be slinging some experimental code and might want a shared place to host it. My preference would be a GitHub Organization.
+
+Any suggestions or concerns?</description>
+    
+    <lastBuildDate>Sat, 21 Nov 2020 13:35:48 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>17 posts were split to a new topic: <a href="/t/logseq-et-seq/408">Logseq et seq</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/14</link>
+        <pubDate>Sat, 21 Nov 2020 14:02:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-14</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ve invited <code>https://github.com/holtzermann17</code> and <code>https://github.com/davidk01</code> (old request).</p>
+<p><code>https://github.com/band</code> is already a member.</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/13</link>
+        <pubDate>Tue, 17 Nov 2020 18:48:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-13</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Also could you add “band” (<a href="https://github.com/band" rel="nofollow noopener">https://github.com/band</a>) — that’s Bill Anderson. He wants to join me in an experiment with logseq (<a href="https://github.com/logseq/logseq" rel="nofollow noopener">https://github.com/logseq/logseq</a>) — and for that we would need, also, a new empty repository “log” or similar.</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/12</link>
+        <pubDate>Mon, 16 Nov 2020 22:01:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-12</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Github ID: holtzermann17</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/11</link>
+        <pubDate>Mon, 16 Nov 2020 21:53:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-11</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[davidk01]]></dc:creator>
+        <description><![CDATA[
+            <p>GitHub ID: davidk01.</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/10</link>
+        <pubDate>Thu, 01 Oct 2020 20:06:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-10</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>GitHub ID: band</p>
+<p>ha, ha, ha: I had to add some chuckles because my github id is too short. (replies &gt; 20 characters). technology: ya gotta love it</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/9</link>
+        <pubDate>Thu, 06 Aug 2020 20:53:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-9</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for setting it up, Bentley!</p>
+<p>My GitHub ID: peterkaminski</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/8</link>
+        <pubDate>Wed, 05 Aug 2020 20:26:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-8</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>GitHub ID: <a href="https://github.com/skreutzer" rel="nofollow noopener">skreutzer</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/7</link>
+        <pubDate>Wed, 05 Aug 2020 20:11:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-7</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[BentleyDavis]]></dc:creator>
+        <description><![CDATA[
+            <p>I created <a href="https://github.com/OpenGlobalMind" rel="nofollow noopener">https://github.com/OpenGlobalMind</a>.<br>
+Comment here with your GitHub ID to request access.</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/6</link>
+        <pubDate>Wed, 05 Aug 2020 20:01:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-6</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Totally agree, it can serve as an instrument for curating the “official” selection. Or, alternatively, as the place where people submit their contributions with write access, or pull requests. I think it’s good to register such organization, as this makes it easier for developers to gather around a defined place (to avoid things spreading too much everywhere, especially in early stages).</p>
+<p>For data projects/repos, I would assume that if there’s interest to participation by less tech savy people and any regular folk, we’ll manage to offer some simple forms or upload options, or a “maintainer” who would commit contributions to the repos, where people can’t or don’t want to deal with <code>git</code> and/or repository hosting themselves directly.</p>
+<p>Among you, Bentley, me and every other potentially interested reader or also ideally OGM administrative personell, can it be figured out who would eventually create the organization?</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/5</link>
+        <pubDate>Wed, 05 Aug 2020 16:35:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-5</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks, Stephan, that reminds me that I recently set up a code management / stewardship strategy for another ad hoc organization.</p>
+<p>We ended up with a GitHub org and a GitLab group (different people’s preferences, no big reason not to support both).  Main dev was done in maintainers’ open source repos either in GitHub or GitLab, generally not in the GitHub org or GitLab group.  Maintainers hold the copyright, with an MIT (or similar) license, since the ad hoc organization didn’t have any legal standing as an entity.</p>
+<p>The GitHub org and GitLab group are used to keep copies of the maintainers’ repos, forked at release points, ensuring that the ad hoc organization always has a copy of the currently used codebases collected in one (well, really two) places.</p>
+<p>The ad hoc organization was bigger than OGM is now, so we needed that much structure.  For now, a GitHub org for OGM is probably enough.  But later, maybe we’ll branch out more, with something like the above.</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/4</link>
+        <pubDate>Wed, 05 Aug 2020 16:26:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-4</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Heh, is that hinting at the little bit of experimental code I published in a repo already? I would love to see creating just a big, great pile of it, with apps and tools in it and maintained that solve some of the common problems OGM and the wider community is struggling with.</p>
+<p>GitHub, GitLab, other, doesn’t matter that much in my mind. Of course GitHub got bought by Microsoft, therefore it’s another instance of the centralization + dependency lock-in effect as these hosters also add functionality and user/account/social data of their own (which is Web, not <code>git</code>!), causing the risk of getting stuck with a single vendor. The <a href="https://www.youtube.com/watch?v=4XpnKHJAok8" rel="nofollow noopener"><code>git</code></a> program/tool can perfectly function regardless of a particular server/vendor. So I personally really don’t mind which hoster/service is used, but would wonder if OGM code/tools/apps/data could be spread over several of them, and maybe some map would be created/maintained about the different components/sources, also with the advantage of not expecting/demanding people to sign up for one that’s different from the one they prefer. Repos could also be copied/migrated over, and that’s where it becomes also obvious that forking/merging/pull-requests/issues between different hosters is not something these companies support, because for their SaaS business, they’re not really in favor of the original decentralization designed into <code>git</code>.</p>
+<p>Anyway, a GitHub “organization” or GitLab “group” is just for collecting a bunch of repositories under a common, shared name, and have user accounts grouped into teams allowing for setting permissions. Or it’s acting as a “social network” for developers to discover each other, their work and affiliations, so it’s a question which one(s) of these to join.</p>
+<p>Somebody familiar with <code>git</code>, the general conventions of software development revision control, tasks/roles and managing projects (or willing to learn some of these together or on the job) would be ideal to register the organization, or at least somebody administratively connected to OGM. Namely, <a class="mention" href="/u/peterkaminski">@peterkaminski</a> or <a class="mention" href="/u/bentleydavis">@BentleyDavis</a> would all be fine, just I myself don’t want to be in control of some “official” OGM accounts/permissions, instead would rather join such or can also perfectly imagine to independently pull and push from/to an official OGM repo collection.</p>
+<p>Maybe to also reflect the open and experimental nature of OGM, inviting/gathering many repos/projects with less formal approval and more of stewarding review (major results can still later be gathered, if the licensing isn’t all conflicting and screwed up, which is a much more serious concern, practically speaking), but creating such an organization/group is universally a good thing, easier to point to and to gain traction/activity.</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/3</link>
+        <pubDate>Wed, 05 Aug 2020 16:06:45 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-3</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>I concur, a GitHub Organization (Free) would be great.</p>
+<p><a class="mention" href="/u/skreutzer">@skreutzer</a> threw some stuff in GitLab, but I don’t think he’s wedded to GitLab.  Stephan, what do you think, would GitHub be okay?</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/2</link>
+        <pubDate>Wed, 05 Aug 2020 13:58:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-2</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+      <item>
+        <title>Shared Code Repository for OGM</title>
+        <dc:creator><![CDATA[BentleyDavis]]></dc:creator>
+        <description><![CDATA[
+            <p>EDIT: I created <a href="https://github.com/OpenGlobalMind" rel="nofollow noopener">https://github.com/OpenGlobalMind</a>. Comment below with your GitHub ID to request access.</p>
+<hr>
+<p>I thought we might be slinging some experimental code and might want a shared place to host it. My preference would be a GitHub Organization.</p>
+<p>Any suggestions or concerns?</p>
+          <p><a href="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124/1</link>
+        <pubDate>Wed, 05 Aug 2020 11:51:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-124-1</guid>
+        <source url="https://forum.openglobalmind.com/t/shared-code-repository-for-ogm/124.rss">Shared Code Repository for OGM</source>
+      </item>
+  </channel>
+</rss>

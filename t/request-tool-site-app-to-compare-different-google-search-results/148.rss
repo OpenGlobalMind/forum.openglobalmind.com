@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Request: Tool/site/app to compare different Google Search results</title>
+    <link>https://forum.openglobalmind.com/t/request-tool-site-app-to-compare-different-google-search-results/148</link>
+    <description>The request is to build a tool/site/app/plugin which, for a search phrase, displays the Google Search results side by side based on different search configurations, namely (but not limited to) the search for exact matches (in quotation marks) and the similar, broader matches if the search is done without quotation marks around the phrase. The purpose is to become able to show any regular user the differences in the results, especially for learning and teaching tech/tool/media competency, so in schools for example students could gain understanding about how to effectively search for material on the Web and what is to be expected from different approaches.
+
+Could be a very quick, simple prototype hacked together, other than that a browser plugin was suggested, main application would be in a school class.</description>
+    
+    <lastBuildDate>Fri, 07 Aug 2020 23:33:43 +0000</lastBuildDate>
+    <category>Action! Doing Things Now</category>
+    <atom:link href="https://forum.openglobalmind.com/t/request-tool-site-app-to-compare-different-google-search-results/148.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Request: Tool/site/app to compare different Google Search results</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>The request is to build a tool/site/app/plugin which, for a search phrase, displays the Google Search results side by side based on different search configurations, namely (but not limited to) the search for exact matches (in quotation marks) and the similar, broader matches if the search is done without quotation marks around the phrase. The purpose is to become able to show any regular user the differences in the results, especially for learning and teaching tech/tool/media competency, so in schools for example students could gain understanding about how to effectively search for material on the Web and what is to be expected from different approaches.</p>
+<p>Could be a very quick, simple prototype hacked together, other than that a browser plugin was suggested, main application would be in a school class.</p>
+          <p><a href="https://forum.openglobalmind.com/t/request-tool-site-app-to-compare-different-google-search-results/148/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/request-tool-site-app-to-compare-different-google-search-results/148/1</link>
+        <pubDate>Fri, 07 Aug 2020 23:33:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-148-1</guid>
+        <source url="https://forum.openglobalmind.com/t/request-tool-site-app-to-compare-different-google-search-results/148.rss">Request: Tool/site/app to compare different Google Search results</source>
+      </item>
+  </channel>
+</rss>

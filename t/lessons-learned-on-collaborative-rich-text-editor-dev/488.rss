@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Lessons learned on collaborative rich text editor dev</title>
+    <link>https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488</link>
+    <description>https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/
+
+This article describes how real-time collaborative editing was implemented in CKEditor 5. The terms “collaboration” and “real-time collaborative editing” are used interchangeably throughout the document to refer to “real real-time collaboration” as implemented by CKEditor 5.
+
+https://news.ycombinator.com/item?id=25394609</description>
+    
+    <lastBuildDate>Tue, 15 Dec 2020 10:43:45 +0000</lastBuildDate>
+    <category>Designing the System</category>
+    <atom:link href="https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Lessons learned on collaborative rich text editor dev</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/jackpark">@jackpark</a> thanks for surfacing this.<br>
+I have an abiding interest in Web Based Rich Text editors and CRDT.</p>
+<p>I used <a href="https://hyp.is/PuRzVD7BEeu13y8gfJgzqQ/www.extremetech.com/computing/50680-writely-googles-online-word-processor" rel="nofollow noopener">Writely</a> when it was in Beta</p>
+<p>Missed out on Workflowy. contenteditable has been a Web Standard for over a decade. It go to a point 2 years ago that it was workable. It was developed by Microsoft, and just when it is getting useful that standard is now on a sunset track.</p>
+<p><a href="https://hyp.is/73aeKj6-EeuQ7J8xInDcYA/www.tiny.cloud/blog/editable-discontent/" class="onebox" target="_blank" rel="nofollow noopener">https://hyp.is/73aeKj6-EeuQ7J8xInDcYA/www.tiny.cloud/blog/editable-discontent/</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488/2</link>
+        <pubDate>Tue, 15 Dec 2020 10:37:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-488-2</guid>
+        <source url="https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488.rss">Lessons learned on collaborative rich text editor dev</source>
+      </item>
+      <item>
+        <title>Lessons learned on collaborative rich text editor dev</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/4ec8a5eee10be37d37e44912d21960b81b87c00d.png" class="site-icon" width="32" height="32">
+      <a href="https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/" target="_blank" rel="nofollow noopener">ckeditor.com</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/251c635ebabb5791e89e412b7680a58fa1e45f7d_2_690x388.jpeg" class="thumbnail" width="690" height="388" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/251c635ebabb5791e89e412b7680a58fa1e45f7d_2_690x388.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/251c635ebabb5791e89e412b7680a58fa1e45f7d_2_1035x582.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/251c635ebabb5791e89e412b7680a58fa1e45f7d_2_1380x776.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/251c635ebabb5791e89e412b7680a58fa1e45f7d_2_10x10.png"></div>
+
+<h3><a href="https://ckeditor.com/blog/Lessons-learned-from-creating-a-rich-text-editor-with-real-time-collaboration/" target="_blank" rel="nofollow noopener">Lessons learned from creating a rich-text editor with real-time collaboration</a></h3>
+
+<p>Real-time collaboration is a feature we wanted to introduce since the inception of CKEditor 5. The research that we made back in 2012 and some failed attempts that we observed all around showed us that full support for collaborative editing for...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>This article describes how real-time collaborative editing was implemented in CKEditor 5. The terms “collaboration” and “real-time collaborative editing” are used interchangeably throughout the document to refer to “real real-time collaboration” as implemented by CKEditor 5.</p>
+<p><a href="https://news.ycombinator.com/item?id=25394609" class="onebox" target="_blank" rel="nofollow noopener">https://news.ycombinator.com/item?id=25394609</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488/1</link>
+        <pubDate>Sun, 13 Dec 2020 20:37:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-488-1</guid>
+        <source url="https://forum.openglobalmind.com/t/lessons-learned-on-collaborative-rich-text-editor-dev/488.rss">Lessons learned on collaborative rich text editor dev</source>
+      </item>
+  </channel>
+</rss>

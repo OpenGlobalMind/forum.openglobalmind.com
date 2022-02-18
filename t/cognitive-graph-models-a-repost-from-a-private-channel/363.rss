@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Cognitive graph models - a repost from a private channel</title>
+    <link>https://forum.openglobalmind.com/t/cognitive-graph-models-a-repost-from-a-private-channel/363</link>
+    <description>Discourse does not allow reuse of topic titles...
+
+Whilst I don&#39;t much care for the term &quot;cognitive&quot; in the context of computing, I found a piece linked with a phrase the same as my subject line:
+
+https://noduslabs.com/research/graph-database-structure-specification/
+
+and that link came from their github repo:
+
+https://github.com/noduslabs/infranodus
+
+which appears to be a *community* version of:
+
+https://infranodus.com
+
+which is a link I got from @BentleyDavis in his post at the CDL slack. 
+
+That piece builds on an earlier piece
+
+https://noduslabs.com/research/cognitive-network-protocol/
+
+dated due to truly stale hyperlinks, but the concepts serve, IMHO, as a rich introduction to the spaces of knowledge representation (KR) and information-sharing protocols, a topic related to @peterkaminski&#39;s post on [knowledge graphs](https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/8).
+
+Their objectives are important to FJB and OGM:
+&gt; Describe a general framework that could be used to abstract cognitive processes into a network-graph model.
+&gt; Based on this framework, design a scalable data model that could be used to store, retrieve, and discover new knowledge: in short, which could emulate all the facets of thinking process.
+
+That last sentence fragment is where we get allusions to the idea that a computer can mimic human cognition. My view: at best, computers can *augment* human cognition.
+
+The conceptual model, given this is a 2014 post, represents nothing new, but remains a concise overview of the overall space in which we use computing to augment human capabilities:
+
+* The basic building block of the model is a  **concept**
+* The  **concepts**  appear within  **statements**
+* The  **statements**  appear within  **contexts**
+* The  **concepts** , the  **statements** , and the  **contexts**  are all made by  **users**
+* The  **narrative**  provides a way of representing the  **statements**  and  **concepts**  in a sequential order
+* The  **user**  is either the one who makes the statements or the one who receives them.
+
+The last point brings to mind Gordon Pask&#39;s [Conversation Theory](https://en.wikipedia.org/wiki/Conversation_theory), in which speakers hold domain models as well as models of their listener&#39;s capabilities, and listeners  hold similar models; the action going on in a conversation exists in a cloud between the two, which Pask called an *entailment mesh* - today, we might say *knowledge graph*; Conversation Theory posits that conversations are about *negotiating* the structure of that graph.
+
+So, maybe, if we blend Pask&#39;s ideas, particularly the notion that our conversations are about negotiating a graph which aims at mutual understandings, then maybe we can allow the term &quot;cognitive&quot; to creep in, if only for conversational purposes. As Wikipedia says:
+
+&gt; Conversation theory describes interaction between two or more cognitive systems, such as a [teacher](https://en.wikipedia.org/wiki/Teacher) and a [student](https://en.wikipedia.org/wiki/Student) or distinct perspectives within one individual, and how they engage in a dialog over a given concept and identify differences in how they understand it.
+
+*Narrative* ties all of this back to the recent explosion of banter in OGM about *storytelling*. That is, in the universe I am trying to sketch here, everything starts with storytelling, but goes way beyond that, beginning with the ways in which we use those stories to derive deeper and mutual understandings.  Graph models appear to be crucial to the ways in which we will use computing in that process.</description>
+    
+    <lastBuildDate>Thu, 12 Nov 2020 20:41:24 +0000</lastBuildDate>
+    <category>Designing the System</category>
+    <atom:link href="https://forum.openglobalmind.com/t/cognitive-graph-models-a-repost-from-a-private-channel/363.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Cognitive graph models - a repost from a private channel</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <p>Discourse does not allow reuse of topic titles…</p>
+<p>Whilst I don’t much care for the term “cognitive” in the context of computing, I found a piece linked with a phrase the same as my subject line:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <a href="https://noduslabs.com/research/graph-database-structure-specification/" target="_blank" rel="nofollow noopener" title="12:00AM - 22 March 2014">Nodus Labs – 22 Mar 14</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/391;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/46f61fbfef7aa12d474d1d4c70e553cb45340220_2_690x391.png" class="thumbnail" width="690" height="391" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/46f61fbfef7aa12d474d1d4c70e553cb45340220_2_690x391.png, https://forum.openglobalmind.com/uploads/default/original/1X/46f61fbfef7aa12d474d1d4c70e553cb45340220.png 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/46f61fbfef7aa12d474d1d4c70e553cb45340220.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/46f61fbfef7aa12d474d1d4c70e553cb45340220_2_10x10.png"></div>
+
+<h3><a href="https://noduslabs.com/research/graph-database-structure-specification/" target="_blank" rel="nofollow noopener">Graph Database Structure Specification</a></h3>
+
+<p>A specification for multi-purpose graph database structure, with examples and an online web / mobile implementation using Neo4J graph database and Node.Js.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>and that link came from their github repo:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://github.githubassets.com/favicons/favicon.svg" class="site-icon" width="32" height="32">
+      <a href="https://github.com/noduslabs/infranodus" target="_blank" rel="nofollow noopener">GitHub</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/original/1X/90ae452d67eb5dba6488918fdece615d7465b260.jpeg" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h3><a href="https://github.com/noduslabs/infranodus" target="_blank" rel="nofollow noopener">noduslabs/infranodus</a></h3>
+
+<p>A Node.Js / Neo4J tool that translates words and relations into network graphs and shows you how it all connects. - noduslabs/infranodus</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>which appears to be a <em>community</em> version of:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://infranodus.com/images/favicon.svg" class="site-icon" width="65" height="65">
+      <a href="https://infranodus.com" target="_blank" rel="nofollow noopener">infranodus.com</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/364;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/561c8100a8f5684f7b6b631f9a1adb49d37fabf7_2_690x364.jpeg" class="thumbnail" width="690" height="364" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/561c8100a8f5684f7b6b631f9a1adb49d37fabf7_2_690x364.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/561c8100a8f5684f7b6b631f9a1adb49d37fabf7_2_1035x546.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/561c8100a8f5684f7b6b631f9a1adb49d37fabf7.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/561c8100a8f5684f7b6b631f9a1adb49d37fabf7_2_10x10.png"></div>
+
+<h3><a href="https://infranodus.com" target="_blank" rel="nofollow noopener">InfraNodus: Generate Insight Using Text Network Analsysis</a></h3>
+
+<p>Network analysis and visualization tool for text mining, topic modeling, data analysis, and structural gap detection.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>which is a link I got from <a class="mention" href="/u/bentleydavis">@BentleyDavis</a> in his post at the CDL slack.</p>
+<p>That piece builds on an earlier piece</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <a href="https://noduslabs.com/research/cognitive-network-protocol/" target="_blank" rel="nofollow noopener" title="12:00AM - 20 January 2014">Nodus Labs – 20 Jan 14</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:510/389;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/a0d959932ae3417a2a843b0a86ee8ef30e4bfa22.png" class="thumbnail" width="510" height="389"></div>
+
+<h3><a href="https://noduslabs.com/research/cognitive-network-protocol/" target="_blank" rel="nofollow noopener">Cognitive Network Protocol</a></h3>
+
+<p>Currently we have many tools that help us retrieve and store knowledge. However, there is a lack of tools that help us connect and make sense of all the disjointed bits of knowledge. Here we propose a certain cognitive framework, which could be used...</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>dated due to truly stale hyperlinks, but the concepts serve, IMHO, as a rich introduction to the spaces of knowledge representation (KR) and information-sharing protocols, a topic related to <a class="mention" href="/u/peterkaminski">@peterkaminski</a>’s post on <a href="https://forum.openglobalmind.com/t/multi-relational-hyper-relational-knowledge-graphs/282/8">knowledge graphs</a>.</p>
+<p>Their objectives are important to FJB and OGM:</p>
+<blockquote>
+<p>Describe a general framework that could be used to abstract cognitive processes into a network-graph model.<br>
+Based on this framework, design a scalable data model that could be used to store, retrieve, and discover new knowledge: in short, which could emulate all the facets of thinking process.</p>
+</blockquote>
+<p>That last sentence fragment is where we get allusions to the idea that a computer can mimic human cognition. My view: at best, computers can <em>augment</em> human cognition.</p>
+<p>The conceptual model, given this is a 2014 post, represents nothing new, but remains a concise overview of the overall space in which we use computing to augment human capabilities:</p>
+<ul>
+<li>The basic building block of the model is a  <strong>concept</strong>
+</li>
+<li>The  <strong>concepts</strong>  appear within  <strong>statements</strong>
+</li>
+<li>The  <strong>statements</strong>  appear within  <strong>contexts</strong>
+</li>
+<li>The  <strong>concepts</strong> , the  <strong>statements</strong> , and the  <strong>contexts</strong>  are all made by  <strong>users</strong>
+</li>
+<li>The  <strong>narrative</strong>  provides a way of representing the  <strong>statements</strong>  and  <strong>concepts</strong>  in a sequential order</li>
+<li>The  <strong>user</strong>  is either the one who makes the statements or the one who receives them.</li>
+</ul>
+<p>The last point brings to mind Gordon Pask’s <a href="https://en.wikipedia.org/wiki/Conversation_theory" rel="nofollow noopener">Conversation Theory</a>, in which speakers hold domain models as well as models of their listener’s capabilities, and listeners  hold similar models; the action going on in a conversation exists in a cloud between the two, which Pask called an <em>entailment mesh</em> - today, we might say <em>knowledge graph</em>; Conversation Theory posits that conversations are about <em>negotiating</em> the structure of that graph.</p>
+<p>So, maybe, if we blend Pask’s ideas, particularly the notion that our conversations are about negotiating a graph which aims at mutual understandings, then maybe we can allow the term “cognitive” to creep in, if only for conversational purposes. As Wikipedia says:</p>
+<blockquote>
+<p>Conversation theory describes interaction between two or more cognitive systems, such as a <a href="https://en.wikipedia.org/wiki/Teacher" rel="nofollow noopener">teacher</a> and a <a href="https://en.wikipedia.org/wiki/Student" rel="nofollow noopener">student</a> or distinct perspectives within one individual, and how they engage in a dialog over a given concept and identify differences in how they understand it.</p>
+</blockquote>
+<p><em>Narrative</em> ties all of this back to the recent explosion of banter in OGM about <em>storytelling</em>. That is, in the universe I am trying to sketch here, everything starts with storytelling, but goes way beyond that, beginning with the ways in which we use those stories to derive deeper and mutual understandings.  Graph models appear to be crucial to the ways in which we will use computing in that process.</p>
+          <p><a href="https://forum.openglobalmind.com/t/cognitive-graph-models-a-repost-from-a-private-channel/363/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/cognitive-graph-models-a-repost-from-a-private-channel/363/1</link>
+        <pubDate>Thu, 12 Nov 2020 20:41:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-363-1</guid>
+        <source url="https://forum.openglobalmind.com/t/cognitive-graph-models-a-repost-from-a-private-channel/363.rss">Cognitive graph models - a repost from a private channel</source>
+      </item>
+  </channel>
+</rss>

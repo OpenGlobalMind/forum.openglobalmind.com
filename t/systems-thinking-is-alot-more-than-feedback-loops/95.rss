@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Systems Thinking is Alot More Than Feedback Loops</title>
+    <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95</link>
+    <description>Much of current Systems Thinking literature equates Systems Thinking with feedback loops (i.e., Causal Loop Diagrams and their &quot;cousin&quot; Stock and Flow Diagrams).
+
+But abstraction is also key. Feedback loops vary per level of abstraction.   When looking at a complex organizational system, the feedback loops we see at the 20,000 foot level will be different than those we see at ground level. We therefore need to use a multi level modeling technique (DFDs) . Only then can we model causalities (via CLDs) per level of abstraction
+
+Another  system dynamic outside of feedback loops is state. The behavior of an activity is not only a direct consequence of its inputs, but it also depends on its preceding state.
+
+To model the state of each activity across an organizational system, we need to first look at the bigger picture by modeling integrated input/activity/output via Data Flow Diagrams (DFDs). (Note: DFDs are for modeling any inputs/outputs, not just data.)
+
+There are separate modeling techniques to then model the details of the state of a given activity, such as transition state diagrams.
+
+Another dynamic we typically need to model for organizational systems is non-linear activity. In complex organizational systems, except at the very detail level, there are often relatively few linear activities. Any activity can &quot;kick-off&quot; at any point in time, provided that its prerequisite inputs are present.
+
+Modeling the non-linear activity dynamics of an organization is also a task of DFDs.
+
+The above are just some of Systems Thinking considerations outside of feedback loops.  There are others.</description>
+    
+    <lastBuildDate>Fri, 30 Oct 2020 06:28:40 +0000</lastBuildDate>
+    <category>Systems Thinking</category>
+    <atom:link href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Technoshaman]]></dc:creator>
+        <description><![CDATA[
+            <p>What is remarkable about <a href="https://batesoninstitute.org/nora-bateson/" rel="nofollow noopener">Nora Bateson</a>, the daughter of Gregory Bateson, that she is practicing not only systems <em>thinking</em> but systems <em>being</em>.</p>
+<p>In an <a href="https://forum.openglobalmind.com/t/event-8-13-sensemaking-cooperative-frameworks-post-covid19-cross-silo-cooperation/158">earlier post</a>, where Pete has called our attention to her work, we can read about her research focus epitomized by this question:</p>
+<p>“How can we create a context in which to study the contexts?”</p>
+<p>Wouldn’t that question mesh well with what OGM could do if we were to support to the transformative movements working for reimagining and redesigning our institutions and social sectors (each of which is an interdependent context for the other)?</p>
+<p>FYI: Nora is not only <a href="https://www.amazon.co.uk/Small-Arcs-Larger-Circles-Patterns/dp/1909470961/" rel="nofollow noopener">theorizing</a> about all this but also, has developed the <a href="https://batesoninstitute.org/warm-data-labs/" rel="nofollow noopener">Warm Data Lab</a> methodology, in which she is remaining people. (Disclosure: I’m a certified WDL facilitator.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/34</link>
+        <pubDate>Fri, 30 Oct 2020 06:28:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-34</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks for the info.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/33</link>
+        <pubDate>Thu, 29 Oct 2020 21:13:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-33</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Technoshaman]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Tony" data-post="1" data-topic="95">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/letter_avatar_proxy/v4/letter/t/ee7513/40.png" class="avatar"> Tony:</div>
+<blockquote>
+<p>The above are just some of Systems Thinking considerations outside of feedback loops. There are others.</p>
+</blockquote>
+</aside>
+<p>Yes. One of my favorites is this: <a href="https://player.fm/series/the-regennarration/ep-037-solve-everything-at-once-nora-bateson-on-systems-thinking-warm-data-singing-out-loud" rel="nofollow noopener">Solve Everything at Once: Nora Bateson on systems thinking, warm data &amp; singing out loud</a><br>
+<img src="https://forum.openglobalmind.com/uploads/default/original/1X/a30e5ff7f15cdc5ecb45b813b3b571fea6a8142d.jpeg" alt="Screenshot 2020-10-29 at 19.23.22" data-base62-sha1="ngsCNfsNBVNWaK4hoSxe5PoLKvb" width="336" height="322"></p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/32</link>
+        <pubDate>Thu, 29 Oct 2020 19:25:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-32</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>Regarding the Moments video’s question “What is the problem?”</p>
+<p>I previously posted that I was going to revisit this based upon your statement of the system’s Aim.  However, I did not see at the time that you already answered the question so I will drop it.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/31</link>
+        <pubDate>Sat, 08 Aug 2020 13:34:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-31</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes, I was though it seems I’m often confused as to what I’m referring to…</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/30</link>
+        <pubDate>Sat, 08 Aug 2020 05:07:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-30</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Oh that…   I had it in a state where I could easily walk through it with high school grads.    But I have been expanding the scope to include additional concepts and it needs rework.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/29</link>
+        <pubDate>Fri, 07 Aug 2020 20:02:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-29</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Ok, I will now revisit your question “What is the [overriding] problem?”   But, tomorrow.  (Got an appointment in 10 min.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/28</link>
+        <pubDate>Fri, 07 Aug 2020 19:58:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-28</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[RobOK]]></dc:creator>
+        <description><![CDATA[
+            <p>I thought Gene was talking about this presentation:</p>
+<aside class="quote no-group" data-username="Tony" data-post="11" data-topic="95" data-full="true">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/letter_avatar_proxy/v4/letter/t/ee7513/40.png" class="avatar"> Tony:</div>
+<blockquote>
+<p>Gene:</p>
+<p>The slides are in a Powerpoint available for download at www.tonymar1556@. <a href="https://tonymar1556.wixsite.com/mysite" rel="nofollow noopener">https://tonymar1556.wixsite.com/mysite </a></p>
+<p>Tony</p>
+</blockquote>
+</aside>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/27</link>
+        <pubDate>Fri, 07 Aug 2020 19:57:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-27</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>The aim was to help me have a more pleasant breakfast and as such be in a better position to deal with my ongoing daily frustrations.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/26</link>
+        <pubDate>Fri, 07 Aug 2020 19:54:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-26</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Implication of your action in terms of your aim.   I have yet to see a CLD in which the overall aim was evident.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/25</link>
+        <pubDate>Fri, 07 Aug 2020 19:42:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-25</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>I think I have my discussion threads crossed as it seems it was someone else’s presentation.</p>
+<p>As for Moments… the underlying problem is not thinking of the implications of our actions before we take them. In that particular situation had I considered all the implication of the action I was about to take I probably wouldn’t have taken it.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/24</link>
+        <pubDate>Fri, 07 Aug 2020 19:40:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-24</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>On make people comfortable:   There have been studies as to how complex of a data flow diagram people can comfortably handle.  Answer:  5 to 7 activities per diagram max.  I have always experienced such. After that breaking the diagrams down further is needed.</p>
+<p>Regarding your question on putting the presentation together, what presentation are you referring to?</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/23</link>
+        <pubDate>Fri, 07 Aug 2020 19:28:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-23</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>The question you pose towards the end of the Moments video is “What is the [overriding] problem?”   We have problem in achieving our underlying aim (i.e., underlying  basis per Ackoff).  I can not figure out what the overall aim for the underlying system in the example is.  Can you tell me what it is?</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/22</link>
+        <pubDate>Fri, 07 Aug 2020 19:23:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-22</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>You say you’re not making people feel stupid, how would you know? And how would you put the presentation together as a story?</p>
+<p>What’s your thought after you watch the video at…</p>
+<ul>
+<li><a href="https://kumu.io/-/144401" rel="nofollow noopener">https://kumu.io/-/144401</a></li>
+</ul>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/21</link>
+        <pubDate>Fri, 07 Aug 2020 02:41:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-21</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>When I work with the user community I use stories.   The presentation is for presenting the concepts of systems thinking - a different audience.   I am not making people feel stupid.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/20</link>
+        <pubDate>Fri, 07 Aug 2020 01:54:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-20</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony, I went though the presentation and I think you might fare better having someone else looking at it. I just no longer dwell in the mire. It takes far too long to try to get people to understand it and they really don’t care to anyway. Just work with them to build stories that are meaningful to them and enable them to realize how smart they already are… and stop making them feel stupid.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/19</link>
+        <pubDate>Wed, 05 Aug 2020 17:42:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-19</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene said:  Everything consist of chunks of functionality and their relationships.</p>
+<p>I agree.  Add an overriding goal and we have a system.</p>
+<p>Gene said:   The labels for VSM are always System 1 though System 5</p>
+<p>This  counters my understanding.  I will have to do some more digging.   If the labels for the chunks are always System 1 through 5, then how do we know the goals per chunk are?<br>
+.<br>
+Material is like raw materials and inventory.  Energy can take many forms including heat, light, and electrical.  Each of these can be an input to a process just as much as information can.</p>
+<p>Regarding your comment that “There are relationships which deplete the source and those that don’t.”<br>
+I can see your point here, but I tend to see relationships, for activity-centric models as input and outputs</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/18</link>
+        <pubDate>Wed, 05 Aug 2020 17:33:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-18</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Everything consist of chunks of functionality and their relationships.</p>
+<p>The labels for VSM are always System 1 though System 5</p>
+<p>As for types of relationships what’s the difference between material and energy? There are relationships which deplete the source and those that don’t.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/17</link>
+        <pubDate>Wed, 05 Aug 2020 16:55:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-17</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>Thanks for the feedback.  I agree about the complexity of the<br>
+VMS.</p>
+<p>Do you argee that the VSM just consists of chunks of functionality and their relationships?</p>
+<p>And would you agree that the labels of the chunks vary depending upon the system being modeled?</p>
+<p>And that Each line represents: a type of relationship (what type depends on which line in the model it is).</p>
+<p>From my understanding the types of relationships are information, material, and energy?</p>
+<p>Tony</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/16</link>
+        <pubDate>Wed, 05 Aug 2020 15:23:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-16</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m not getting the connection between slides 37, 38 and 39 and Beer’s Viable Systems Model. Maybe a small part of it. All 5 systems of VSM repeat at all levels. Most attempts to diagram it are hopelessly convoluted and usually rather wrong. Here’s one by Beer that’s almost comprehensible.<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/b7567eb64e42466fdfe3d6459c044b9a7f78cf83.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/b7567eb64e42466fdfe3d6459c044b9a7f78cf83" title="2020-08-05_10-39-50"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/b7567eb64e42466fdfe3d6459c044b9a7f78cf83.jpeg" alt="2020-08-05_10-39-50" data-base62-sha1="q9SGSVF0LVxYOgBwFDgTYfIp6jV" width="375" height="499" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/b7567eb64e42466fdfe3d6459c044b9a7f78cf83_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">2020-08-05_10-39-50</span><span class="informations">522×696 83.9 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/15</link>
+        <pubDate>Wed, 05 Aug 2020 14:41:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-15</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Hi Gene:</p>
+<p>Any comments on my latest posting to Steve about recursion and the VSM?</p>
+<p>Tony Markatos</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/14</link>
+        <pubDate>Wed, 05 Aug 2020 14:19:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-14</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Steve:</p>
+<p>Regarding Recursion:  Per organizational systems, recursion is the repeated application of a repetitive procedure through multiple levels of abstraction.  Per the Viable Systems Model (VSM), there are six functions (i.e.,processes) that repeat through each level of abstraction:  Operations, Direction, Coordination, Audit, Planning, and Identify.</p>
+<p>My slide show sample organization system only includes operation related processes.  I purposely left out the other five types to limit scope. (The presentation was originally intended for high school students, so I really wanted to be minimal.)</p>
+<p>But I can expand upon the model to demonstrate what I believe are the basics of Stafford Beer (creator of the VSM) is saying about recursion.   Go to slide 38 and look at the process labeled “Wrap and Ship Candy”.   I can edit slide 39 to, to not only include that operation functionality, but an associated planning function like “Plan the Wrapping and Shipping of Candy”, an associated direction function like “Direct the Wrapping and Shipping of Candy”.  etc, etc for coordination, and auditing.  (If course I would also need to edit in the additionally needed interrelationships.)</p>
+<p>Next, in slide 39, I drill down into “Wrap and Ship Candy”.  I can edit slide 39 to, not only include the operation functionality shown, but, for each operation on that diagram,  a planning function like “Plan the Labeling of Boxes”, a direction function like “Direct the Labeling of Boxes”.  etc, etc for coordination, and auditing.</p>
+<p>As an aside, notice what we would have here after the edits.  Not only a description of the essentials of the VMS but, more importantly, we clearly now see, as we look across all slides,  how the concept of recursion integrates with the other Systems Thinking concepts like equifinality, feedback loops, non-linear activities, etc, etc.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/13</link>
+        <pubDate>Wed, 05 Aug 2020 14:17:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-13</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks Tony. I will take a look and provide some comments.</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/12</link>
+        <pubDate>Wed, 05 Aug 2020 13:55:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-12</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>The slides are in a Powerpoint available for download at www.tonymar1556@.  <a href="https://tonymar1556.wixsite.com/mysite" rel="nofollow noopener">https://tonymar1556.wixsite.com/mysite</a></p>
+<p>Tony</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/11</link>
+        <pubDate>Wed, 05 Aug 2020 11:33:37 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-11</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+      <item>
+        <title>Systems Thinking is Alot More Than Feedback Loops</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>I am quite willing to review the slides. Are they posted here somewhere and I missed them or are they on their way?</p>
+          <p><a href="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95/10</link>
+        <pubDate>Mon, 03 Aug 2020 04:43:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-95-10</guid>
+        <source url="https://forum.openglobalmind.com/t/systems-thinking-is-alot-more-than-feedback-loops/95.rss">Systems Thinking is Alot More Than Feedback Loops</source>
+      </item>
+  </channel>
+</rss>

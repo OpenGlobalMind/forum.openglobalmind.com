@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Goodbye mailing list, hello forum</title>
+    <link>https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382</link>
+    <description>I have just unsubscribed from the OGM mailing list pursuant to @peterkaminski&#39;s message to prefer this forum for day-to-day communication instead. 
+
+Now, I should highlight that I wonder whether it makes sense for this &quot;Open&quot; Global Mind forum to be password protected. That&#39;s much less about the principle and more about a practical concern which is that the Emacs based newsreader Gnus should be able to *read* posts here, if there was no such login, but cannot, currently: https://github.com/dickmao/nndiscourse/issues/8.
+
+Regarding the mailing list: frankly, I am not interested in listening to other people&#39;s opinions — nor do I get much pleasure out of trying to convince anyone of mine!  I hope that if many people follow Pete&#39;s advice and start posting here, the forum will (somehow) help to filter out the discussions about opinions (which I am not interested in) from the ones that support productive engagement: which I am interested in.</description>
+    
+    <lastBuildDate>Wed, 18 Nov 2020 21:02:31 +0000</lastBuildDate>
+    <category>The Human Side</category>
+    <atom:link href="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Goodbye mailing list, hello forum</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Pete, Oh, great, I will keep the nndiscourse plugin ticking over in the mean time.</p>
+          <p><a href="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382/3</link>
+        <pubDate>Wed, 18 Nov 2020 21:02:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-382-3</guid>
+        <source url="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382.rss">Goodbye mailing list, hello forum</source>
+      </item>
+      <item>
+        <title>Goodbye mailing list, hello forum</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="holtzermann17" data-post="1" data-topic="382">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"> holtzermann17:</div>
+<blockquote>
+<p>Now, I should highlight that I wonder whether it makes sense for this “Open” Global Mind forum to be password protected.</p>
+</blockquote>
+</aside>
+<p>It’s an artifact of getting the Discourse going quickly months ago, and just not getting around to talking about making the forum publicly visible.</p>
+<p>Thanks for the nudge!  I discussed with Jerry today.  After a couple of weeks of notice and discussion, we plan to make the OGM Forum contents publicly visible.  (It’ll still require an invite or approval to participate and make posts, etc.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382/2</link>
+        <pubDate>Wed, 18 Nov 2020 20:24:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-382-2</guid>
+        <source url="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382.rss">Goodbye mailing list, hello forum</source>
+      </item>
+      <item>
+        <title>Goodbye mailing list, hello forum</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>I have just unsubscribed from the OGM mailing list pursuant to <a class="mention" href="/u/peterkaminski">@peterkaminski</a>’s message to prefer this forum for day-to-day communication instead.</p>
+<p>Now, I should highlight that I wonder whether it makes sense for this “Open” Global Mind forum to be password protected. That’s much less about the principle and more about a practical concern which is that the Emacs based newsreader Gnus should be able to <em>read</em> posts here, if there was no such login, but cannot, currently: <a href="https://github.com/dickmao/nndiscourse/issues/8" rel="nofollow noopener">https://github.com/dickmao/nndiscourse/issues/8</a>.</p>
+<p>Regarding the mailing list: frankly, I am not interested in listening to other people’s opinions — nor do I get much pleasure out of trying to convince anyone of mine!  I hope that if many people follow Pete’s advice and start posting here, the forum will (somehow) help to filter out the discussions about opinions (which I am not interested in) from the ones that support productive engagement: which I am interested in.</p>
+          <p><a href="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382/1</link>
+        <pubDate>Wed, 18 Nov 2020 17:50:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-382-1</guid>
+        <source url="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382.rss">Goodbye mailing list, hello forum</source>
+      </item>
+  </channel>
+</rss>

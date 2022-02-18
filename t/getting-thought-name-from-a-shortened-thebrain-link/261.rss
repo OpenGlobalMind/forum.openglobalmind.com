@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Getting Thought Name from a Shortened TheBrain Link</title>
+    <link>https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261</link>
+    <description>I can expand more on how or why to do this if anybody&#39;s interested, but to put it concisely, if `$i` is your short TheBrain link, then:
+
+```
+curl -s `curl -Ls -I -w %{url_effective} $i | sed &#39;s#app.thebrain.com#api.thebrain.com/api-v11#&#39;` | jq &quot;.data.attributes.name&quot;
+```
+
+So:
+
+```
+curl -s `curl -Ls -I -w %{url_effective} https://bra.in/9jQg6m | sed &#39;s#app.thebrain.com#api.thebrain.com/api-v11#&#39;` | jq &quot;.data.attributes.name&quot;
+```
+
+gets you `&quot;Scuttlebutt (2017)&quot;`.</description>
+    
+    <lastBuildDate>Tue, 29 Sep 2020 15:01:14 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Getting Thought Name from a Shortened TheBrain Link</title>
+        <dc:creator><![CDATA[FlexRex]]></dc:creator>
+        <description><![CDATA[
+            <p>nice!  Curl is such a useful library. And you have made fine use of it here.  What are some of the main use cases we’re envisioning here?</p>
+          <p><a href="https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261/2</link>
+        <pubDate>Tue, 29 Sep 2020 15:01:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-261-2</guid>
+        <source url="https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261.rss">Getting Thought Name from a Shortened TheBrain Link</source>
+      </item>
+      <item>
+        <title>Getting Thought Name from a Shortened TheBrain Link</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>I can expand more on how or why to do this if anybody’s interested, but to put it concisely, if <code>$i</code> is your short TheBrain link, then:</p>
+<pre><code class="lang-auto">curl -s `curl -Ls -I -w %{url_effective} $i | sed 's#app.thebrain.com#api.thebrain.com/api-v11#'` | jq ".data.attributes.name"
+</code></pre>
+<p>So:</p>
+<pre><code class="lang-auto">curl -s `curl -Ls -I -w %{url_effective} https://bra.in/9jQg6m | sed 's#app.thebrain.com#api.thebrain.com/api-v11#'` | jq ".data.attributes.name"
+</code></pre>
+<p>gets you <code>"Scuttlebutt (2017)"</code>.</p>
+          <p><a href="https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261/1</link>
+        <pubDate>Thu, 24 Sep 2020 16:36:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-261-1</guid>
+        <source url="https://forum.openglobalmind.com/t/getting-thought-name-from-a-shortened-thebrain-link/261.rss">Getting Thought Name from a Shortened TheBrain Link</source>
+      </item>
+  </channel>
+</rss>

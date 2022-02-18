@@ -1,0 +1,1089 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Open Global Mind Forum - Latest topics</title>
+    <link>https://forum.openglobalmind.com/latest</link>
+    <description>Latest topics</description>
+    
+      <lastBuildDate>Tue, 31 Aug 2021 02:49:12 +0000</lastBuildDate>
+      <atom:link href="https://forum.openglobalmind.com/latest.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Democratic and digital governance</title>
+          <dc:creator><![CDATA[davidk01]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Hi folks. I’ve been trying to fill in some gaps in my knowledge about blockchains and along the way learned a bit about how they work so gonna share some high level takeaways in case others find it useful.</p>
+<p>The main benefit of blockchains in my opinion is the immutable codification of governance by using programming languages and mathematically rigorous cryptographic primitives for attestation of various claims with “smart” contracts. So far they have been only applied in financial contexts where attestation simply comes down to verifying that some parties agreed to transfer digital tokens from one set of accounts to some other ones. This is all well and good but the ecosystem has just been structured around speculative trading and arbitrage between the different types of currencies because the focus has mostly been on market making DAOs where trading and returning profits to members of the DAO is the main function of the smart contracts supporting the DAO.</p>
+<p>Happy to fill in more details about what I’ve learned but my general impression is that it is possible to use forums like OGM to perform all the functions of DAOs without the overhead of the associated blockchain technology for solving consensus problems because simple majority voting for making decisions is a good way to record what was decided and what actions were associated with the decision. More concretely, forum avatars are probably a good enough proof of identity (avoiding the need for cryptographic keys) and adding new members can involve a voting process to make sure that reasonable precautions have been taken to avoid <a href="https://en.m.wikipedia.org/wiki/Sybil_attack" rel="nofollow noopener">Sybil type scenarios</a>.</p>
+<p>Happy to hear thoughts from folks here as well about the types of governance and economic models they have thought about. I’m currently thinking through a concrete project but my economics knowledge isn’t great so I haven’t yet thought through all the implications of an open and digital governance model of politics and how it interacts with economics.</p>
+            <p><small>11 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/democratic-and-digital-governance/660">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/democratic-and-digital-governance/660</link>
+          <pubDate>Tue, 31 Aug 2021 02:49:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-660</guid>
+          <source url="https://forum.openglobalmind.com/t/democratic-and-digital-governance/660.rss">Democratic and digital governance</source>
+        </item>
+        <item>
+          <title>Article by Francois Chollet about AI, social media, and personal information assistants</title>
+          <dc:creator><![CDATA[davidk01]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>This <a href="https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704" rel="nofollow noopener">article</a> might be useful to folks thinking about how to augment and enable better information consumption by using AI techniques. Francois explains how AI algorithms are currently used by social networks and then gives some guidance about how the same techniques can be used for personal information assistants.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/article-by-francois-chollet-about-ai-social-media-and-personal-information-assistants/650">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/article-by-francois-chollet-about-ai-social-media-and-personal-information-assistants/650</link>
+          <pubDate>Sat, 24 Jul 2021 21:05:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-650</guid>
+          <source url="https://forum.openglobalmind.com/t/article-by-francois-chollet-about-ai-social-media-and-personal-information-assistants/650.rss">Article by Francois Chollet about AI, social media, and personal information assistants</source>
+        </item>
+        <item>
+          <title>Daniel Schmachtenberger on sustainable economic systems</title>
+          <dc:creator><![CDATA[davidk01]]></dc:creator>
+          <category>#random</category>
+          <description><![CDATA[
+            <p>Daniel was recently on a podcast with Lex Fridman but the discussion is 4 hours long so even at 2x playback speed it’s a lot to get through. Fortunately, Daniel has written about most of what was discussed: <a href="https://civilizationemerging.com/new-economics-series-4/" rel="nofollow noopener">New Economic Series: Part 4</a>. I found the article interesting and I think there are some worthwhile ideas in the article related to better decision making systems and tools that can operate over multiple scales.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/daniel-schmachtenberger-on-sustainable-economic-systems/644">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/daniel-schmachtenberger-on-sustainable-economic-systems/644</link>
+          <pubDate>Fri, 16 Jul 2021 06:01:51 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-644</guid>
+          <source url="https://forum.openglobalmind.com/t/daniel-schmachtenberger-on-sustainable-economic-systems/644.rss">Daniel Schmachtenberger on sustainable economic systems</source>
+        </item>
+        <item>
+          <title>Bigger Impact Systems Thinking</title>
+          <dc:creator><![CDATA[Tony]]></dc:creator>
+          <category>Systems Thinking</category>
+          <description><![CDATA[
+            <p>Donella Meadows was a great systems thinker.   Her idea of leverage points is that intervening higher level aspects of a system (goals)  has a much bigger impact than does looking at the more detail (feedback loops).</p>
+<p>Data Flow Diagrams prod one through goal intervention.   Any other technique do such?</p>
+            <p><small>3 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/bigger-impact-systems-thinking/639">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/bigger-impact-systems-thinking/639</link>
+          <pubDate>Thu, 17 Jun 2021 17:44:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-639</guid>
+          <source url="https://forum.openglobalmind.com/t/bigger-impact-systems-thinking/639.rss">Bigger Impact Systems Thinking</source>
+        </item>
+        <item>
+          <title>iPhone users - new feature in iOS 14.5 - ATT</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>WSJ delivers a rather snarky review of iOS 14.5. Can any of the tech wizards here, share if they see any downside to the ability to not sharing info across apps that is advertising driven?</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/87cd1cb5cbffda3d5b292afda1f0a1500e4b2732.png" class="site-icon" width="144" height="144">
+      <a href="https://www.wsj.com/articles/ios-14-5-a-guide-to-apples-new-app-tracking-controls-11619457425?mod=djemalertNEWS" target="_blank" rel="nofollow noopener">WSJ</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/345;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/7bc269cbfafbcc4b540c07e3f59379c20346ccf7.jpeg" class="thumbnail" width="690" height="345" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/7bc269cbfafbcc4b540c07e3f59379c20346ccf7_2_10x10.png"></div>
+
+<h3><a href="https://www.wsj.com/articles/ios-14-5-a-guide-to-apples-new-app-tracking-controls-11619457425?mod=djemalertNEWS" target="_blank" rel="nofollow noopener">iOS 14.5: A Guide to Apple’s New App-Tracking Controls</a></h3>
+
+<p>The latest update to the iPhone’s operating system has some useful upgrades and one big privacy feature that requires some consideration.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/iphone-users-new-feature-in-ios-14-5-att/625">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/iphone-users-new-feature-in-ios-14-5-att/625</link>
+          <pubDate>Tue, 27 Apr 2021 19:24:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-625</guid>
+          <source url="https://forum.openglobalmind.com/t/iphone-users-new-feature-in-ios-14-5-att/625.rss">iPhone users - new feature in iOS 14.5 - ATT</source>
+        </item>
+        <item>
+          <title>Useful graphic on Becoming Anti-Racist</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/cc1566df7007efd2bfc5bc6b9178139f8d564508.png" data-download-href="https://forum.openglobalmind.com/uploads/default/cc1566df7007efd2bfc5bc6b9178139f8d564508" title="Screen Shot 2021-04-22 at 2.40.28 PM"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/cc1566df7007efd2bfc5bc6b9178139f8d564508_2_467x500.png" alt="Screen Shot 2021-04-22 at 2.40.28 PM" data-base62-sha1="t7pfWK29tQHzgzxxR6skNAVJOKQ" width="467" height="500" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/cc1566df7007efd2bfc5bc6b9178139f8d564508_2_467x500.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/cc1566df7007efd2bfc5bc6b9178139f8d564508_2_700x750.png 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/cc1566df7007efd2bfc5bc6b9178139f8d564508_2_934x1000.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/cc1566df7007efd2bfc5bc6b9178139f8d564508_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screen Shot 2021-04-22 at 2.40.28 PM</span><span class="informations">1470×1572 407 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/useful-graphic-on-becoming-anti-racist/622">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/useful-graphic-on-becoming-anti-racist/622</link>
+          <pubDate>Thu, 22 Apr 2021 21:42:15 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-622</guid>
+          <source url="https://forum.openglobalmind.com/t/useful-graphic-on-becoming-anti-racist/622.rss">Useful graphic on Becoming Anti-Racist</source>
+        </item>
+        <item>
+          <title>‘Master,’ ‘Slave’ and the Fight Over Offensive Terms in Computing</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Fascinating report on many fronts: decision-making, standards, achieving consensus, humming as a form of dissent, and of course dealing with pesky terms laden with the emotional baggage of racism and sexism. The Internet Engineering Task Force has their work cut out for them!</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/d25cbbffefa5594bcaee6d469cda5e5ae55b67d6.png" class="site-icon" width="48" height="48">
+      <a href="https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html" target="_blank" rel="nofollow noopener" title="07:00AM - 13 April 2021">nytimes.com – 13 Apr 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/459;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/bb2fc8a441cedd3b70978e1379a6e52a47b3adc7_2_690x459.png" class="thumbnail" width="690" height="459" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/bb2fc8a441cedd3b70978e1379a6e52a47b3adc7_2_690x459.png, https://forum.openglobalmind.com/uploads/default/original/1X/bb2fc8a441cedd3b70978e1379a6e52a47b3adc7.png 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/bb2fc8a441cedd3b70978e1379a6e52a47b3adc7.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/bb2fc8a441cedd3b70978e1379a6e52a47b3adc7_2_10x10.png"></div>
+
+<h3><a href="https://www.nytimes.com/2021/04/13/technology/racist-computer-engineering-terms-ietf.html" target="_blank" rel="nofollow noopener">‘Master,’ ‘Slave’ and the Fight Over Offensive Terms in Computing</a></h3>
+
+<p>Nearly a year after the Internet Engineering Task Force took up a plan to replace words that could be considered racist, the debate is still raging.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/master-slave-and-the-fight-over-offensive-terms-in-computing/621">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/master-slave-and-the-fight-over-offensive-terms-in-computing/621</link>
+          <pubDate>Thu, 22 Apr 2021 21:39:25 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-621</guid>
+          <source url="https://forum.openglobalmind.com/t/master-slave-and-the-fight-over-offensive-terms-in-computing/621.rss">‘Master,’ ‘Slave’ and the Fight Over Offensive Terms in Computing</source>
+        </item>
+        <item>
+          <title>Swiss Re Institute Report on Climate Change - Inaction is NOT an Option</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Discussions and Actions</category>
+          <description><![CDATA[
+            <p>Executive summary:</p>
+<p>The world stands to lose close to 10% of total economic value by mid-century if climate change stays on the currently-anticipated trajectory, and the Paris Agreement and 2050 net-zero emissions targets are not met. Many emerging markets have most to gain if the world is able to rein in temperature gains. For example, action today to get back to the Paris temperature rise scenario would mean economies in southeast Asia could prevent around a quarter of the gross domestic product (GDP) loss by mid-century that they may otherwise suffer. Our analysis in this report is unique in explicitly simulating for the many uncertainties around the impacts of climate change. It shows that those economies most vulnerable to the potential physical risks of climate change stand to benefit most from keeping temperature rises in check. This includes some of the world’s most dynamic emerging economies, the engines of global growth in the years to come. The message from the analysis is clear: no action on climate change is not an option.</p>
+<p>Recent scientific research indicates that current likely temperature-rise trajectories, supported by implementation of mitigation pledges, would entail 2.0–2.6°C global warming by mid-century. We use this as the baseline to simulate the impact of rising temperatures over time, while also modelling for the uncertainties around most severe possible physical outcomes. The result is that global GDP would be 11–14% less than in a world without climate change (ie, 0°C change). Under the same no climate change comparative, the Paris target too result in negative GDP impact, but less much so (–4.2%). We also consider a severe scenario in which temperatures rise by 3.2°C by mid-century, with society doing nothing to combat climate change. In this scenario, the global economy would be 18% smaller than in a world without warming, reinforcing the imperative of, if anything, more action on climate change.</p>
+<p>In terms of exposure to severe weather risks resulting from climate change, south east Asia and Latin America will likely be most susceptible to dry conditions. Many countries in north and eastern Europe, meanwhile, are set to see more excess precipitation and flood events. Combining these observations with our GDP-impact analysis, our Climate Economics Index indicates that many advanced economies in the northern hemisphere are least vulnerable to the overall effects of climate change, being both less exposed to the associated risks and better resourced to cope. The US, Canada and Germany are among the top 10 least vulnerable. Of the major economies, China ranks lower, in part due to lesser adaptive capacity in place today relative to peers. However, with rising investment in green energy and increasing awareness of climate risks, we believe China is on course for rapid catch-up here.</p>
+<p>In addition to physical, climate change also gives rise to transition risks. These can show in large shifts in asset values and higher cost of doing business as the world moves to a low-carbon economy. As a separate exercise, we use carbon-tax scenario analysis as a proxy to gauge the associated financial and economic impacts. We find that earnings in the utilities, materials and energy sectors would be the most impacted and lose between 40–80% of earnings per share by immediate imposition of a global carbon tax of USD 100 per metric ton. By region, revenue-weighted earnings would fall by about a fifth in Asia Pacific, and by 15% in the Americas and Europe. The scale of loss depends on the speed at which carbon taxes and mitigation actions are implemented, and the pace of technological adoption.</p>
+<p>Climate risk is a systemic risk, one that can be managed with coordinated global policy action. There exists a unique opportunity to green our economies. The public and private sectors, including insurers as providers of risk transfer capacity, risk knowledge and long-term investment, can facilitate transition to a low-carbon economy. Increasing transparency, data and disclosure to price and transfer risks is needed. To this end we should see more policy action on carbon pricing coupled with incentivising nature based and carbon-offsetting solutions. International convergence on the taxonomy on counts for green and sustainable investments is also needed. As part of corporate reporting, institutions should also disclose their roadmaps on how they intend to reach the Paris and 2050 net-zero targets.</p>
+<p>Full report:<a class="attachment" href="/uploads/short-url/5n96sQ9x3ZYecCo8s4lCfftSdnx.pdf">swiss-re-institute-expertise-publication-economics-of-climate-change.pdf</a> (1.9 MB)</p>
+            <p><small>4 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/swiss-re-institute-report-on-climate-change-inaction-is-not-an-option/620">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/swiss-re-institute-report-on-climate-change-inaction-is-not-an-option/620</link>
+          <pubDate>Thu, 22 Apr 2021 17:43:09 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-620</guid>
+          <source url="https://forum.openglobalmind.com/t/swiss-re-institute-report-on-climate-change-inaction-is-not-an-option/620.rss">Swiss Re Institute Report on Climate Change - Inaction is NOT an Option</source>
+        </item>
+        <item>
+          <title>VUCA vs LMAO</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/a6594ecc4fc17ed882dc8715681c362cf8f09ded.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/a6594ecc4fc17ed882dc8715681c362cf8f09ded" title="VUCA v LMAO"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/a6594ecc4fc17ed882dc8715681c362cf8f09ded.jpeg" alt="VUCA v LMAO" data-base62-sha1="nJABgX4GODUvbWs6N2FvbK9C3Bb" width="666" height="500" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/a6594ecc4fc17ed882dc8715681c362cf8f09ded_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">VUCA v LMAO</span><span class="informations">960×720 53.8 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/vuca-vs-lmao/619">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/vuca-vs-lmao/619</link>
+          <pubDate>Wed, 21 Apr 2021 18:32:58 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-619</guid>
+          <source url="https://forum.openglobalmind.com/t/vuca-vs-lmao/619.rss">VUCA vs LMAO</source>
+        </item>
+        <item>
+          <title>Companies Can&#39;t Stop Overworking</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>As OGM explores how people and organizations change for the better, this article and the many links within it, seems like an important contribution.</p>
+<h1>Companies Can’t Stop Overworking</h1>
+<h2>Excess work isn’t good for anyone, employers included. So why are we still doing it?</h2>
+<p>Full transparency on my part: I have taken a stand to do what I can to reduce the human suffering that occurs in corporate settings. I found this post both hopeful and disturbing.</p>
+<p>Excerpt:</p>
+<p>“There is now a mountain of careful research showing that people who experience long hours of work have serious health consequences,” said John Pencavel, professor emeritus of economics at Stanford and <a href="https://global.oup.com/academic/product/diminishing-returns-at-work-9780190876166?cc=gb&amp;lang=en&amp;" rel="nofollow noopener">author</a> of “Diminishing Returns at Work: The Consequences of Long Working Hours.”</p>
+<p>A <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6617405/" rel="nofollow noopener">review of more than 200 studies</a> over two decades on the relationship between long work hours and health found a correlation between extended workweeks and a higher incidence of heart problems and high blood pressure. People who worked longer hours (which in most studies meant 50 to 60 hours a week — practically part-time by some industry standards) were more likely to suffer injuries on the job and poor sleep at home. There was also a strong link between long work hours and behaviors that end up affecting workers’ health, like smoking, alcohol and substance use…</p>
+<p>… Organizations can change. Their people are often better off when they do. But they have to actually want to do so. And when it comes to ultracompetitive firms like Goldman, and the people who choose to work there, the incentive to change may simply not be there.</p>
+<p>That’s the conclusion that Alexandra Michel has reached after two decades observing investment bankers, both in the depths of analyst hell and, for those who eventually leave, in their post-banking lives. Ms. Michel, an adjunct professor at the University of Pennsylvania’s Graduate School of Education, also worked at Goldman for five years: three as an analyst and two in the chief of staff’s office before leaving to get her doctorate at Wharton.</p>
+<p>Ms. Michel has been following four cohorts of investment bankers for the past 20 years. She has documented a business model that relies on inexhaustible waves of new talent. Most workers endure grueling working hours, and around the fourth year on the job many analysts <a href="http://alexandramichel.com/Self-entrapment.pdf" rel="nofollow noopener">start seeing their bodies break down</a>. Yet after countless hours interviewing current and former bankers, she believes that discussions of flexibility and work-life balance are moot in a culture that values the process of competition at least as much as the actual result.”</p>
+<p>Much more worth reading if you follow the link below…</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/d25cbbffefa5594bcaee6d469cda5e5ae55b67d6.png" class="site-icon" width="48" height="48">
+      <a href="https://www.nytimes.com/2021/04/10/business/dealbook/overwork-health.html" target="_blank" rel="nofollow noopener" title="12:00PM - 10 April 2021">nytimes.com – 10 Apr 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/460;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/cc3393989c5b8b6a4e059ee46f04d1dcf2d2dc73.jpeg" class="thumbnail" width="690" height="460" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/cc3393989c5b8b6a4e059ee46f04d1dcf2d2dc73_2_10x10.png"></div>
+
+<h3><a href="https://www.nytimes.com/2021/04/10/business/dealbook/overwork-health.html" target="_blank" rel="nofollow noopener">Companies Can’t Stop Overworking</a></h3>
+
+<p>Excess work isn’t good for anyone, employers included. So why are we still doing it?</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/companies-cant-stop-overworking/618">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/companies-cant-stop-overworking/618</link>
+          <pubDate>Mon, 19 Apr 2021 03:03:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-618</guid>
+          <source url="https://forum.openglobalmind.com/t/companies-cant-stop-overworking/618.rss">Companies Can&#39;t Stop Overworking</source>
+        </item>
+        <item>
+          <title>Celeste Headlee: Reality Check - How To Have A Good Conversation</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Just brilliant stuff here!</p>
+<p>"We used to say that there were a couple of things to stay away from to have a good conversation: politics and religion. The problem now is that everything is politics and religion! You can’t steer away from those subjects because they’re everything. You can’t talk about your health or the weather. You talk about the weather and that’ll go to climate change and you’ll end up in a argument. You try to talk about your health and you find anti-vaxxing is a thing.</p>
+<p>So you can’t avoid those conversations now. You have to learn how to have those conversations with respect for the other person. We are more polarized now than at any time since the Civil War. Think about that. The Vietnam War, the Cold War, we are more polarized now the we were then. The last time we were this polarized, we were killing each other. At least 20% of us would be really angry is someone from the opposite political party joined our family. And a third of us say, "All of our friends agree with us politically.</p>
+<p>Now think about that for just a second. Number one, you are probably wrong and number two it means you are choosing your friends according to who agrees with you––Reality check."</p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="iffwwACch5U" data-youtube-title="Celeste Headlee: Reality" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=iffwwACch5U" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/56ecefa91b20cf7286a855912333d0c8b7be2df2.jpeg" title="Celeste Headlee: Reality" width="690" height="388">
+  </a>
+</div>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/celeste-headlee-reality-check-how-to-have-a-good-conversation/616">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/celeste-headlee-reality-check-how-to-have-a-good-conversation/616</link>
+          <pubDate>Fri, 09 Apr 2021 19:02:16 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-616</guid>
+          <source url="https://forum.openglobalmind.com/t/celeste-headlee-reality-check-how-to-have-a-good-conversation/616.rss">Celeste Headlee: Reality Check - How To Have A Good Conversation</source>
+        </item>
+        <item>
+          <title>John Boehner&#39;s new book has some interesting things to say about the GOP</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>WaPo is behind a paywall, so here’s the text in it’s entirety</p>
+<p>"Former speaker of the House John A. Boehner (R-Ohio) was nothing if not colorful, and in <a href="https://www.politico.com/news/magazine/2021/04/02/john-boehner-book-memoir-excerpt-478506" rel="nofollow noopener">an upcoming memoir</a>, he has some scores to settle. Among other things he uses the phrase “total moron” to describe members of his own party and calls Sen. Ted Cruz (R-Tex.) the “head lunatic” of GOP extremists.</p>
+<p>In “On the House: A Washington Memoir” Boehner also highlights something important about the nature of power within the Republican Party: how it worked when he was its leader in Congress, in the Trump years that followed and today. Sometimes that power has been exercised to the party’s great political benefit, while at other times — like right now — it threatens to consume the GOP.</p>
+<p>Boehner describes a revealing 2011 exchange with Rep. Michele Bachmann (R-Minn.), far-right bomb-thrower and future presidential candidate, who demanded a seat on the powerful Ways and Means Committee; he rebuffed her:</p>
+<blockquote>
+<p>Her response to me was calm and matter-of-fact. “Well, then I’ll just have to go talk to Sean Hannity and everybody at Fox,” she said, “and Rush Limbaugh, Mark Levin, and everybody else on the radio, and tell them that this is how John Boehner is treating the people who made it possible for the Republicans to take back the House.”</p>
+<p>I wasn’t the one with the power, she was saying. I just thought I was. She had the power now.</p>
+<p>She was right, of course.</p>
+</blockquote>
+<p>Boehner describes the evolution of conservative media between the early 1990s and the Obama years as a descent into “Looneyville,” but what really changed was the nature of the relationship between that media and the Republican Party.</p>
+<p>In those earlier years, conservative media amplified the GOP’s ideas, spreading them to a wide audience and converting people to the conservative cause. But over time, the media tail came to wag the political dog.</p>
+<p>What Boehner really shows us is how the world we live in now came to be. Today, conservative media isn’t just a locus of power on the right. Its own needs, preferences and incentives set the party’s agenda to a greater extent than ever.</p>
+<p>That’s why so many of the key voices in the Republican Party today are concerned not primarily but  <em>entirely</em>  with their next media appearance, rather than the work of lawmaking. While there have always been “show horses” in Congress, the party is now oriented almost entirely toward whatever keeps the Fox viewers from changing the channel.</p>
+<p>So while Democrats pass trillions of dollars in new spending, Republicans spend all their time whining about “cancel culture” and trying to make life miserable for transgender kids. Instead of conservative media amplifying the party’s message, it’s the other way around.</p>
+<p>You could argue that because they’re in the minority, Republicans have no way to put their policy preferences into action anyway, so they might as well shout about <a href="https://www.washingtonpost.com/politics/2021/03/03/course-fox-news-would-rather-talk-about-dr-seuss-mr-potato-head/?itid=lk_inline_manual_16" rel="nofollow noopener">Mr. Potato Head</a>. If they controlled even one house of Congress they could mount endless bogus Benghazi-style investigations to paint a Democratic administration as corrupt.</p>
+<p>But they can’t, so there’s no margin in knowing or caring about policy. In that situation, those most adept at the performative aspect of politics inevitably rise to prominence.</p>
+<p>But what Boehner reveals here is that this was true  <em>even when the party was in power</em> . What Boehner calls “the crazy caucus of the GOP” was already taking over when he was speaker, foreshadowing their increased dominance when the ultimate performative politician — Donald Trump — became president.</p>
+<p>And so, with complete GOP control of Washington in 2017, you didn’t see the emergence of serious conservative policy wonks making lasting and consequential change. While it might have happened here and there — Stephen Miller succeeded at making immigration policy as racist and cruel as possible — for the most part the crazy caucus was still in charge.</p>
+<p>Who were the dominant Republican figures of the era, beyond Trump himself? People like Rep. Jim Jordan (R-Ohio) and Rep. <a href="https://www.washingtonpost.com/opinions/2021/03/31/matt-gaetz-pulls-tucker-carlson-into-his-mess/?itid=lk_inline_manual_23" rel="nofollow noopener">Matt Gaetz</a> (R-Fla.), known for their endless Fox appearances and maniacal loyalty to Trump. They weren’t concerned with how to use power to create change; they just wanted to <a href="https://www.washingtonpost.com/opinions/2020/12/11/hatred-liberals-is-all-thats-left-conservatism/?itid=lk_inline_manual_23" rel="nofollow noopener">Own the Libs</a>.</p>
+<p>Even Senate Minority Leader Mitch McConnell (Ky.), the party’s leader in Congress and nobody’s idea of a telegenic presence, turned out to be an absolute dud as a legislator. After easily passing a tax cut for the wealthy and corporations (not exactly hard to do), he managed no further legislation of consequence.</p>
+<p>In many ways, you can draw a straight line between Newt Gingrich, the central Republican figure of the 1990s, through the tea party, then through Sarah Palin, then through Trump, and finally to the Jan. 6th rioters and far-right extremists like Marjorie Taylor Greene (R-Ga.) and Lauren Boebert (R-Colo.). Boehner shows us how this through line really started to unravel.</p>
+<p>All those figures wanted to make politics as coarse and bitter as possible, and define Democrats as not just wrong but evil. The conflict between the right and the left, Gingrich <a href="https://www.nytimes.com/2012/01/27/us/politics/the-long-run-gingrich-stuck-to-caustic-path-in-ethics-battles.html" rel="nofollow noopener">once told</a> a conservative audience, “has to be fought with a scale and a duration and a savagery that is only true of civil wars.”</p>
+<p>But each of them had a different relationship to power. Gingrich wanted it desperately. Palin <a href="http://voices.washingtonpost.com/44/2009/07/03/palins_remarks_in_stepping_dow.html?itid=lk_inline_manual_29" rel="nofollow noopener">tossed it away</a> to pursue a doomed TV career. Trump came to it by accident and couldn’t quite figure out what to do with it, other than line his pockets. And the media-obsessed Republican figures of today? They hardly even care about it at all.</p>
+<p>It’s not that, say, Cruz wouldn’t very much like to be president. But people like him are so focused on whipping up the angriest portions of the GOP base and generating clicks and retweets that they can’t be bothered to produce any kind of meaningful policy project, let alone figure out what it would take to make it happen.</p>
+<p>As Boehner’s story highlights, things began to go awry for Republicans long before now. If the stars align, the “crazy caucus” might allow them to stumble their way to victory again, as they did in 2016. And along the way, the destruction will continue piling up.</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://www.washingtonpost.com/dr/resources/images/favicon.ico?d=706009028@991811f11d84f2ac352ba1871042457d2595ba84" class="site-icon" width="16" height="16">
+      <a href="https://www.washingtonpost.com/opinions/2021/04/02/what-scorching-john-boehner-book-excerpt-says-about-todays-gop/" target="_blank" rel="nofollow noopener" title="05:04PM - 02 April 2021">Washington Post – 2 Apr 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:116/77;"><img src="https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZL4DLPR5W4I6RFK3PUXBTN4ZMY.jpg&amp;w=1440" class="thumbnail" width="116" height="77"></div>
+
+<h3><a href="https://www.washingtonpost.com/opinions/2021/04/02/what-scorching-john-boehner-book-excerpt-says-about-todays-gop/" target="_blank" rel="nofollow noopener">Opinion | What a scorching John Boehner book excerpt says about today’s GOP</a></h3>
+
+<p>Their media tail now wags their political dog, and it started long before Trump.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/john-boehners-new-book-has-some-interesting-things-to-say-about-the-gop/615">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/john-boehners-new-book-has-some-interesting-things-to-say-about-the-gop/615</link>
+          <pubDate>Fri, 02 Apr 2021 19:13:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-615</guid>
+          <source url="https://forum.openglobalmind.com/t/john-boehners-new-book-has-some-interesting-things-to-say-about-the-gop/615.rss">John Boehner&#39;s new book has some interesting things to say about the GOP</source>
+        </item>
+        <item>
+          <title>When Good Algorithms Go Sexist: Why and How to Advance AI Gender Equity</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <h2>Seven actions social change leaders and machine learning developers can take to build gender-smart artificial intelligence for a more just world.</h2>
+<p>"In 2019, Genevieve (co-author of this article) and her husband applied for the same credit card. Despite having a slightly better credit score and the same income, expenses, and debt as her husband, the credit card company set her credit limit at almost half the amount. This experience echoes one <a href="https://www.nytimes.com/2019/11/10/business/Apple-credit-card-investigation.html" rel="nofollow noopener">that made headlines</a> later that year: A husband and wife compared their Apple Card spending limits and found that the husband’s credit line was 20 times greater. Customer service employees were unable to explain why the algorithm deemed the wife significantly less creditworthy.</p>
+<p>Many institutions make decisions based on artificial intelligence (AI) systems using machine learning (ML), whereby a series of algorithms takes and learns from massive amounts of data to find patterns and make predictions. These systems inform how much credit financial institutions offer different customers, who the health care system prioritizes for COVID-19 vaccines, and which candidates companies call in for job interviews. Yet gender bias in these systems is pervasive and has profound impacts on women’s short- and long-term psychological, economic, and health security. It can also reinforce and amplify existing harmful gender stereotypes and prejudices.</p>
+<p>As we conclude Women’s History Month, social change leaders—including researchers and professionals with gender expertise—and ML systems developers alike need to ask: How can we build gender-smart AI to advance gender equity, rather than embed and scale gender bias?"</p>
+<p><a href="https://ssir.org/articles/entry/when_good_algorithms_go_sexist_why_and_how_to_advance_ai_gender_equity" class="onebox" target="_blank" rel="nofollow noopener">https://ssir.org/articles/entry/when_good_algorithms_go_sexist_why_and_how_to_advance_ai_gender_equity</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/when-good-algorithms-go-sexist-why-and-how-to-advance-ai-gender-equity/614">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/when-good-algorithms-go-sexist-why-and-how-to-advance-ai-gender-equity/614</link>
+          <pubDate>Fri, 02 Apr 2021 01:23:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-614</guid>
+          <source url="https://forum.openglobalmind.com/t/when-good-algorithms-go-sexist-why-and-how-to-advance-ai-gender-equity/614.rss">When Good Algorithms Go Sexist: Why and How to Advance AI Gender Equity</source>
+        </item>
+        <item>
+          <title>The Coup Nobody is Talking About</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>I have not yet had the chance to read Shoshana Zuboff’s book The Age of Surveillance Capitalism, but this OpEd does a great job of laying out the basics:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/d25cbbffefa5594bcaee6d469cda5e5ae55b67d6.png" class="site-icon" width="48" height="48">
+      <a href="https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html" target="_blank" rel="nofollow noopener" title="06:48PM - 29 January 2021">nytimes.com – 29 Jan 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/460;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/9a92487d2a340b903568d09bf4d4a54f062e56b3.jpeg" class="thumbnail" width="690" height="460" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/9a92487d2a340b903568d09bf4d4a54f062e56b3_2_10x10.png"></div>
+
+<h3><a href="https://www.nytimes.com/2021/01/29/opinion/sunday/facebook-surveillance-society-technology.html" target="_blank" rel="nofollow noopener">Opinion | The Coup We Are Not Talking About</a></h3>
+
+<p>We can have democracy, or we can have a surveillance society, but we cannot have both.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Brief excerpt:</p>
+<p>" The epistemic coup proceeds in four stages.</p>
+<p>The first is the appropriation of epistemic rights, which lays the foundation for all that follows. Surveillance capitalism originates in the discovery that companies can stake a claim to people’s lives as free raw material for the extraction of behavioral data, which they then declare their private property.</p>
+<p>The second stage is marked by a sharp rise in <a href="https://www.nytimes.com/2020/01/24/opinion/sunday/surveillance-capitalism.html" rel="nofollow noopener">epistemic inequality</a>, defined as the difference between what I can know and what can be known about me. The third stage, which we are living through now, introduces epistemic chaos caused by the profit-driven algorithmic amplification, dissemination and microtargeting of corrupt information, much of it produced by coordinated schemes of disinformation. Its effects are felt in the real world, where they splinter shared reality, poison social discourse, paralyze democratic politics and sometimes instigate violence and death.</p>
+<p>In the fourth stage, epistemic dominance is institutionalized, overriding democratic governance with computational governance by private surveillance capital. The machines know, and the systems decide, directed and sustained by the illegitimate authority and anti-democratic power of private surveillance capital. Each stage builds on the last. Epistemic chaos prepares the ground for epistemic dominance by weakening democratic society — all too plain in the insurrection at the U.S. Capitol."</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/the-coup-nobody-is-talking-about/613">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/the-coup-nobody-is-talking-about/613</link>
+          <pubDate>Thu, 01 Apr 2021 17:00:54 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-613</guid>
+          <source url="https://forum.openglobalmind.com/t/the-coup-nobody-is-talking-about/613.rss">The Coup Nobody is Talking About</source>
+        </item>
+        <item>
+          <title>Modern Monetary Theory</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>I seem to recall someone mentioning this topic on an OGM call. It’s a subject I was completely ignorant about until reading this interview that Anand Giridharadas conducted with Stephanie Kelton.</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/d3c6822f-e009-4679-988c-a027faad3ab0/favicon.ico" class="site-icon" width="64" height="64">
+      <a href="https://the.ink/p/stephaniekelton" target="_blank" rel="nofollow noopener">the.ink</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:363/500;"><img src="https://cdn.substack.com/image/fetch/w_1200,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F96a13648-30fe-4ccf-9dc0-7b3db9c5007a_3436x4724.jpeg" class="thumbnail" width="363" height="500"></div>
+
+<h3><a href="https://the.ink/p/stephaniekelton" target="_blank" rel="nofollow noopener">The trillion-dollar woman</a></h3>
+
+<p>A conversation with the economist Stephanie Kelton about the "deficit myth," Modern Monetary Theory for dummies, and why the age of capital may finally be ending</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>Brief excerpt:</p>
+<p>" <strong>ANAND: You are a leading champion of what’s called Modern Monetary Theory. It’s a domain with a devoted fan base and many people who don’t understand a thing about it. Give me the explanation you’d give to a 10-year-old about what the old thinking was and what MMT seeks to replace it with.</strong></p>
+<p><strong>STEPHANIE:</strong>  The first chapter in my <a href="https://www.publicaffairsbooks.com/titles/stephanie-kelton/the-deficit-myth/9781541736184/" rel="nofollow noopener">book</a> is called “Don’t Think of a Household.” I open with a Sesame Street reference, so this is an explanation that most 5-year-olds can grasp. For those who grew up watching the show, a frequent segment was aimed at helping kids distinguish things that are alike from things that have some fundamentally different characteristics.</p>
+<p>“One of these things is not like the other,” the song went. So think about these four things: A household, a business, state and local governments, and the federal government. The first three share something important in common: none of them can issue the U.S. dollar. In order to spend, they must  <em>first</em>  come up with the money.</p>
+<p>The federal government is completely different. It has the sole legal authority to issue the currency. Biden was right! Article 1, Section 8, of the U.S. Constitution enshrined that power. Unlike the rest of us, the federal government can spend money it doesn’t have. New dollars are created every time the federal government spends.</p>
+<p>Take the Covid relief package. Congress didn’t go out and “find” $1.9 trillion before passing that legislation. It didn’t have to, because it has something the rest of us don’t — the power of the purse. The bill effectively ordered up $1.9 trillion new dollars from a bank called the Federal Reserve. The Federal Reserve carries out payments on behalf of Treasury, using nothing more than a computer keyboard to change the appropriate bank account numbers.</p>
+<p>If you received one of those $1,400 stimulus checks, that money was keystroked into existence to help your family. If you’re unemployed, and you’re getting an extra $300 a week in unemployment benefits, you’re also receiving newly created dollars, courtesy of the federal government.</p>
+<p>If households, businesses, governors, and mayors had this power, they would plug any holes in their budgets on their own. But they can’t. They are financially constrained. The federal government isn’t.</p>
+<p>MMT is about providing an accurate description of the monetary system that exists today and government finance mechanics. In other words, MMT  <em>describes</em>  how things work. We’re not on a gold standard anymore, but we haven’t come to terms with what that means.</p>
+<p>We still have this idea that the federal government needs  <em>our</em>  money in order to pay its bills. That is wrong. Could Congress spend too much? Absolutely! But the punishment for overspending is inflation, not insolvency, contrary to what Ron Paul, Ted Cruz, and Lindsey Graham would have us believe.</p>
+<p>At its core, MMT is about replacing the (flawed) concept of a government budget constraint with a natural resource (inflation) constraint. It’s not that there aren’t any limits. There are! But they’re not on the  <em>financing</em>  side (as we have been trained to believe). Our government cannot run “out of money,” as President Obama once falsely [claimed]. We cannot end up like Greece, and, contra [these economists]), we were never facing a fiscal crisis.</p>
+<p>MMT teaches us to ask not, “How will you  <em>pay for</em>  it?” but “How will you  <em>resource</em>  it?” The politics are hard, but coming up with the money for Medicare for All, tuition-free college, or a huge infrastructure package is the easy part. Managing the use of our productive resources, and respecting our ecological constraints, is the defining challenge of our time."</p>
+            <p><small>3 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/modern-monetary-theory/612">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/modern-monetary-theory/612</link>
+          <pubDate>Tue, 30 Mar 2021 19:46:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-612</guid>
+          <source url="https://forum.openglobalmind.com/t/modern-monetary-theory/612.rss">Modern Monetary Theory</source>
+        </item>
+        <item>
+          <title>Why is the Green Party Against HR1?</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Such an important read and such and important bill - what can we OGMers do to help it get through the Senate?</p>
+<p><a href="https://medium.lessig.org/on-the-green-partys-opposition-to-hr1-c121bad07ff6" class="onebox" target="_blank" rel="nofollow noopener">https://medium.lessig.org/on-the-green-partys-opposition-to-hr1-c121bad07ff6</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/why-is-the-green-party-against-hr1/611">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/why-is-the-green-party-against-hr1/611</link>
+          <pubDate>Wed, 24 Mar 2021 19:54:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-611</guid>
+          <source url="https://forum.openglobalmind.com/t/why-is-the-green-party-against-hr1/611.rss">Why is the Green Party Against HR1?</source>
+        </item>
+        <item>
+          <title>How to Put Out Democracy&#39;s Dumpster Fire</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Longish but very OGMy read from The Atlantic… a few excerpts:</p>
+<p>With the wholesale transfer of so much entertainment, social interaction, education, commerce, and politics from the real world to the virtual world—a process recently accelerated by the coronavirus pandemic—many Americans have come to live in [a nightmarish inversion of the Tocquevillian dream a new sort of wilderness. Many modern Americans now seek camaraderie online, in a world defined not by friendship but by anomie and alienation. Instead of participating in civic organizations that give them a sense of community as well as practical experience in tolerance and consensus-building, Americans join internet mobs, in which they are submerged in the logic of the crowd, clicking Like or Share and then moving on. Instead of entering a real-life public square, they drift anonymously into digital spaces where they rarely meet opponents; when they do, it is only to vilify them.</p>
+<p>Conversation in this new American public sphere is governed not by established customs and traditions in service of democracy but by rules set by a few for-profit companies in service of their needs and revenues. Instead of the procedural regulations that guide a real-life town meeting, conversation is ruled by algorithms that are <a href="https://www.theatlantic.com/magazine/archive/2020/04/capitalisms-addiction-problem/606769/" rel="nofollow noopener">designed to capture attention</a>, harvest data, and sell advertising. The voices of the angriest, most emotional, most divisive—and often the most duplicitous—participants are amplified. Reasonable, rational, and nuanced voices are much harder to hear; radicalization spreads quickly. Americans feel powerless because they are.</p>
+<p>In this new wilderness, democracy is becoming impossible. If one half of the country can’t hear the other, then Americans can no longer have shared institutions, apolitical courts, a professional civil service, or a bipartisan foreign policy. We can’t compromise. We can’t make collective decisions—we can’t even agree on what we’re deciding. No wonder millions of Americans refuse to accept the results of the most recent presidential election, despite the verdicts of state electoral committees, elected Republican officials, courts, and Congress. We no longer are the America Tocqueville admired, but have become the enfeebled democracy he feared, a place where each person,</p>
+<blockquote>
+<p>withdrawn and apart, is like a stranger to the destiny of all the others: his children and his particular friends form the whole human species for him; as for dwelling with his fellow citizens, he is beside them, but he does not see them; he touches them and does not feel them; he exists only in himself and for himself alone, and if a family still remains for him, one can at least say that he no longer has a native country.</p>
+</blockquote>
+<p>The world’s autocracies have long understood the possibilities afforded by the tools tech companies have created, and have made use of them. China’s leaders have built [an internet based on censorship, intimidation, entertainment, and surveillance; Iran bans Western websites; Russian security services have the legal right to obtain personal data from Kremlin-friendly social-media platforms, while Kremlin-friendly troll farms swamp the world with disinformation Autocrats, both aspiring and actual, manipulate algorithms and use fake accounts to distort, harass, and spread “alternative facts.” The United States has no real answer to these challenges, and no wonder: We don’t have an internet based on our democratic values of openness, accountability, and respect for human rights. An online system controlled by a tiny number of secretive companies in Silicon Valley is not democratic but rather oligopolistic, even oligarchic.</p>
+<p>And yet even as America’s national conversation reaches new levels of vitriol, we could be close to a turning point. Even as our polity deteriorates, an internet that promotes democratic values instead of destroying them—that makes conversation better instead of worse—lies within our grasp. Once upon a time, digital idealists were dreamers. In 1996, John Perry Barlow, a lyricist for the Grateful Dead and an early internet utopian, predicted that a new dawn of democracy was about to break: “Governments of the Industrial World, you weary giants of flesh and steel, I come from Cyberspace, the new home of Mind,” he declared, a place where “the dreams of Jefferson, Washington, Mill, Madison, DeToqueville [ <em>sic</em> ], and Brandeis … must now be born anew.”</p>
+<p>Those ideas sound quaint—as outdated as that other 1990s idea, the inevitability of liberal democracy. Yet they don’t have to. A new generation of internet activists, lawyers, designers, regulators, and philosophers is offering us that vision, but now grounded in modern technology, legal scholarship, and social science. They want to resurrect the habits and customs that Tocqueville admired, to bring them online, not only in America but all across the democratic world.</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/b882d437666c11fda41ff2c4fa87c892e12730f3.png" class="site-icon" width="60" height="60">
+      <a href="https://www.theatlantic.com/magazine/archive/2021/04/the-internet-doesnt-have-to-be-awful/618079/" target="_blank" rel="nofollow noopener" title="10:00PM - 08 March 2021">The Atlantic – 8 Mar 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/359;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/3b2dc1b9c4254c654629dd8c2a7be85386f491d2.jpeg" class="thumbnail" width="690" height="359" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/3b2dc1b9c4254c654629dd8c2a7be85386f491d2_2_10x10.png"></div>
+
+<h3><a href="https://www.theatlantic.com/magazine/archive/2021/04/the-internet-doesnt-have-to-be-awful/618079/" target="_blank" rel="nofollow noopener">How to Put Out Democracy’s Dumpster Fire</a></h3>
+
+<p>Our democratic habits have been killed off by an internet kleptocracy that profits from disinformation, polarization, and rage. Here’s how to fix that.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/how-to-put-out-democracys-dumpster-fire/609">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/how-to-put-out-democracys-dumpster-fire/609</link>
+          <pubDate>Tue, 16 Mar 2021 16:04:36 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-609</guid>
+          <source url="https://forum.openglobalmind.com/t/how-to-put-out-democracys-dumpster-fire/609.rss">How to Put Out Democracy&#39;s Dumpster Fire</source>
+        </item>
+        <item>
+          <title>Visualization of 50 Common Cognitive Biases</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Very nicely done by The Visual Capitalist!</p>
+<p>Idea for an after action review:</p>
+<p>Print these as cards and distributing maybe 5 to 10 to each person on a team (depending on team size) with the instruction to pull out any that they think are present and operating unconsciously in their team. They’d need to back up their assertion with concrete examples and then the rest of the team would reflect on how that bias can be identified early on and compensated for when it shows up, generating agreements on how to work together with less bias in future.</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://www.visualcapitalist.com/wp-content/uploads/2018/12/favicon1.ico" class="site-icon" width="16" height="16">
+      <a href="https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/" target="_blank" rel="nofollow noopener" title="10:54AM - 01 February 2020">Visual Capitalist – 1 Feb 20</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/6c9a341c7d74ba08f0cb703023d330c63246228f_2_690x361.jpeg" class="thumbnail" width="690" height="361" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/6c9a341c7d74ba08f0cb703023d330c63246228f_2_690x361.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/6c9a341c7d74ba08f0cb703023d330c63246228f_2_1035x541.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/6c9a341c7d74ba08f0cb703023d330c63246228f.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/6c9a341c7d74ba08f0cb703023d330c63246228f_2_10x10.png"></div>
+
+<h3><a href="https://www.visualcapitalist.com/50-cognitive-biases-in-the-modern-world/" target="_blank" rel="nofollow noopener">50 Cognitive Biases in the Modern World</a></h3>
+
+<p>Our rapidly evolving world forces us to adopt distinct patterns of behavior, and in the process, paves the way for new cognitive biases to emerge.</p>
+
+  <p><span class="label1">Est. reading time: 3 minutes</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/visualization-of-50-common-cognitive-biases/608">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/visualization-of-50-common-cognitive-biases/608</link>
+          <pubDate>Tue, 16 Mar 2021 03:04:45 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-608</guid>
+          <source url="https://forum.openglobalmind.com/t/visualization-of-50-common-cognitive-biases/608.rss">Visualization of 50 Common Cognitive Biases</source>
+        </item>
+        <item>
+          <title>An OGM Wiki: Preview &amp; Planning</title>
+          <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+          <category>Action! Doing Things Now</category>
+          <description><![CDATA[
+            <p>For a while now, OGM has needed better shared memory.  I’m going to make a bold assertion and say that a good platform would be a wiki – an OGM Wiki.</p>
+<p>I’ve been holding off of even really suggesting such a thing because all the wiki platforms haven’t quite fit our needs.  But together with a few others – Bill, Charles, Vincent, and Jerry – I think we’ve come up with a platform architecture that will serve OGM well.</p>
+<p>It’s minimally usable now, but it will become a lot more user-friendly in a month or two.  I don’t want to focus too much on the platform yet (unless you really want to geek out with us to help make it more user-friendly!).</p>
+<p>But with the platform coming together, I think it’s a good time to talk start talking about the contents and operation of the wiki itself.  What would we use a wiki for?  What teams of volunteers do we need to make it a community asset?  How would we arrange information and knowledge in a wiki?  How would an OGM wiki interface with other communities’ knowledgebases?</p>
+<p>Let’s explore those and any other questions in two pop-up OGM exploration calls I will host this week:</p>
+<p>Tuesday 3/16, 10:30am PDT / 1:30pm EDT / 5:30pm UTC / 6:30pm CET<br>
+Wednesday 3/17, 8:00am PDT / 11:00am EDT / 3:00pm UTC / 4:00pm CET</p>
+<p><a href="https://us02web.zoom.us/j/81369085502">https://us02web.zoom.us/j/81369085502</a></p>
+<p>We’ll record and share the meetings.  Don’t worry if you can’t make it this time, these are early explorations, and we’ll continue to do more over the coming weeks and months.</p>
+            <p><small>11 posts - 5 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/an-ogm-wiki-preview-planning/607">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/an-ogm-wiki-preview-planning/607</link>
+          <pubDate>Mon, 15 Mar 2021 05:31:48 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-607</guid>
+          <source url="https://forum.openglobalmind.com/t/an-ogm-wiki-preview-planning/607.rss">An OGM Wiki: Preview &amp; Planning</source>
+        </item>
+        <item>
+          <title>Why Do People Believe in Conspiracy Theories</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Interesting post offers five reasons people gravitate towards conspiracy theories… Here’s one of them:</p>
+<h2>Conspiracy theories are a way for people to exert control over or within unstable, complex systems.</h2>
+<p>If the Enlightenment gave people the tools to think in terms of conspiracy, it’s the condition of modernity itself that’s made them particularly attractive. For centuries now we’ve lived in an increasingly interconnected, interdependent world, ruled over by shifting and unstable arrangements of bureaucratic institutions and free markets. In theory, this world is driven by human agency; in practice, any particular individual’s agency is sharply limited and often irrelevant. For people living through a ruinous financial crisis or devastating climate change — or even through rapid social change that has no material effect on their lives — it can be hard to make sense of a cascade of events that seem to have no plainly evident causal chain, or even identifiable human authors. How do you account for a world we’re meant to master, but is so complex its workings seem essentially opaque? In steps the conspiracy theory, which the historian Ed White <a href="https://muse.jhu.edu/article/1962/pdf" rel="nofollow noopener">has called </a>“a vernacular attempt to think through a great conundrum of social theory, the relationship between agency and structure.”</p>
+<p>What’s at stake for conspiracy theorists in this understanding isn’t simply explaining a confusing world, but asserting some kind of power over or within it. “People who feel powerless are more likely to believe in conspiracy theories,” <a href="https://www.vox.com/science-and-health/2017/4/25/15408610/conspiracy-theories-psychologist-explained" rel="nofollow noopener">the psychologist Jan-Willem van Prooijen says</a>, and conspiracy theories can help rectify their situations. The political scientists Joseph Uscinski and Joseph Parent express a similar sentiment somewhat more bluntly in the title of their 2011 paper: “<a href="https://pdfs.semanticscholar.org/a569/a721ee35b666f1d0a6d7570f0dcac1d15794.pdf" rel="nofollow noopener">Conspiracy Theories Are for Losers</a>.” Uscinski and Parent argue that “vulnerable groups” in a state of political powerlessness use the “strategic logic” of conspiracy theories to “sharpen internal cohesion and focus attention on dangers.” Even beyond strategic benefit or material power, a conspiracy can offer symbolic control over a world from which a person feels particularly alienated — I don’t like my life; I may not be able to change it; but at least I can understand how it all works and know it’s not my fault. Paradoxically, policy-makers interested in disincentivizing conspiracy theories might consider giving conspiracy theorists more political power. The more control you feel over your social and political circumstances, the less likely you are to turn to conspiracy theory as succor.</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/fb9b024cdb775481789d32840ff7d787d7197867.png" class="site-icon" width="196" height="196">
+      <a href="https://nymag.com/intelligencer/2020/02/why-do-people-believe-in-conspiracy-theories.html" target="_blank" rel="nofollow noopener" title="11:17PM - 06 February 2020">Intelligencer – 6 Feb 20</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/362;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/51d36bf1dac9b8d235a23cb74baf1d48dfabf2d4.jpeg" class="thumbnail" width="690" height="362" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/51d36bf1dac9b8d235a23cb74baf1d48dfabf2d4_2_10x10.png"></div>
+
+<h3><a href="https://nymag.com/intelligencer/2020/02/why-do-people-believe-in-conspiracy-theories.html" target="_blank" rel="nofollow noopener">5 Theories About Conspiracy Theories</a></h3>
+
+<p>We live in the age of red yarn and corkboard. There’s no easy explanation — but here are five theories why.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/why-do-people-believe-in-conspiracy-theories/606">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/why-do-people-believe-in-conspiracy-theories/606</link>
+          <pubDate>Sun, 14 Mar 2021 19:17:11 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-606</guid>
+          <source url="https://forum.openglobalmind.com/t/why-do-people-believe-in-conspiracy-theories/606.rss">Why Do People Believe in Conspiracy Theories</source>
+        </item>
+        <item>
+          <title>The Confederacy was the Great-Great-Great Grandaddy of Trickledown Economics</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Gil Friend shared this on FB and it seemed some folks here might appreciate it…</p>
+<p>Excerpt:</p>
+<p>"What the flag symbolizes for blacks is enough reason to take it down. But there’s another reason that white southerners shouldn’t fly it. Or sport it on our state-issued license plates as some do here in North Carolina. The Confederacy – and the slavery that spawned it – was also one big con job on the Southern, white, working class. A con job funded by some of the ante-bellum one-per-centers, that continues today in a similar form.</p>
+<p>You don’t have to be an economist to see that forcing blacks – a third of the South’s laborers – to work without pay drove down wages for everyone else. And not just in agriculture. A quarter of enslaved blacks worked in the construction, manufacturing and lumbering trades; cutting wages even for skilled white workers.</p>
+<p>Thanks to the profitability of this no-wage/low-wage combination, a majority of American one-per-centers were southerners. Slavery made southern states the richest in the country. The South was richer than any other country except England. But that vast wealth was invisible outside the plantation ballrooms. With low wages and few schools, southern whites suffered a much lower land ownership rate and a far lower literacy rate than northern whites…</p>
+<p>How did the plantation owners mislead so many Southern whites?</p>
+<p>They managed this con job partly with a propaganda technique that will be familiar to modern Americans, but hasn’t received the coverage it deserves in our sesquicentennial celebrations. Starting in the 1840s wealthy Southerners supported more than 30 regional pro-slavery magazines, many pamphlets, newspapers and novels that falsely touted slave ownership as having benefits that would – in today’s lingo – trickle down to benefit non-slave owning whites and even blacks. The flip side of the coin of this old-is-new trickle-down propaganda is the mistaken notion that any gain by blacks in wages, schools or health care comes at the expense of the white working class."</p>
+<p><a href="https://www.mcclatchydc.com/opinion/article136803208.html" class="onebox" target="_blank" rel="nofollow noopener">https://www.mcclatchydc.com/opinion/article136803208.html</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/the-confederacy-was-the-great-great-great-grandaddy-of-trickledown-economics/605">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/the-confederacy-was-the-great-great-great-grandaddy-of-trickledown-economics/605</link>
+          <pubDate>Fri, 12 Mar 2021 22:18:41 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-605</guid>
+          <source url="https://forum.openglobalmind.com/t/the-confederacy-was-the-great-great-great-grandaddy-of-trickledown-economics/605.rss">The Confederacy was the Great-Great-Great Grandaddy of Trickledown Economics</source>
+        </item>
+        <item>
+          <title>How the Inuit Teach Their Children About Anger</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Fascinating post!</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/afe1576c0c4259f8d01285ab082ef3d3607a63e9.png" class="site-icon" width="96" height="96">
+      <a href="https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger" target="_blank" rel="nofollow noopener">NPR.org</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/387;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/2529ca95d6f323488d73971e103c19baea5e94c1_2_690x387.jpeg" class="thumbnail" width="690" height="387" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/2529ca95d6f323488d73971e103c19baea5e94c1_2_690x387.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/2529ca95d6f323488d73971e103c19baea5e94c1_2_1035x580.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/2529ca95d6f323488d73971e103c19baea5e94c1_2_1380x774.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/2529ca95d6f323488d73971e103c19baea5e94c1_2_10x10.png"></div>
+
+<h3><a href="https://www.npr.org/sections/goatsandsoda/2019/03/13/685533353/a-playful-way-to-teach-kids-to-control-their-anger" target="_blank" rel="nofollow noopener">How Inuit Parents Teach Kids To Control Their Anger</a></h3>
+
+<p>At the top of the world, the Inuit culture has developed a sophisticated way to sculpt kids' behavior without yelling or scolding. Could discipline actually be playful?</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/how-the-inuit-teach-their-children-about-anger/604">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/how-the-inuit-teach-their-children-about-anger/604</link>
+          <pubDate>Thu, 11 Mar 2021 16:04:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-604</guid>
+          <source url="https://forum.openglobalmind.com/t/how-the-inuit-teach-their-children-about-anger/604.rss">How the Inuit Teach Their Children About Anger</source>
+        </item>
+        <item>
+          <title>Everything (and maybe more) you want to know about NFTs</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>#random</category>
+          <description><![CDATA[
+            <p>For those of us who are trying to stay abreast or are struggling to catch up on the latest lingo and developments in the world of blockchain…</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://cdn.vox-cdn.com/uploads/chorus_asset/file/21956592/favicon-96x96.0.0.ico" class="site-icon" width="96" height="96">
+      <a href="https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq" target="_blank" rel="nofollow noopener" title="01:08PM - 03 March 2021">The Verge – 3 Mar 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/d35c7fb30cf9adf000be8a81b63fcb307c9ebbf4_2_690x361.jpeg" class="thumbnail" width="690" height="361" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/d35c7fb30cf9adf000be8a81b63fcb307c9ebbf4_2_690x361.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/d35c7fb30cf9adf000be8a81b63fcb307c9ebbf4_2_1035x541.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/d35c7fb30cf9adf000be8a81b63fcb307c9ebbf4.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/d35c7fb30cf9adf000be8a81b63fcb307c9ebbf4_2_10x10.png"></div>
+
+<h3><a href="https://www.theverge.com/22310188/nft-explainer-what-is-blockchain-crypto-art-faq" target="_blank" rel="nofollow noopener">People are spending millions on NFTs. What? Why?</a></h3>
+
+<p>NFT WTF FAQ.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/everything-and-maybe-more-you-want-to-know-about-nfts/602">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/everything-and-maybe-more-you-want-to-know-about-nfts/602</link>
+          <pubDate>Tue, 09 Mar 2021 04:12:42 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-602</guid>
+          <source url="https://forum.openglobalmind.com/t/everything-and-maybe-more-you-want-to-know-about-nfts/602.rss">Everything (and maybe more) you want to know about NFTs</source>
+        </item>
+        <item>
+          <title>Why Slack and gmail are making us miserable and what to do about it</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>From Ezra Klein trasnscript of a podcast - excerpts:</p>
+<p>"I want to begin here with a concept that’s going to be important throughout the episode — the hyperactive hive mind. That’s the idea at the center of Cal Newport’s new book, “A World Without Email.” And it’s the idea he says at the center of how a lot of us are working and living these days. He defines the hyperactive hive mind as a workflow centered on ongoing conversation fueled by unstructured and unscheduled messages delivered through digital communication tools, like email and instant messenger. It’s a bit of a mouthful, but if you’re someone working in an office, maybe a remote one now, where there’s just a constant stream of digital work-like chatter, that you kind of always need to be keeping up with, but also you sense it’s distracting you from doing your work and also from seeing your family and just relaxing pretty often, that you’re in a hyperactive hive mind. And a lot of us — not all of us, but a lot of us — are in this now…</p>
+<p>…Newport has been circling this idea that all of the digital wonder around us has come with a cost. We’re losing our ability to concentrate. These remarkable vistas of information that have been opened to us have also been polluted by endless distraction. And so, we’re not benefiting from any of this the way we thought we would. Instead of getting more done in less time, we feel like we have less time than ever and are never getting enough done. It’s really weird. Something is wrong here…</p>
+<p>…This book is about systems, and in particular, about workplaces. Newport is making a radical argument here, that companies that obsess about efficiency, that think of themselves as rational economic actors, they are utterly failing to question and experiment with their own workflows, like the fundamental nature of how they do their business. And in that, they are making their employees unhappy. They are making their products worse, and they are just contributing to an overall degradation of society. It’s a pretty stunning indictment. I’m not sure I agree with all of it. But I think there’s really something to it…"</p>
+<p>Interview follows in the link below:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/d25cbbffefa5594bcaee6d469cda5e5ae55b67d6.png" class="site-icon" width="48" height="48">
+      <a href="https://www.nytimes.com/2021/03/05/opinion/ezra-klein-podcast-cal-newport.html" target="_blank" rel="nofollow noopener" title="10:00AM - 05 March 2021">nytimes.com – 5 Mar 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/459;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/db1cf846819437eb2f1690d4fb160adb6bc5249e.jpeg" class="thumbnail" width="690" height="459" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/db1cf846819437eb2f1690d4fb160adb6bc5249e_2_10x10.png"></div>
+
+<h3><a href="https://www.nytimes.com/2021/03/05/opinion/ezra-klein-podcast-cal-newport.html" target="_blank" rel="nofollow noopener">Opinion | Stop. Breathe. We Can’t Keep Working Like This.</a></h3>
+
+<p>Cal Newport explains how Slack and Gmail are making us miserable — and what to do about it.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/why-slack-and-gmail-are-making-us-miserable-and-what-to-do-about-it/601">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/why-slack-and-gmail-are-making-us-miserable-and-what-to-do-about-it/601</link>
+          <pubDate>Mon, 08 Mar 2021 04:00:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-601</guid>
+          <source url="https://forum.openglobalmind.com/t/why-slack-and-gmail-are-making-us-miserable-and-what-to-do-about-it/601.rss">Why Slack and gmail are making us miserable and what to do about it</source>
+        </item>
+        <item>
+          <title>Back is not the Way Forward by Sunil Malhorta</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Many thanks to Sunil for posting his excellent Medium post in my FB group Signs of a World Awakening - if you’d like to join follow me on FB (Ken Homer) and I will be happy to invite you. A couple of excerpts:</p>
+<p>"The Experts* Have It Wrong</p>
+<p>(*Experts: the majority of narrowly specialised theorists including snake oil salesmen)</p>
+<p>“When setting out on a journey do not seek advice from those who have never left home.” ~ Rumi.</p>
+<p>“Post-COVID” has become a moving target and experts have theories of what normal will look like after the pandemic runs its course. Many seem to be comparing the pandemic to events of the past to find their answers: Spanish flu, WWII, the Great Depression, the attacks of 9/11, the 2008 financial meltdown…and the list goes on. As we’re painfully learning more and more about the virus though, <span class="hashtag">#Covid-19</span> doesn’t fit neatly into any past patterns. So these experts will all be more or less wrong.</p>
+<p>There’s a fable from India (in the Panchatantra) of four scholar friends who come across the carcass of a lion and each of the “learned” three wishes use his expertise: one is a bone specialist and he can put the skeleton back together, the second has the skills to add flesh and skin and the third knows tantra to breathe life into the animal. The fourth pleads, “Please give me a moment. I wish to climb a tree before you make use of your scholarship.” The “experts” who went back to the normal of the living lion, got eaten. The fourth, who used “common sense”, lived to tell the tale…</p>
+<p>…The world is always re-writing its code of life and this pandemic is a stark reminder of Nature’s ways. No amount of research, expertise or knowledge is going to get us back to our old normal. Realising we are Nature’s creation and not apart from it—combined with imagination, creativity and innovation—can move us to the next level.</p>
+<p>It is</p>
+<p><em>&gt;&gt; Less about being only individuals than</em>  <em><strong>understanding, respecting and preserving</strong></em>  <em>what we are part of.</em></p><em>
+</em><blockquote>
+<em>
+</em><blockquote>
+<em>
+</em><p><em>Less about restarting the economy than</em>  <em><strong>reviewing, rewriting and renewing our values</strong></em> <em>.<br>
+Less about reverting to our old business-as-usual than</em>  <em><strong>reinventing our commercial ways</strong></em> <em>.<br>
+Less about reaping profits from scarcity than</em>  <em><strong>spreading and sharing the abundance</strong></em> <em>of the world.<br>
+Less about nationalistic protectionism and more about</em>  <em><strong>global cooperation and ethics</strong></em> <em>.</em></p>
+</blockquote>
+</blockquote>
+<p>It’s shifting to higher gears of consciousness and leveraging humankind’s very first opportunity to build the world from the ground up, armed with the benefit of hindsight, and the amazing technology-enabled tools we’ve created.</p>
+<p>Our minds are conditioned to quickly jump to solutions, and not linger in the problem space. Humans have a tendency to see patterns everywhere, which are important when making decisions and judgments and for acquiring knowledge; we tend to be uneasy with chaos and chance (Gilovich, 1991). Unfortunately, that same tendency to see patterns in everything can lead to seeing things that don’t exist³. Somehow, we are conditioned to fitting problems quickly into solution shapes we have seen in our past. Not being able to do so, makes us very uncomfortable. We’re more at ease when we can recognise a familiar pattern, but “if all you seek is knowledge that you already believe you have, then that’s often the most you will ever find”…</p>
+<p>… “ <em>The methods we have developed over the years to recognize and respond to commonplace disruptions seem increasingly, painfully inadequate when the world appears to be falling apart. It’s hard to see the big picture when everything insists on coloring outside the lines</em> ,” writes . “ <em>To borrow a concept from chemistry, there has been a phase change in the nature of our social (and political, and cultural, and technological) reality — we’re no longer happily bubbling along, the boiling has begun.</em> ”</p>
+<p>Full post here: <a href="https://sunilmalhotra.medium.com/back-is-not-the-way-forward-cb63f99da9e5" rel="nofollow noopener">https://sunilmalhotra.medium.com/back-is-not-the-way-forward-cb63f99da9e5</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/back-is-not-the-way-forward-by-sunil-malhorta/598">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/back-is-not-the-way-forward-by-sunil-malhorta/598</link>
+          <pubDate>Sat, 06 Mar 2021 17:58:17 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-598</guid>
+          <source url="https://forum.openglobalmind.com/t/back-is-not-the-way-forward-by-sunil-malhorta/598.rss">Back is not the Way Forward by Sunil Malhorta</source>
+        </item>
+        <item>
+          <title>Zoomcorder - send a recording of yourself to a Zoom call, to record the call</title>
+          <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+          <category>#random</category>
+          <description><![CDATA[
+            <p>Sometimes I feel a little self-conscious about dragging weird stuff back to the tribe.  This is one of those times.  Please know that when I drag weird stuff in, it’s always with good intent and the desire to help others…</p>
+<p>(Also, there is a very short time-limited “flash sale” for $99/year instead of $249/year, expires March 6.  Read on for more context.)</p>
+<p>Anyway, this is a new service from entrepreneur Michael Robertson.</p>
+<aside class="onebox wikipedia">
+  <header class="source">
+      <a href="https://en.wikipedia.org/wiki/Michael_Robertson_(businessman)" target="_blank" rel="noopener">en.wikipedia.org</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/original/1X/56ad6367f549fe0add27580d251d398aaf35c858.png" class="thumbnail onebox-full-image" width="40" height="40">
+
+<h3><a href="https://en.wikipedia.org/wiki/Michael_Robertson_(businessman)" target="_blank" rel="noopener">Michael Robertson (businessman)</a></h3>
+
+<p>Michael Robertson (born 1967) is the founder and former CEO of MP3.com, an Internet music site. In the years following his departure from MP3.com Robertson has launched several companies, including Linspire, SIPphone, MP3tunes, and Ajax13. He is also founder of OnRad.io, a search engine for radio and DAR.fm, a website for recording audio from internet radio.
+ Michael Robertson, quoted in BusinessWeek
+ Robertson was the founder of the original MP3.com. Despite the early success of MP3.com on Wall ...</p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>He builds interesting hacks on existing popular technology as a business, often with some subversion of the dominant IP paradigm.  Read/skim the Wikipedia page for details.  I think he is generally of good intent.  He also doesn’t mind getting in legal hot water as he builds a business.</p>
+<p>When he builds stuff, it works.  It’s also got a barebones visual aesthetic, but again, it’s always functional and well-thought out.</p>
+<p>So it is that I can take his latest offering seriously:</p>
+<p>Zoomcorder<br>
+<a href="https://zoomcorder.com/" class="onebox" target="_blank">https://zoomcorder.com/</a></p>
+<p>The idea is that you record yourself pretending to attend a Zoom call, and then in the future, Zoomcorder can attend Zoom calls on your behalf.  Using a virtual computer, it plays the recording of you (or Snoop Dogg, if you so desire), so as long as you’re not called on to be interactive, it will look like you’re attending.  At the same time, it will be recording the meeting (with no intervention or help from the host), and you can later download that recording at your leisure.</p>
+<p>Some IP-ish related thoughts right away:</p>
+<ul>
+<li>Some calls will start to ban virtual attendees, either from the whole call, or will kick out virtual attendees ad hoc.</li>
+<li>Zoom itself might try to ban Zoomcorder’s virtual attendees (Robertson’s probably already thought about that).</li>
+<li>A kerfuffle around state recording (wiretapping) consent laws is to be expected.</li>
+<li>You might look rude if your recording isn’t interactive with the call.</li>
+<li>A minor but interesting one: Zoom might sue Zoomcorder for trademark infringement, and force it to at least change its name.  Robertson isn’t afraid of this sort of thing; rather, he appreciates provoking it and benefiting from the publicity.</li>
+<li>If Zoomcorder goes <em>poof</em>, any pre-payments to Zoomcorder may not be refunded.  That’s just business, not malice, I think; caveat emptor.</li>
+</ul>
+<p>Pricing and other details:</p>
+<ul>
+<li>There is currently a free tier, with audio recording and previews of video recording. Not sure if this will last.</li>
+<li>Pro tier is $49/month or $249/year.  A “flash sale” for $99/year expires March 6.</li>
+<li>“Record 5 meetings at a time”.  This right here might make it worth it for people who are interested in lots of Zoom calls where they can be non-interactive.</li>
+</ul>
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/zoomcorder-send-a-recording-of-yourself-to-a-zoom-call-to-record-the-call/597">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/zoomcorder-send-a-recording-of-yourself-to-a-zoom-call-to-record-the-call/597</link>
+          <pubDate>Fri, 05 Mar 2021 16:21:55 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-597</guid>
+          <source url="https://forum.openglobalmind.com/t/zoomcorder-send-a-recording-of-yourself-to-a-zoom-call-to-record-the-call/597.rss">Zoomcorder - send a recording of yourself to a Zoom call, to record the call</source>
+        </item>
+        <item>
+          <title>A Good Surface Sanitizer/Cleaner: Hypochlorous Acid</title>
+          <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+          <category>Action! Doing Things Now</category>
+          <description><![CDATA[
+            <p>Hey, so I recently discovered a great cleaning product, hypochlorous acid (HOCl).  You don’t know about it because A) it’s a generic, so there’s no brand name marketing behind it, and B) it dissociates pretty quickly into water and a tiny bit of salt, so classically it’s an industrial cleaner made on site.</p>
+<p>(Or maybe you know about it already, and I am only now catching up. :-))</p>
+<p>Anyway, this is not a marketing pitch, nor is it professional public health and safety advice, just a pointer.</p>
+<p>It’s mainly for hard, non-porous surfaces, and it’s for sanitizing/disinfecting, and for cutting light grease or things like soap film/soap scum or the pink biofilm in the shower.  It is not particularly useful for heavily soiled / bulk debris; you should rinse/wipe/wash off soil/debris, first, then use the HOCl.</p>
+<p>It smells like chlorine when you spray it, but not offensively so.  (My wife and I both like it; it smells “clean.”)  It’s related to bleach (hypochlorite), but it’s different (and better for disinfecting/sanitizing).</p>
+<p>It’s mostly water, and reasonably safe around people and pets.  You wouldn’t drink it or indiscriminately soak your skin in it, but it’s actually used in wound care.  It can be used on food and food-contact surfaces as a no-rinse sanitizer.</p>
+<p>It is included on the US EPA List N, of sanitizers effective against SARS-CoV-2 (COVID-19):</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/01b7a0a131bec15c284387613a3d69d335952615.png" class="site-icon" width="16" height="16">
+      <a href="https://www.epa.gov/pesticide-registration/list-n-advanced-search-page-disinfectants-coronavirus-covid-19" target="_blank" rel="noopener" title="06:03PM - 13 August 2020">US EPA – 13 Aug 20</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/original/1X/89fb3cb8d9a4523beaf2c238efd0d761d9b4c34c.png" class="thumbnail onebox-avatar" width="400" height="400">
+
+<h3><a href="https://www.epa.gov/pesticide-registration/list-n-advanced-search-page-disinfectants-coronavirus-covid-19" target="_blank" rel="noopener">List N Advanced Search Page: Disinfectants for Coronavirus (COVID-19) | US EPA</a></h3>
+
+<p>Search EPA’s list n legacy search page of registered disinfectants for use against SARS-CoV-2, the virus that causes the novel coronavirus (COVID-19).&nbsp;</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>To kill SARS-CoV-2 on a surface, you spray it on the surface (even food prep or fruit/vegetable surfaces) and leave it wet for 10 minutes.</p>
+<p>(I believe that public health consensus is that surface sanitization is not particularly necessary with COVID-19, because it’s mostly airborne, and you should just wash your hands more often.  We still spray all our groceries when they’re delivered.  Partly, I think, it’s just a way of feeling like we have a little control in our uncertain times.  YMMV.)</p>
+<p>You can buy it pre-made, or because it dissociates over time, you can buy a “generator” that makes it via electrolysis out of water and a tiny bit of salt and distilled vinegar.  (The acetic acid is for pH control; if the solution is acidic, you get hypochlorous acid; if the solution is basic, you get hypochlorite, which is more dangerous and not as effective.)</p>
+<p>I started with a two-pack of spray bottles (happened to be CleanSmart brand), and then bought a small generator (Force of Nature).</p>
+<p>I found three kinds of home generators (as opposed to industrial):</p>
+<ol>
+<li>
+<p>The ~$300 kind, which I did not explore.</p>
+</li>
+<li>
+<p>The ~$90-$120 fairly generic kind from Chinese manufacturers; I think these are probably pretty much the same as <span class="hashtag">#1</span>, with different packaging, manuals, and customer support.</p>
+</li>
+<li>
+<p>Force of Nature, ~$50 + ~$1 per 12oz of HOCl.  They’re a US consumer-oriented company, and obtained an EPA registration for the hypochlorous acid their generator produces.  Partly because of the EPA registration and the need for precise formulation, or perhaps partly as a razor/razor blade model, they sell small ampoules of salt+vinegar that you use, 1 ampoule per 12 oz of solution.</p>
+</li>
+</ol>
+<p>I was pretty close to buying a <span class="hashtag">#2</span> machine, but to do it right, you need to buy chlorine and pH test strips, which turns out to be sort of an ongoing expense like FoN’s ampoules.  Plus, you have to measure your salt and control the pH, and the base machine costs more than FoN… long story short, I appreciate FoN’s US consumer-oriented approach, and don’t find their supply cost onerous compared to the convenience.</p>
+<p>Don’t buy FoN at Amazon, it’s expensive there.  Rather, if you buy one, buy direct from their website, and make sure you get a 15% or 20% coupon code. <a href="https://www.forceofnatureclean.com/">https://www.forceofnatureclean.com/</a></p>
+<p>Again, not a marketing pitch, and not professional health and safety advice.  Do your own research, and/or contact your public health and safety officials.</p>
+<p>This post is licensed under CC0/is public domain; please feel free to distribute as you wish.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/a-good-surface-sanitizer-cleaner-hypochlorous-acid/596">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/a-good-surface-sanitizer-cleaner-hypochlorous-acid/596</link>
+          <pubDate>Tue, 02 Mar 2021 16:28:14 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-596</guid>
+          <source url="https://forum.openglobalmind.com/t/a-good-surface-sanitizer-cleaner-hypochlorous-acid/596.rss">A Good Surface Sanitizer/Cleaner: Hypochlorous Acid</source>
+        </item>
+        <item>
+          <title>Digging Deeper into The Dig</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>The Dig (Netflix) unfolds at a stately pace which didn’t detract at all from my enjoyment of the movie and the story that it told. Here are two more ways you can dig in to learn more:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/ef62964a05f74af6bb005256b1e04cc30f56176b.png" class="site-icon" width="32" height="32">
+      <a href="https://www.sapiens.org/archaeology/story-sutton-hoo/" target="_blank" rel="nofollow noopener" title="07:41PM - 24 February 2021">SAPIENS – 24 Feb 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/361;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/575b7a14c42532045972d6af7139931b7e37e6c6.jpeg" class="thumbnail" width="690" height="361" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/575b7a14c42532045972d6af7139931b7e37e6c6_2_10x10.png"></div>
+
+<h3><a href="https://www.sapiens.org/archaeology/story-sutton-hoo/" target="_blank" rel="nofollow noopener">Sutton Hoo's Story Goes Deeper Than The Dig</a></h3>
+
+<p>The archaeologist in charge of the Sutton Hoo burial mounds recounts what has been discovered at the famous English site since the 1930s excavation portrayed in the movie The Dig.</p>
+
+  <p><span class="label1">Est. reading time: 9 minutes</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://static-media.smithsonianmag.com/img/favicon.ico" class="site-icon" width="16" height="16">
+      <a href="https://www.smithsonianmag.com/history/true-history-behind-netflixs-dig-and-sutton-hoo-180976923/" target="_blank" rel="nofollow noopener">Smithsonian Magazine</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/346;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/10f0da85b5089874a81f713bfb1f18627ac05889.jpeg" class="thumbnail" width="690" height="346" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/10f0da85b5089874a81f713bfb1f18627ac05889_2_10x10.png"></div>
+
+<h3><a href="https://www.smithsonianmag.com/history/true-history-behind-netflixs-dig-and-sutton-hoo-180976923/" target="_blank" rel="nofollow noopener">The True History Behind Netflix's 'The Dig' and Sutton Hoo</a></h3>
+
+<p>One of the greatest archaeological finds in British history, the Anglo-Saxon burial changed historians' view of the Dark Ages</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>The second link has an interesting video of the helmet that’s worth checking out…</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/digging-deeper-into-the-dig/594">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/digging-deeper-into-the-dig/594</link>
+          <pubDate>Sun, 28 Feb 2021 02:56:07 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-594</guid>
+          <source url="https://forum.openglobalmind.com/t/digging-deeper-into-the-dig/594.rss">Digging Deeper into The Dig</source>
+        </item>
+        <item>
+          <title>Clubhouse is generating lots of buzz - can it go the distance?</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Town Square</category>
+          <description><![CDATA[
+            <p>Brief excerpts:</p>
+<p>Every successful social network has a life cycle that goes something like: Wow, this app sure is addictive! Look at all the funny and exciting ways people are using it! Oh, look, I can get my news and political commentary here, too! This is going to empower dissidents, promote free speech and topple authoritarian regimes! Hmm, why are trolls and racists getting millions of followers? And where did all these conspiracy theories come from? This platform should really hire some moderators and fix its algorithms. Wow, this place is a cesspool, I’m deleting my account…</p>
+<p>The company has also faced accusations of mishandling user data, including a Stanford report that found that the company may have routed some data through servers in China, possibly giving the Chinese government access to sensitive user information. (The company pledged to lock down user data and submit to an outside audit of its security practices.) And privacy advocates have balked at the app’s aggressive growth practices, which include asking users to upload their entire contact lists in order to send invitations to others.</p>
+<p>“Major privacy &amp; security concerns, lots of data extraction, use of dark patterns, growth without a clear business model. When will we learn?” Elizabeth M. Renieris, the director of the Notre Dame-IBM Tech Ethics Lab, wrote in a tweet this week that compared Clubhouse at this moment to the early days of Facebook…</p>
+<p>But before I get tagged as a Clubhouse hater, let me sound a note of optimism. I actually like Clubhouse, and think its core technological innovation — an easy way to create live, participatory audio experiences — is a genuinely useful one. Most rooms I’ve been in are civil and well moderated, and if you scroll past the megapopular rooms filled with celebrities and clout-chasers, you can find some truly fascinating stuff…</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/d25cbbffefa5594bcaee6d469cda5e5ae55b67d6.png" class="site-icon" width="48" height="48">
+      <a href="https://www.nytimes.com/2021/02/25/technology/clubhouse-audio-app-experience.html" target="_blank" rel="nofollow noopener" title="10:00AM - 25 February 2021">nytimes.com – 25 Feb 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/460;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/89cfcc95455dc1e0e39ed4f2563c6a99418f2382.jpeg" class="thumbnail" width="690" height="460" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/89cfcc95455dc1e0e39ed4f2563c6a99418f2382_2_10x10.png"></div>
+
+<h3><a href="https://www.nytimes.com/2021/02/25/technology/clubhouse-audio-app-experience.html" target="_blank" rel="nofollow noopener">Can Clubhouse Move Fast Without Breaking Things?</a></h3>
+
+<p>The 11-month-old audio social network is compelling. It also has some very grown-up problems.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>3 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/clubhouse-is-generating-lots-of-buzz-can-it-go-the-distance/593">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/clubhouse-is-generating-lots-of-buzz-can-it-go-the-distance/593</link>
+          <pubDate>Sun, 28 Feb 2021 02:50:18 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-593</guid>
+          <source url="https://forum.openglobalmind.com/t/clubhouse-is-generating-lots-of-buzz-can-it-go-the-distance/593.rss">Clubhouse is generating lots of buzz - can it go the distance?</source>
+        </item>
+        <item>
+          <title>Proprioception: Our Imperceptible Sixth Sense</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Proprioception - where would your hands be without it?</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/0da9fea04034424db5c9c9e5fc6bd6b60e8b9b55.jpeg" class="site-icon" width="32" height="32">
+      <a href="https://neurosciencenews.com/proprioception-neuroscience-17839/" target="_blank" rel="nofollow noopener" title="08:10PM - 21 February 2021">Neuroscience News – 21 Feb 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:643/500;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/b7be2887c7ac62c7c47084ff32fe3915c741990d.jpeg" class="thumbnail" width="643" height="500" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/b7be2887c7ac62c7c47084ff32fe3915c741990d_2_10x10.png"></div>
+
+<h3><a href="https://neurosciencenews.com/proprioception-neuroscience-17839/" target="_blank" rel="nofollow noopener">Proprioception, Our Imperceptible 6th Sense - Neuroscience News</a></h3>
+
+<p>Proprioception allows us to determine the position, speed, and direction of each of our body parts, and enables our brains to guide our movements. Researchers explore what happens in the brain when proprioception is lost.</p>
+
+  <p><span class="label1">Est. reading time: 7 minutes</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/proprioception-our-imperceptible-sixth-sense/590">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/proprioception-our-imperceptible-sixth-sense/590</link>
+          <pubDate>Tue, 23 Feb 2021 17:19:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-590</guid>
+          <source url="https://forum.openglobalmind.com/t/proprioception-our-imperceptible-sixth-sense/590.rss">Proprioception: Our Imperceptible Sixth Sense</source>
+        </item>
+  </channel>
+</rss>

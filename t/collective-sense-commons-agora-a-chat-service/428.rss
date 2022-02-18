@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Collective Sense Commons Agora (A Chat Service)</title>
+    <link>https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428</link>
+    <description>You may have heard me talking about the **Collective Sense Commons** (CSC) in the past month or so.  Or perhaps not.
+
+Collective Sense Commons is an expression of my belief that there should be an information and communications commons for persons and organizations who are working on collective sensemaking.
+
+It starts now with a chat service, running Mattermost software.  Mattermost is very similar to Slack.  Chat services like Mattermost or Slack are good for in-the-moment conversations, and for conversations that run from minutes to hours to days.  They are a little more quick and nimble than a forum (such as OGM Forum), which is why you might use a chat service instead of a forum.
+
+On the flip side, chat services are harder to use for conversations that run from days to weeks to months, which is why you might use a forum instead of chat.  Or, maybe you just prefer one over the other, or hanging out with the folks who happen to use one or the other.
+
+CSC is currently an ad hoc organization, similar to the way OGM is an ad hoc organization, although it&#39;s much smaller right now, just me and a few advisors.
+
+My general idea is that CSC is a member of OGM, and that OGM will hopefully be a member of CSC, together with many other individuals and organizations, in a big federation.
+
+That&#39;s a little ways down the road.  For today, I&#39;d like to announce that CSC Agora is ready for Early Adopters or the very curious.  It is a nice, fresh install of Mattermost, currently with just two starter channels, &quot;Town Square&quot; (like #general, for Slack folks) and &quot;Off-Topic&quot; (like #random).  I expect soon we&#39;ll have a couple of OGM channels, a couple of CICOLAB channels, and who knows, maybe a few others, based around other orgs, or other areas of interest, we&#39;ll see.
+
+In the coming weeks, I&#39;ll also be setting up a CSC wiki, running MediaWiki.  But that&#39;s for later; for now, if you&#39;re a little adventurous, feel free to come check out CSC Agora!
+
+Go here to sign up:
+
+&gt; CSC Agora
+&gt; https://chat.collectivesensecommons.org/
+
+Also consider installing dedicated mobile and desktop Mattermost clients, which you can use with CSC Agora and other Mattermost servers: https://mattermost.com/download/#mattermostApps
+
+Thank you!</description>
+    
+    <lastBuildDate>Wed, 25 Nov 2020 18:51:43 +0000</lastBuildDate>
+    <category>OGM Connections</category>
+    <atom:link href="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Collective Sense Commons Agora (A Chat Service)</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="peterkaminski" data-post="3" data-topic="428">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/peterkaminski/40/3_2.png" class="avatar"> peterkaminski:</div>
+<blockquote>
+<p>Also of note, their support forum is running Discourse. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> <a href="https://forum.mattermost.org/">https://forum.mattermost.org/</a></p>
+</blockquote>
+</aside>
+<p>LOLOL. (Pssst! Meanwhile the rest of us are using IRC.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/4</link>
+        <pubDate>Wed, 25 Nov 2020 18:51:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-428-4</guid>
+        <source url="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428.rss">Collective Sense Commons Agora (A Chat Service)</source>
+      </item>
+      <item>
+        <title>Collective Sense Commons Agora (A Chat Service)</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Good question, Matt!  This has already confused a couple of other folks.</p>
+<p>Centralized services like Twitter, Facebook, etc. have one main service and URL that <em>everybody</em> uses.</p>
+<p>Mattermost is software, and numerous different organizations run their own Mattermost server.</p>
+<p>So on the mobile app, you need to tell it which server you want to go to – for CSC Agora, it’s <a href="https://chat.collectivesensecommons.org/">https://chat.collectivesensecommons.org/</a></p>
+<p>It turns out that I was mostly wrong about the mobile app and multiple servers; AFAIK the mobile app currently only supports being connected to one server at a time.  You still get to pick which one, but it can’t (yet) connect to multiple servers at the same time.  So there’s that.  But if you’re only using CSC Agora, it doesn’t cause any problems.</p>
+<p>BTW (and ignore the following if you’re just trying to figure out how to connect to CSC Agora), I personally don’t know of other Mattermost servers (generally each is for a particular org, not the whole public), except for the Mattermost support chat at <a href="https://community.mattermost.com/">https://community.mattermost.com/</a></p>
+<p>Also of note, their support forum is running Discourse. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:">  <a href="https://forum.mattermost.org/">https://forum.mattermost.org/</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/3</link>
+        <pubDate>Wed, 25 Nov 2020 18:00:07 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-428-3</guid>
+        <source url="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428.rss">Collective Sense Commons Agora (A Chat Service)</source>
+      </item>
+      <item>
+        <title>Collective Sense Commons Agora (A Chat Service)</title>
+        <dc:creator><![CDATA[saiiam]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="peterkaminski" data-post="1" data-topic="428">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/peterkaminski/40/3_2.png" class="avatar"> peterkaminski:</div>
+<blockquote>
+<p>Also consider installing dedicated mobile and desktop Mattermost clients, which you can use with CSC Agora and other Mattermost servers: <a href="https://mattermost.com/download/#mattermostApps" rel="nofollow noopener">https://mattermost.com/download/#mattermostApps</a></p>
+</blockquote>
+</aside>
+<p>Peter thanks for this effort. Not sure what this last comment means and as a non-techie would love to know a bit more about what is meant. Thanks!</p>
+          <p><a href="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/2</link>
+        <pubDate>Tue, 24 Nov 2020 14:35:21 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-428-2</guid>
+        <source url="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428.rss">Collective Sense Commons Agora (A Chat Service)</source>
+      </item>
+      <item>
+        <title>Collective Sense Commons Agora (A Chat Service)</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>You may have heard me talking about the <strong>Collective Sense Commons</strong> (CSC) in the past month or so.  Or perhaps not.</p>
+<p>Collective Sense Commons is an expression of my belief that there should be an information and communications commons for persons and organizations who are working on collective sensemaking.</p>
+<p>It starts now with a chat service, running Mattermost software.  Mattermost is very similar to Slack.  Chat services like Mattermost or Slack are good for in-the-moment conversations, and for conversations that run from minutes to hours to days.  They are a little more quick and nimble than a forum (such as OGM Forum), which is why you might use a chat service instead of a forum.</p>
+<p>On the flip side, chat services are harder to use for conversations that run from days to weeks to months, which is why you might use a forum instead of chat.  Or, maybe you just prefer one over the other, or hanging out with the folks who happen to use one or the other.</p>
+<p>CSC is currently an ad hoc organization, similar to the way OGM is an ad hoc organization, although it’s much smaller right now, just me and a few advisors.</p>
+<p>My general idea is that CSC is a member of OGM, and that OGM will hopefully be a member of CSC, together with many other individuals and organizations, in a big federation.</p>
+<p>That’s a little ways down the road.  For today, I’d like to announce that CSC Agora is ready for Early Adopters or the very curious.  It is a nice, fresh install of Mattermost, currently with just two starter channels, “Town Square” (like <span class="hashtag">#general</span>, for Slack folks) and “Off-Topic” (like <span class="hashtag">#random</span>).  I expect soon we’ll have a couple of OGM channels, a couple of CICOLAB channels, and who knows, maybe a few others, based around other orgs, or other areas of interest, we’ll see.</p>
+<p>In the coming weeks, I’ll also be setting up a CSC wiki, running MediaWiki.  But that’s for later; for now, if you’re a little adventurous, feel free to come check out CSC Agora!</p>
+<p>Go here to sign up:</p>
+<blockquote>
+<p>CSC Agora<br>
+<a href="https://chat.collectivesensecommons.org/">https://chat.collectivesensecommons.org/</a></p>
+</blockquote>
+<p>Also consider installing dedicated mobile and desktop Mattermost clients, which you can use with CSC Agora and other Mattermost servers: <a href="https://mattermost.com/download/#mattermostApps">https://mattermost.com/download/#mattermostApps</a></p>
+<p>Thank you!</p>
+          <p><a href="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428/1</link>
+        <pubDate>Mon, 23 Nov 2020 07:24:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-428-1</guid>
+        <source url="https://forum.openglobalmind.com/t/collective-sense-commons-agora-a-chat-service/428.rss">Collective Sense Commons Agora (A Chat Service)</source>
+      </item>
+  </channel>
+</rss>

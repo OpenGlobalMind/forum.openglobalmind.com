@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Bring Systems Thinking To The Masses</title>
+    <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96</link>
+    <description>
+The world&#39;s problems are getting bigger all the time.   Systems Thinking is for addressing complex problems.   Yet Systems Thinking remains in the &quot;backwaters&quot;.  Big reason why:  Folks have an incomplete and disjointed understanding of what Systems Thinking is.   Solution:  Create a &quot;Just Barely Complex Enough&quot; model of a hypothetical organization system, and use it to, for the first time, tie together the concepts associated with  DSRP (Distinctions, Systems, Relationships, and Perspectives), systems dynamics, the VMS (Viable Systems Model), etc.</description>
+    
+    <lastBuildDate>Thu, 13 Aug 2020 06:21:48 +0000</lastBuildDate>
+    <category>Action! Doing Things Now</category>
+    <atom:link href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony, the problem is “Opinions vary!” especially since everyone seems to have more than one.</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/43">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/43</link>
+        <pubDate>Thu, 13 Aug 2020 06:21:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-43</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Below is from a recent Facebook posting of mine.  It is another example of the need to bring systems thinking to the masses as few envision what leveled stories (i.e., activities) are about.</p>
+<p>LEVELS OF STORIES UNDERLIE CAUSAL LOOP DIAGRAMS</p>
+<p>I recently presented (see above) an example Data Flow Diagram to illustrate how stories as uniquely told by DFDs’ underlie causalities (ref. Causal Loop Diagram). The example DFD has four internal activities (i.e., story parts) on it and it spawns a single feedback loop.</p>
+<p>I was told (outside of OGM)  that my example was too trivial to represent a real world situation. Not so; the diagram is very relevant. A Data Flow Diagram is supposed to have only from four to seven activities on it. And, typically four to seven activities will spawn 0 to maybe 2 feedback loops (my experience).</p>
+<p>The principle is that larger than 4 to 7 activities per diagram makes walk throughs for verification difficult. And complex systems require many iterations of verification.</p>
+<p>What needs to be understood is that DFD’s for complex systems are a leveled set. A high level DFD will have four to seven activities. Then, each one of those activities can have a diagram showing four to seven sub-activities. Then, each one of those sub-activities can have four to seven sub-sub activities. And on and on. Complex systems begin at five levels.</p>
+<p>Doing the math, it don’t take long to generate many hundreds of activities across a leveled set of lets say fifty integrated diagrams. And therefore, looking across the set, we will have many feedbadk loops.</p>
+<p>We don’t see all the feedback loops in one big-hunker diagram - but we are not supposed to… We can not hope to validate big-hunker diagrams.</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/42</link>
+        <pubDate>Wed, 12 Aug 2020 13:33:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-42</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p><strong>Underlying Every Causal Loop Diagram There Is A Story</strong></p>
+<p>Below is an example of what I mean by bringing Systems Thinking to the masses.  It is a couple of simple graphics about how to do problem identification in systems.   My research of  Systems Thinking  literature indicates that problem identification, to date, has not been adequately discussed.</p>
+<p>Tying it all together with easy to understand pictures is key to communicating to the masses.</p>
+<p>Look at the first attached diagram: a  Causal Loop Diagram (CLD).   Next, look at the second attached  Data Flow Diagram (DFD).  The DFD presents the underlying story behind the CLD (i.e., the story of Carol’s Candy Company).  We first create the DFD, which helps us to initially conceptualize the loop (see the red lines in the DFD).  Then we detail the loop via the CLD.</p>
+<p>The loop highlights what may be a problem:  An unrelenting push to increase the volume of candy made.  This may be problematic as Carol, the sole person making candy, may not want to expand operations beyond her capacity to handle such.</p>
+<p>To "get the ball rolling on bringing systems thinking to the masses, I ask for constructive feedback on the effectiveness of the graphics.   I have other graphics based “chunks” of instruction to present for comments if there is enough interest.   And any other graphics based  explanation of systems thinking principles/concepts that move beyond just CLDs (and Stock &amp; Flow diagrams) is solicited.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/5473d62a7ad1acfa64977da3e9b406a590a73ebe.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/5473d62a7ad1acfa64977da3e9b406a590a73ebe" title="Slide 2"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/5473d62a7ad1acfa64977da3e9b406a590a73ebe_2_690x388.jpeg" alt="Slide 2" data-base62-sha1="c36hKnhZ8abHJwhjxQJKlVgGOpo" width="690" height="388" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/5473d62a7ad1acfa64977da3e9b406a590a73ebe_2_690x388.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/5473d62a7ad1acfa64977da3e9b406a590a73ebe_2_1035x582.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/5473d62a7ad1acfa64977da3e9b406a590a73ebe.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/5473d62a7ad1acfa64977da3e9b406a590a73ebe_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Slide 2</span><span class="informations">1280×720 35.4 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div> <div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/0466382bb61d35be279bb87ef62b84128d6f2049.jpeg" data-download-href="https://forum.openglobalmind.com/uploads/default/0466382bb61d35be279bb87ef62b84128d6f2049" title="Slide 1"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/0466382bb61d35be279bb87ef62b84128d6f2049_2_690x388.jpeg" alt="Slide 1" data-base62-sha1="CUUFjgUlIJDEKLAMzZH2rneOg1" width="690" height="388" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/0466382bb61d35be279bb87ef62b84128d6f2049_2_690x388.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/0466382bb61d35be279bb87ef62b84128d6f2049_2_1035x582.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/0466382bb61d35be279bb87ef62b84128d6f2049.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/0466382bb61d35be279bb87ef62b84128d6f2049_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Slide 1</span><span class="informations">1280×720 96.5 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/41</link>
+        <pubDate>Mon, 10 Aug 2020 16:50:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-41</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:     Yes, but maybe call it something else.   In the software development world there are User Stories which, I think, applies to both  “as is” and “to be” situations.</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/40</link>
+        <pubDate>Sun, 09 Aug 2020 16:33:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-40</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony, could it also be a story about an implied futrue?</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/39</link>
+        <pubDate>Sun, 09 Aug 2020 16:09:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-39</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[thor]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony, sorry,  I was mainly referring to past work and discussions  on FB and LI systems groups, my Abbeboulah blog,  But I have posted comments here calling for a better discourse organization, and referenced my items on planning discourse support systems on Academia.edu. Not sure where,  Still getting lost on what’s going on where here…</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/38</link>
+        <pubDate>Sun, 09 Aug 2020 15:05:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-38</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>What is your definition of a story?    Mine is an account of past events giving, as needed, the Who, What, When, Where, How, and Why.</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/37</link>
+        <pubDate>Sun, 09 Aug 2020 14:49:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-37</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Thor:  I am not familiar with discussions on “planning propsals”.  Maybe that is on another thread?</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/36</link>
+        <pubDate>Sun, 09 Aug 2020 14:46:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-36</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Small models are key to verification.   We  not hope to have  bring big-hunker models validated.     The key question is how do we breakdown complex systems into small models.   I have research this question extensively and believe that only one way has been uncovered:  Decomposition of in-scope activities</p>
+<p>Example:  CLDs  do not support breakdown because we can breakdown their interrelationships</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/35</link>
+        <pubDate>Sun, 09 Aug 2020 14:44:02 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-35</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[thor]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony:  I have tried to connect the typical  systems model diagrams/maps  with the discussion e.g. about planning proposals. The ‘maps’ I have in most of my writing are mostly ‘topic’ or ‘issue maps’, in some cases even ‘argument maps’ and procedural flow charts .  The topic or issue maps are simply trying to provide discourse participants with some overview of the discourse.  The map elements are topics or issues, the relationships are basically whether the discussion of an issue A has given rise  to another issue B (e.g by  a premise of an argument about A being challenged or expanded upon).   Making such a map is done by some person looking at the discourse, identifying issues / topics and then adding them to the map. Cumbersome, as well as prone to personal biased understanding – it’s something that should be done either collectively (e.g. by a small team messing around on a large wall map with stickers or markers) or automatically (which will be needed for any online project exceeding a small team. Global? Forget stickers.</p>
+<p>I have tried making such a map of the discussion here so far, and gave up – it seemed all over the place. Maybe I’ll try again for a more specific partial issue.  The next, even more difficult part (that I’m interested in) is constructing the contribution assessment worksheets  with similar overview maps – showing both emerging ‘consensus’ and areas of remaining differences of opinion that need more research, data,  discussion, modeling.  Does that make more sense than the crude quote?  Aside from that, of course I think that the ‘typical big-hunker maps’ are not very conducive to meaningful discourse nor inviting the ‘distributed’ information about how a problem affects different people out there…</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/34</link>
+        <pubDate>Fri, 07 Aug 2020 22:11:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-34</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>I have found what works best is unfolding the model, or parts of it as a story so people can connect with the pattern rather than just being overwhelmed by the model. Usually we inflict our models on others and from their perspective it’s often like trying to eat an Elephant in one bite!</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/33</link>
+        <pubDate>Fri, 07 Aug 2020 03:14:58 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-33</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>[<br>
+Thor said:  he common problem is how to connect the maps with the discourse, ,</p>
+<p>Is this saying that the typical big-hunker maps are so complex that they defy discussion?</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/32</link>
+        <pubDate>Fri, 07 Aug 2020 01:42:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-32</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>Will do on that.</p>
+<p>Tony</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/31</link>
+        <pubDate>Wed, 05 Aug 2020 11:25:40 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-31</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony… Let me know how you make out with that! I hope you break the code.</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/30</link>
+        <pubDate>Tue, 04 Aug 2020 20:06:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-30</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>The state of current affairs where Systems Thinking remains in the “backwateers” because all the incomplete and disjointed  understanding is hopelessness.   A lot can be done via simple diagrams.</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/29</link>
+        <pubDate>Tue, 04 Aug 2020 19:52:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-29</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Thor,</p>
+<p>The Rural Community Food System is essentially served the initial intent so we’re no longer working on it.</p>
+<p>As for having difficulty with Kumu I share your pain as I got to the same problem so I developed the following template just to survive myself. Take a look at the video in the model… It’s not very long. <a href="https://kumu.io/-/104856" rel="nofollow noopener">https://kumu.io/-/104856</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/28</link>
+        <pubDate>Tue, 04 Aug 2020 18:46:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-28</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[thor]]></dc:creator>
+        <description><![CDATA[
+            <p>Thanks, Gene. Yes, it’s been a while. I have been busy trying to clarify the role of evaluation (judgments) in the planning discourse – most of that is on my <a href="http://Abbeboulah.com" rel="nofollow noopener">Abbeboulah.com</a> blog. The diagrams are CMap ‘issue maps’ – last time I tried to work in Kumu, that was difficult to do, and I was getting frustrated putting Kumu maps into my old-fashioned papers. Yes,  I remember AVC and still refer to some of those comments in the work on PDSS.  I see there are some interesting changes, and will try to go back to exploring Kumu again. Perhaps in the long overdue project of the Power problem?   The Rural Community Food project looks good – get Klaus Mager to use it more effectively in his campaign! I don’t know enough about it to be of much use participating in it, though one of my 'multi-purpose project examples relates to agriculture. I agree we need to keep pushing the AND? - next steps to demonstrating the proof of the ST pudding  with some actual results.<br>
+Best,  in admiration of your work<br>
+Thor</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/27</link>
+        <pubDate>Tue, 04 Aug 2020 18:29:46 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-27</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[thor]]></dc:creator>
+        <description><![CDATA[
+            <p><em>Tony Markatos: Thanks. I agree, and I think Gene’s Kumu maps (and other similar efforts; I have been using CMaps for my Issue Maps out of habit) ) are doing just that. The common problem is how to connect the maps with the discourse, Kumu and Debategraph are trying, so far it always need some human mapmaker but should be automatic. You are right in calling for ‘just barely complex enough’.</em></p>
+<p><em>I would state the effort a little differently than the product promotion it sounds like now, ‘bringing Systems Thinking to the masses’ as a marketing effort for ST. Would ‘the proof of the pudding’ lie more effectively in showing how ST can help people (I’m not comfortless with ‘the masses’) get to agreements about confronting big problems? In the planning discourse I am struggling with, I see the role and value of ST thus far mainly in providing input to some of the questions arising in the planning discourse, or rather to some types of questions about planning discourse premises: In the typical ‘pro’ (or ‘con’) argument about a plan proposal</em></p>
+<p><em>"Plan A ought to be adopted, because</em></p>
+<p><em>1) Plan A will lead to effect B, given conditions C,</em></p>
+<p><em>and</em></p>
+<p><em>2) Effect B ought to be pursued (desirable)</em></p>
+<p><em>and</em></p>
+<p><em>3) Conditions C are (or will be) present."</em></p>
+<p><em>the concerns about the premises are usually about the ‘truth’, probability or (I prefer) plausibility of the claims, but also about</em></p>
+<p><em>explanations: What are A, B, C, what is meant by ‘lead to’ (or any similar relationship claim in such arguments). Meaning, Definition, description?</em></p>
+<p><em>A prime concern of ST is of course the relationship of premise 1, (causes etc.) but also premise 3, which, when fully explored and understood, Is the entire ‘system’ into which Plan A will intervene. The first part of this is the 'understanding of the ‘existing’ problem situation, the second part (based on the validity or plausibility of all the relationship claims of premises type 1) is aimed at the prediction of the system change upon plans such as A. This kind of ‘understanding’, conveyed in maps of the ‘models’ is the supremely important contribution of ST (in my imperfect understanding).</em></p>
+<p><em>So far, the unfortunate misunderstanding created by many ST models, created by their apparent complexity created by the systems expert is that the model exudes not only a claim of authoritative validity that obviates and even resists further argumentation – but it’s just the modeler’s model – and the impression that the ‘solution’ to the problem somehow emerges from the model. That is, in short – it tends to ignore the controversy, the differences of opinion about what specific performance measures ‘ought’ to guide the decisions or agreements. ‘Guide’ – aka ‘facilitate’ – the team effort towards a semblance of consensus. Here, the ST community mostly (and plausibly) talks from its currently predominant perspective of consulting service to paying clients. There are ‘teams’ – selected for expertise, perhaps creativity, but of course commitment to the survival and profit of the organization (let’s not ignore the fact that they are mostly employed by either the client entity or the consulting firm). And ‘facilitators’ trying keep the effort within time and budget constraints but naturally compelled to declare the outcome a success – by virtue of being generated by ST. Potential sources of bias, perhaps? I know, it’s not a fair suspicion to cast on the many admirable efforts we do see. But. Or as Gene says: AND?</em></p>
+<p><em>So I’m having trouble getting the ST community interested in the controversial aspects of more public planning issues, differences of opinions, especially about the type 2 premises of the pros and cons, and how ‘conclusions’ of the discourse will emerge from the different judgments about all the arguments, by all the different parties concerned about and affected by the project. Of course I would say that what I’m doing in trying to conceive of a better planning discourse, its platform, and associated process and decision modes is a kind of systems work. But there are many approaches, perspectives, principles to the design or planning for the big change issues that are starting from very different points of view than ST. And they claim to be taken seriously as well.</em></p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/26</link>
+        <pubDate>Tue, 04 Aug 2020 17:56:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-26</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony, that’s the problem with the exercise, it’s hopeless which is why I distilled them all down into simply repeatedly asking And?</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/25</link>
+        <pubDate>Tue, 04 Aug 2020 13:07:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-25</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene:</p>
+<p>Not sure what you mean by “And?”  Typo?   You had asked what I felt systems thinking concepts are and I listed you some, with the caveat that trying to create a list of such is a hopeless exercise (gotta use integrated pictures).</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/24</link>
+        <pubDate>Tue, 04 Aug 2020 12:26:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-24</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Thor:</p>
+<p>My idea on how to bring Systems Thinking to the masses:   Through the use of “just barely complex enough” yet integrated graphical models of a very simple hypothetical business case.   This approach  is decidedly different than all of the books on Systems Thinking that I have reviewed that  try to teach a non-linear topic (i.e., Systems Thinking concepts) through use of a decidedly linear technique (i.e., written text),  or which, if they use graphics, employ non-integrated graphics</p>
+<p>I previously created such a model (currently being expanded to be of wider scope) ,  illustrating many key concepts, walked through it with about half a dozen folks, most with only a high school level of education, and  was surprised at just how easily they could obtain an integrated understanding.   T</p>
+<p>In today’s world of increasingly complex problems, helping to bring systems thinking to the masses would be a big deal!</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/23</link>
+        <pubDate>Tue, 04 Aug 2020 12:17:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-23</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Thor,</p>
+<p>Well put dear sir! It’s been a while. And following the guide of Nike, “Just Do It!” would seem to be the best way to figure out what one needs rather than just jawboning the topic to death.</p>
+<p>To date I’ve conducted one real experiment in Asynchronous Virtual Collaboration (AVC), maybe you remember starting down that road once before. There were a number of people who wanted to better understand the relationships associated with a Rural Community Food System, and collective over a few months the following was created… <a href="https://kumu.io/-/134013" rel="nofollow noopener">https://kumu.io/-/134013</a> Don’t be horrified when you look at it as it wasn’t intended to make sense to any other than those involved in the development.</p>
+<p>Based on that experiment I’ve been trying to document the learning at <a href="https://kumu.io/-/222677" rel="nofollow noopener">https://kumu.io/-/222677</a> though I keep getting distracted by other things at present. Mostly by <a href="https://roamresearch.com/" rel="nofollow noopener">https://roamresearch.com/</a></p>
+<p>stay safe,<br>
+gene</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/22</link>
+        <pubDate>Tue, 04 Aug 2020 01:35:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-22</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[thor]]></dc:creator>
+        <description><![CDATA[
+            <p><em>The OMG ‘project’, in my perhaps wishful-thinking-biased perception, starts from a sense of: there are big (global) problems, and not a lot of global agreement about how to deal with them, but the urgent sense that ‘something needs to be done’. Of the various positions we see, in starting the discussion, one is that it will ‘take an open global mind’ and another main ones that ‘systems thinking’ will be needed to provide the answers. They invariably generate fundamental questions / issues like ‘How to achieve open minds?’ and "How to bring Systems Thinking to the Masses?</em></p>
+<p><em>I can’t disagree with either of these issues, of course. But what if they are themselves part of the sets of the positions humanity doesn’t seem to be able to agree upon? (In part because e.g. the Systems Thinkers themselves disagree on what Systems Thinking is and even on the definition of ‘system’ …) And thus inadvertently closing some ‘other’ doors rather than opening them, besides getting lost in the definitions issues?</em></p>
+<p><em>So besides repeating my standard Ceterum censeo that we first end to construct a better platform for that discourse, I suggest that it might be useful to just start looking at one or two of the big problems that call for better responses, and try to articulate ‘what might be done’ ideas for discussion (from the systems thinking but all the other perspectives as well!) – to see what we get and what answers can be globally agreed upon?</em></p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/21</link>
+        <pubDate>Mon, 03 Aug 2020 22:28:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-21</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[systemswiki]]></dc:creator>
+        <description><![CDATA[
+            <p>Tony, essentially through no inharmounious action nothing will be left undone!</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/20</link>
+        <pubDate>Mon, 03 Aug 2020 18:43:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-20</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+      <item>
+        <title>Bring Systems Thinking To The Masses</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Gene said:  Your next to the last paragraph seems to embody the Taoist practice of Non-Ado or Wu Wei in Confucianism.</p>
+<p>Don’t know about those, I am Roman Catholic</p>
+          <p><a href="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96/19</link>
+        <pubDate>Mon, 03 Aug 2020 18:31:06 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-96-19</guid>
+        <source url="https://forum.openglobalmind.com/t/bring-systems-thinking-to-the-masses/96.rss">Bring Systems Thinking To The Masses</source>
+      </item>
+  </channel>
+</rss>

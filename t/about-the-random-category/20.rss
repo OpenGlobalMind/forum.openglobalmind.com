@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the #random category</title>
+    <link>https://forum.openglobalmind.com/t/about-the-random-category/20</link>
+    <description>This is the place for play. In the rest of this forum, we&#39;ll try to keep things on topic, etc. Here there&#39;s a bit of moratorium.</description>
+    
+    <lastBuildDate>Thu, 30 Jul 2020 06:01:44 +0000</lastBuildDate>
+    <category>#random</category>
+    <atom:link href="https://forum.openglobalmind.com/t/about-the-random-category/20.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the #random category</title>
+        <dc:creator><![CDATA[Jerry]]></dc:creator>
+        <description><![CDATA[
+            <p>This is the place for play. In the rest of this forum, we’ll try to keep things on topic, etc. Here there’s a bit of moratorium.</p>
+          <p><a href="https://forum.openglobalmind.com/t/about-the-random-category/20/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/about-the-random-category/20/1</link>
+        <pubDate>Thu, 30 Jul 2020 05:50:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-20-1</guid>
+        <source url="https://forum.openglobalmind.com/t/about-the-random-category/20.rss">About the #random category</source>
+      </item>
+  </channel>
+</rss>

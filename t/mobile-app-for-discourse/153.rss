@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Mobile app for Discourse</title>
+    <link>https://forum.openglobalmind.com/t/mobile-app-for-discourse/153</link>
+    <description>There is a Discourse mobile app called DiscourseHub. I don’t know about android.</description>
+    
+    <lastBuildDate>Fri, 28 Aug 2020 17:18:01 +0000</lastBuildDate>
+    <category>Site Feedback</category>
+    <atom:link href="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Mobile app for Discourse</title>
+        <dc:creator><![CDATA[robert.best]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey <a class="mention" href="/u/robok">@RobOK</a> and <a class="mention" href="/u/jerry">@Jerry</a>. Catching up a little late on this thread…</p>
+<p>What I am about to say applies to Android, but not sure if it works as smooth on iOS. (and I have no way of testing)</p>
+<p>So, Discourse works well as a <a href="https://en.wikipedia.org/wiki/Progressive_web_application">progressive web app</a>, and what that means in this case is that if you visit this site in your mobile browser (if that browser supports the required set of new standards), then the web app can be made to work as if it was an app that you installed.</p>
+<p>For me how this worked was that when I visited <a href="https://forum.openglobalmind.com/">https://forum.openglobalmind.com/</a> for the first time, I was asked in a pop up if I wanted to add it “as an app”/“to my desktop”, I forget the exact wording, and also if I wanted to enable notifications.</p>
+<p>Now the OGM forum shows up in my app drawer, and opens in its own window when I open it, instead of just in a tab in my browser. (The icon that you choose while configuring the forum is what is used for the app icon, the one here is still default, but you can see what I mean in my screenshot below where I show the OGM forum in my app drawer, but also the discourse forum for <a href="http://discuss.openlearning.cc">http://discuss.openlearning.cc</a></p>
+<p><img src="https://forum.openglobalmind.com/uploads/default/original/1X/d654dfcc6d6f98c91d99cd55d2e2c72305fe9468.png" alt="image" data-base62-sha1="uA41i6veEtvMgUTYhJYu80gmYha" width="286" height="220"></p>
+          <p><a href="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/6</link>
+        <pubDate>Fri, 28 Aug 2020 15:19:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-153-6</guid>
+        <source url="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153.rss">Mobile app for Discourse</source>
+      </item>
+      <item>
+        <title>Mobile app for Discourse</title>
+        <dc:creator><![CDATA[RobOK]]></dc:creator>
+        <description><![CDATA[
+            <p>There is a plus sign to add but looks like it requires a paid account.</p>
+<p>Discourse Hub seems fine, the negative reviews are because it is simply a web pass through.</p>
+          <p><a href="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/5</link>
+        <pubDate>Sat, 15 Aug 2020 01:11:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-153-5</guid>
+        <source url="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153.rss">Mobile app for Discourse</source>
+      </item>
+      <item>
+        <title>Mobile app for Discourse</title>
+        <dc:creator><![CDATA[Jerry]]></dc:creator>
+        <description><![CDATA[
+            <p>There’s a different iOS app called Fig for Discourse, which I’ve loaded and can’t figure out how to connect here.</p>
+<p>But its reviews are far better than the Discourse Hub app <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/4</link>
+        <pubDate>Sat, 15 Aug 2020 01:05:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-153-4</guid>
+        <source url="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153.rss">Mobile app for Discourse</source>
+      </item>
+      <item>
+        <title>Mobile app for Discourse</title>
+        <dc:creator><![CDATA[RobOK]]></dc:creator>
+        <description><![CDATA[
+            <p>I use it periodically on iPhone, it seems pretty good. I didn’t check the reviews to see what their issues were.</p>
+<p>If you go to multiple Discourse sites it gets more handy I think.</p>
+          <p><a href="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/3</link>
+        <pubDate>Tue, 11 Aug 2020 12:53:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-153-3</guid>
+        <source url="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153.rss">Mobile app for Discourse</source>
+      </item>
+      <item>
+        <title>Mobile app for Discourse</title>
+        <dc:creator><![CDATA[Jerry]]></dc:creator>
+        <description><![CDATA[
+            <p>Rob, I saw it and didn’t know whether it was legit or not, or how good. The reviews were mixed. Did you try it?</p>
+          <p><a href="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/2</link>
+        <pubDate>Tue, 11 Aug 2020 05:44:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-153-2</guid>
+        <source url="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153.rss">Mobile app for Discourse</source>
+      </item>
+      <item>
+        <title>Mobile app for Discourse</title>
+        <dc:creator><![CDATA[RobOK]]></dc:creator>
+        <description><![CDATA[
+            <p>There is a Discourse mobile app called DiscourseHub. I don’t know about android.</p>
+          <p><a href="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/mobile-app-for-discourse/153/1</link>
+        <pubDate>Mon, 10 Aug 2020 01:41:31 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-153-1</guid>
+        <source url="https://forum.openglobalmind.com/t/mobile-app-for-discourse/153.rss">Mobile app for Discourse</source>
+      </item>
+  </channel>
+</rss>

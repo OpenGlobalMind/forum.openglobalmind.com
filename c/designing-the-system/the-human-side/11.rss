@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>The Human Side - Open Global Mind Forum</title>
+    <link>https://forum.openglobalmind.com/c/designing-the-system/the-human-side/11</link>
+    <description>Topics in the &#39;The Human Side&#39; category Even though OGM is obsessed with tools for visualization, storytelling and more, it operates under the assumption that &lt;a href=&quot;https://bra.in/2vPB9q&quot;&gt;emotion and membership trump reason most of the time&lt;/a&gt;.</description>
+    
+      <lastBuildDate>Sat, 05 Dec 2020 12:46:29 +0000</lastBuildDate>
+      <atom:link href="https://forum.openglobalmind.com/c/designing-the-system/the-human-side/11.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Trust, its dimensions, types, and scaling</title>
+          <dc:creator><![CDATA[Technoshaman]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p><a class="mention" href="/u/gyuri">@Gyuri</a> <a href="https://forum.openglobalmind.com/t/ogm-as-an-innovation-architecture-ecosystem/316/7">posted</a> an informative and thought-full comment about trust, a subject that I thought deserves its own topic. So, I’m responding here.</p>
+<p>Trust is not a binary concept; it has many types, dimensions, criteria, which sociologists studied for decades. A friend of mine has even written her PhD  dissertation about the subject. I have dozens of files in my research library about the same, which I will make public once my personal digigarden goes public.</p>
+<p>Meanwhile, my take on the “scaling of trust” problem/opportunity is that one-to-one trust can scale, to some extent, in the form of <a href="https://en.wikipedia.org/wiki/Swift_trust_theory" rel="nofollow noopener">swift trust</a> and “transferred trust”, e.g.: A trust B. C trusts A. When A introduces C to B, there’s some chance that C will also trusts B.</p>
+<p>But scaling one-to-multitudes is an issue of different type of transfer that, in best case happens one to community, then community to community. Note easily “scriptable…”</p>
+            <p><small>9 posts - 7 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/trust-its-dimensions-types-and-scaling/465">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/trust-its-dimensions-types-and-scaling/465</link>
+          <pubDate>Sat, 05 Dec 2020 12:46:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-465</guid>
+          <source url="https://forum.openglobalmind.com/t/trust-its-dimensions-types-and-scaling/465.rss">Trust, its dimensions, types, and scaling</source>
+        </item>
+        <item>
+          <title>Peeragogy: master copy, and formatting Org vs Markdown</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p>Continuing the discussion from <a href="https://forum.openglobalmind.com/t/peeragogy-dev-december-2020/455/2">Peeragogy dev (December 2020)</a>:</p>
+<aside class="quote no-group" data-username="skreutzer" data-post="2" data-topic="455">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"><a href="https://forum.openglobalmind.com/t/peeragogy-dev-december-2020/455/2">Peeragogy dev (December 2020)</a>
+</div>
+<blockquote>
+<p>Which repository? The one of the Peeragogy Handbook v3/v4? If so, what would be point of the migration be? Isn’t the master copy in Markdown, with the reationale/reasoning that GitHub/HackMD has rendering for it as a default? Is that also the case for Org-format?</p>
+</blockquote>
+</aside>
+<p>So, this is the master copy: <a href="https://github.com/Peeragogy/Peeragogy.github.io" rel="nofollow noopener">https://github.com/Peeragogy/Peeragogy.github.io</a> (v3)</p>
+<p>This is the experimental Org Mode setup that will replace it: <a href="https://github.com/PeeragogyLabs/PeeragogyORG" rel="nofollow noopener">https://github.com/PeeragogyLabs/PeeragogyORG</a></p>
+<p>Yes, Github renders Org, e.g., <a href="https://github.com/PeeragogyLabs/PeeragogyORG/blob/main/coworking.org" rel="nofollow noopener">https://github.com/PeeragogyLabs/PeeragogyORG/blob/main/coworking.org</a></p>
+<p>But the plan is to move to Firn for rendering, e.g., <a href="https://peeragogylabs.github.io/PeeragogyORG/coworking" rel="nofollow noopener">https://peeragogylabs.github.io/PeeragogyORG/coworking</a></p>
+<p>Firn can be set up as a one-for-one replacement of Github Pages/Jekyll, but I’d actually like to go one step further and remove the dependency on Github entirely, moving hosting to a free software solution.</p>
+<aside class="quote no-group" data-username="skreutzer" data-post="2" data-topic="455">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"><a href="https://forum.openglobalmind.com/t/peeragogy-dev-december-2020/455/2">Peeragogy dev (December 2020)</a>
+</div>
+<blockquote>
+<p>At the same time, aren’t both Markdown and Org-format (and Wikitext and many others) without support for semantic bootstrappping, so what would be the point of switching, one arbitrary primitive syntax vs. another?</p>
+</blockquote>
+</aside>
+<p>So, in Org it’s possible to define custom blocks: <a href="https://alhassy.github.io/org-special-block-extras/" rel="nofollow noopener">https://alhassy.github.io/org-special-block-extras/</a></p>
+<p>This means for example if we want to use the Tufte margin, we could add</p>
+<pre><code>#+BEGIN_SIDENOTE
+This is a "mini-Handbook" introducing Org mode:
+https://orgmode.org/quickstart.html
+#+END_SIDENOTE
+</code></pre>
+<p>and that will then be formatted (subject to writing the correct instructions) correctly in both HTML and PDF downstream formats.  It would be possible to hack this sort of thing into Markdown, I’d say, but it’s well supported in Org.  More <a href="https://orgmode.org/manual/Structure-of-Code-Blocks.html" rel="nofollow noopener">semantics can be added</a> as well.</p>
+<p>(I’m glossing over the fact that Firn and Org Mode itself have separate rendering strategies; this will all be sorted out eventually!)</p>
+            <p><small>4 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/peeragogy-master-copy-and-formatting-org-vs-markdown/456">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/peeragogy-master-copy-and-formatting-org-vs-markdown/456</link>
+          <pubDate>Thu, 03 Dec 2020 13:09:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-456</guid>
+          <source url="https://forum.openglobalmind.com/t/peeragogy-master-copy-and-formatting-org-vs-markdown/456.rss">Peeragogy: master copy, and formatting Org vs Markdown</source>
+        </item>
+        <item>
+          <title>Peeragogy dev (December 2020)</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p>Continuing the discussion from <a href="https://forum.openglobalmind.com/t/forming-a-moderation-team/399/6">Forming a Moderation Team</a> + <a href="https://forum.openglobalmind.com/t/improvements-to-openglobalmind-com/449/5">Improvements to OpenGlobalMind.com</a>:</p>
+<p>(Splicing my follow-up: that’s a fun move.)</p>
+<p><a class="mention" href="/u/lovolution">@lovolution</a> and <a class="mention" href="/u/skreutzer">@skreutzer</a> had mentioned that CSC is online now!  I think I’ll hold off signing up until the end of December. I can come for a visit in the new year!  Hopefully I can announce completion of these Peeragogy migration tasks, preparatory to building version 4 of the Handbook.</p>
+<ul>
+<li>(1—DONE) Google Groups → Oregon State University Open Source Lab (OSU OSL)-hosted  <strong>GNU Mailman</strong>  list (opt-in: <a href="https://lists.peeragogy.org/mailman/listinfo/peeragogy-handbook" rel="nofollow noopener">here</a>).</li>
+<li>(2) Master copy → Migrate to Org format as in  <strong>PeeragogyORG</strong>  repository.</li>
+<li>(3) <code>peeragogy.org</code> → Migrate to  <strong>Firn</strong>  and to new hosting provided by OSU OSL.</li>
+<li>(4) Editing → Prefer  <strong>Logseq</strong>  and  <strong>Org Roam</strong>  in Emacs (these should be interoperable, some setup required).</li>
+<li>(5) LaTeX/PDF → Migrate to  <strong>Tufte</strong>  style.</li>
+<li>(6) Google Chat → Close down in preference to  <strong>Zulip</strong>  so that all discussions are in one place and properly archived.</li>
+</ul>
+<p>Once that’s ready I’d likely have energy to do some work on the OGM website; though, maybe what’s really wanted is someone with front-end and design skills.  At the level of network plumbing, we could look into networking the Peeragogy Zulip together with the CSC Agora, and others, into another location, via Matterbridge, to create a shared feed of key announcements (should that be useful).  Maybe this could create a nice feed to put on OGM for example.  I know that <a class="mention" href="/u/robert.best">@robert.best</a> has worked with Matterbridge before.</p>
+<p>Regarding the tech stack outlined above and the Peeragogy Handbook <strong>v4</strong>:</p>
+<ol>
+<li>The changes outlined will mean we have a fully free software setup, which is something I’ve been wanting for a while.</li>
+<li>When people are up to speed, it should also help to remove me as a bottleneck for the project, which is another major longstanding and un-dealt-with objective.</li>
+<li>We also have major plans for content updates (not covered above).</li>
+</ol>
+<p>If people are willing to look ahead to <strong>v5</strong> of the Handbook, I have in mind a more ambitious data-modelling approach that can make sense of lots of snippets from disparate sources.  I’m currently thinking to build it using <a href="https://github.com/juxt/crux" rel="nofollow noopener">Crux</a>, having learned from another project Kosa that I was trying to help as a volunteer (but didn’t get very far because I got overwhelmed with other things). It might be interesting with regard to the knowledge management tasks that OGM will have on the horizon. E.g., perhaps a successor or add-on to the Semantic MediaWiki.</p>
+<p><strong>tl;dr</strong>: I foresee solidifying a lot of tech related to Clojure in the next year or two, and I’d love it if others happen to get interested in some of this as time goes by.  But, for now, I think we still need to work a lot more on the overall system design.  I filed this under “The Human Side” because I’d appreciate dialogue about the design aspects (subject to overlapping interest!).</p>
+            <p><small>18 posts - 5 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/peeragogy-dev-december-2020/455">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/peeragogy-dev-december-2020/455</link>
+          <pubDate>Thu, 03 Dec 2020 10:57:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-455</guid>
+          <source url="https://forum.openglobalmind.com/t/peeragogy-dev-december-2020/455.rss">Peeragogy dev (December 2020)</source>
+        </item>
+        <item>
+          <title>Sustainability Model</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p>Continuing the discussion from <a href="https://forum.openglobalmind.com/t/ogm-workshop-group-1-output/413">OGM Workshop Group 1 output</a>:</p>
+<p>This is a place to discuss and revise:</p>
+<blockquote>
+<h1>
+<strong>8. Sustainability Model</strong> : <em>Develop collective wisdom</em>
+</h1>
+<p>CONTEXT: A voluntary collective that gets together for fun and that thinks it has something to offer to the outside world<br>
+IF: Volunteer participants don’t necessarily expect remuneration BUT their engagements begin to develop the potential to contribute financial value to some constituents<br>
+THEN: Develop a ‘steward ownership’ model that can build both inner and outer wealth…</p>
+<ul>
+<li>Needed to maintain sufficient cohesion to generate value of all kinds →</li>
+<li>as Measured by ongoing learning and unlearning →</li>
+<li>in the Process of debugging individual and joint activities →</li>
+</ul>
+<p><strong>tl;dr</strong>: <em>Paid &amp; pro bono work</em></p>
+</blockquote>
+            <p><small>3 posts - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/sustainability-model/421">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/sustainability-model/421</link>
+          <pubDate>Sun, 22 Nov 2020 12:24:30 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-421</guid>
+          <source url="https://forum.openglobalmind.com/t/sustainability-model/421.rss">Sustainability Model</source>
+        </item>
+        <item>
+          <title>Goodbye mailing list, hello forum</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p>I have just unsubscribed from the OGM mailing list pursuant to <a class="mention" href="/u/peterkaminski">@peterkaminski</a>’s message to prefer this forum for day-to-day communication instead.</p>
+<p>Now, I should highlight that I wonder whether it makes sense for this “Open” Global Mind forum to be password protected. That’s much less about the principle and more about a practical concern which is that the Emacs based newsreader Gnus should be able to <em>read</em> posts here, if there was no such login, but cannot, currently: <a href="https://github.com/dickmao/nndiscourse/issues/8" rel="nofollow noopener">https://github.com/dickmao/nndiscourse/issues/8</a>.</p>
+<p>Regarding the mailing list: frankly, I am not interested in listening to other people’s opinions — nor do I get much pleasure out of trying to convince anyone of mine!  I hope that if many people follow Pete’s advice and start posting here, the forum will (somehow) help to filter out the discussions about opinions (which I am not interested in) from the ones that support productive engagement: which I am interested in.</p>
+            <p><small>3 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382</link>
+          <pubDate>Wed, 18 Nov 2020 17:50:53 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-382</guid>
+          <source url="https://forum.openglobalmind.com/t/goodbye-mailing-list-hello-forum/382.rss">Goodbye mailing list, hello forum</source>
+        </item>
+        <item>
+          <title>Guilds? Which ones?</title>
+          <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p>If we had guilds, which guilds would we have?</p>
+<p>Jerry has mentioned:</p>
+<ul>
+<li>StoryWeavers</li>
+<li>MapWhisperers</li>
+</ul>
+<p>In the “<a href="https://forum.openglobalmind.com/t/working-group-around-builder-role-for-data-media-curation-tooling/41" class="inline-onebox">Working group around builder role for data/media curation tooling?</a>” thread, <a class="mention" href="/u/skreutzer">@skreutzer</a> and I started talking about:</p>
+<ul>
+<li>Software/Data</li>
+</ul>
+<p>What other guilds might there be?</p>
+            <p><small>15 posts - 6 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/guilds-which-ones/65">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/guilds-which-ones/65</link>
+          <pubDate>Thu, 30 Jul 2020 16:08:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-65</guid>
+          <source url="https://forum.openglobalmind.com/t/guilds-which-ones/65.rss">Guilds? Which ones?</source>
+        </item>
+        <item>
+          <title>Not about the future but about who we is here/now</title>
+          <dc:creator><![CDATA[michaeldobbie]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p>…indeed, seems to me the essential place from which to start such a venture…<br>
+who am i? …am i even being human? who are you? human? pilgrim? somethin else?..<br>
+what to trust here? otherwise so easily bust here…<br>
+so yeah…how might i best learn and grow here, by what means? in which streams?<br>
+how to find more of myself here, sumtin greater than the usual fare…?<br>
+what’s the common ground we buildin? the ground, da place from which we equally stand and then the edges we can agree to push?<br>
+…wicked problems here, being human, being true, within a society favoring rational technologies with little thought, space or incentive to discover and express along wandering paths of intuition and maybe wisdom?<br>
+all i have is dis little box here, sum letters to try nd communicate with y’all somewhere over there…<br>
+is what we doing just gonna end up polishing and makin more efficient some same ol linear ways of communicatin?<br>
+or we hopin to push out some edges of the box? to create a whole new experience (and satisfaction) in bein hooman?<br>
+to me this could happen beginning with the type of conversations we’re willing to have here…<br>
+so, what does dialogue, sense-making, discussion, communication mean to you? how does it satisfy or not? what makes you respond or ignore? what engages curiosity, opens the imagination and what just feels like more trauma (a bad dream) for you? what makes you even ask, motivates you to write…to engage with a bunch of strangers? what do you hope will happen if you do get involved? what’s the dream?<br>
+for my part, i do like the idea of collective dreams and dreaming…<br>
+can i ask what it seems to be or what it feels like for you? is it a sort of collective intelligence type thingy? or something else a bit more mysterious, maybe even mo betta? more compelling, powerful somehow?<br>
+this sort of stuff does makes me curious…<br>
+but we also have a social problem that we share, the bad dream (trauma) of ‘civilization’ standing in the way of getting close to a more powerful kind of CI…<br>
+Gabor Mate addresses this a bit here (bringing all this back to that ‘human’ question thing again…)   <a href="https://www.youtube.com/watch?v=70HNmSsJvVU&amp;feature=youtu.be" rel="nofollow noopener">https://www.youtube.com/watch?v=70HNmSsJvVU&amp;feature=youtu.be</a></p>
+<p>ok, enough for now, will also leave it with some words from Marge about favouring efficiency rather than robustness or resilience and being able to deal with uncertainty in this age… <a href="https://www.youtube.com/watch?v=w4OPtFCs_fw" rel="nofollow noopener">https://www.youtube.com/watch?v=w4OPtFCs_fw</a></p>
+<p>cheers, m.</p>
+            <p><small>4 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/not-about-the-future-but-about-who-we-is-here-now/60">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/not-about-the-future-but-about-who-we-is-here-now/60</link>
+          <pubDate>Thu, 30 Jul 2020 15:26:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-60</guid>
+          <source url="https://forum.openglobalmind.com/t/not-about-the-future-but-about-who-we-is-here-now/60.rss">Not about the future but about who we is here/now</source>
+        </item>
+        <item>
+          <title>About the The Human Side category</title>
+          <dc:creator><![CDATA[Jerry]]></dc:creator>
+          <category>The Human Side</category>
+          <description><![CDATA[
+            <p>Even though OGM is obsessed with tools for visualization, storytelling and more, it operates under the assumption that <a href="https://bra.in/2vPB9q">emotion and membership trump reason most of the time</a>.</p>
+<p>The conversation here is about dialogue, deliberation, debate, vulnerability, trust, bridging the cultural divide – all the human parts of coming together to make better decisions.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/about-the-the-human-side-category/24">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/about-the-the-human-side-category/24</link>
+          <pubDate>Thu, 30 Jul 2020 05:52:33 +0000</pubDate>
+          <discourse:topicPinned>Yes</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-24</guid>
+          <source url="https://forum.openglobalmind.com/t/about-the-the-human-side-category/24.rss">About the The Human Side category</source>
+        </item>
+  </channel>
+</rss>

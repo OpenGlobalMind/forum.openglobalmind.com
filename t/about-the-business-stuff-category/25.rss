@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>About the Business Stuff category</title>
+    <link>https://forum.openglobalmind.com/t/about-the-business-stuff-category/25</link>
+    <description>OGM is about being as open as possible, and open-sourcing as much as possible. 
+
+That said, it is also a place for people to make a living, so it needs some business models. 
+
+One early example is the notion of StoryThreaders, which we talked about [in this call](https://youtu.be/M2l43ol0so0). Who would like to be a test-pilot StoryThreader? How might we sell a StoryThreading gig?</description>
+    
+    <lastBuildDate>Thu, 30 Jul 2020 06:16:05 +0000</lastBuildDate>
+    <category>Business Stuff</category>
+    <atom:link href="https://forum.openglobalmind.com/t/about-the-business-stuff-category/25.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>About the Business Stuff category</title>
+        <dc:creator><![CDATA[Jerry]]></dc:creator>
+        <description><![CDATA[
+            <p>OGM is about being as open as possible, and open-sourcing as much as possible.</p>
+<p>That said, it is also a place for people to make a living, so it needs some business models.</p>
+<p>One early example is the notion of StoryThreaders, which we talked about <a href="https://youtu.be/M2l43ol0so0">in this call</a>. Who would like to be a test-pilot StoryThreader? How might we sell a StoryThreading gig?</p>
+          <p><a href="https://forum.openglobalmind.com/t/about-the-business-stuff-category/25/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/about-the-business-stuff-category/25/1</link>
+        <pubDate>Thu, 30 Jul 2020 05:52:51 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-25-1</guid>
+        <source url="https://forum.openglobalmind.com/t/about-the-business-stuff-category/25.rss">About the Business Stuff category</source>
+      </item>
+  </channel>
+</rss>

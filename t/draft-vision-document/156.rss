@@ -1,0 +1,661 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Draft Vision Document</title>
+    <link>https://forum.openglobalmind.com/t/draft-vision-document/156</link>
+    <description>Hey all,
+There have been a lot of questions about what we&#39;re doing, what OGM is, etc. A while back, I took some time to draft a vision statement for what OGM *could* be. I am sharing it here to get some initial reactions from the group. I am in the process of putting this somewhere open and editable so that interested parties can collaborate on it.
+
+While many of these thoughts are inspired by both private and group conversations, the content that follows is my own and is not intended to speak on behalf of any person, entity, or group other than myself.
+
+Looking forward to your comments and questions!
+
+**Project Intro**
+
+Open Global Mind is a project to build communities and platforms that will help us make sense of the world – together. Our ultimate goal is to elevate global consciousness by creating a place for open-minded dialogue about the narratives that shape our lives. Ideally we will create some cool and useful tools along the way. 
+
+This isn’t an altogether new idea. One of the benefits of the web and the rise of social media is that we have created mechanisms that give voice to anyone with an internet connection. Similarly, any individual with an internet connection is a potential listener. Many individuals, think tanks, non-profits, and companies whose goal is to contribute to these global conversations have made use of this new delivery method to disseminate information. However, they are not alone. 
+
+Unfortunately, the platforms that are widely used to disseminate information make it all too easy for nefarious actors spread fake news and information across the world, holding our minds hostage.  Good intentions are drowned out by the cacophony of voices that make up the data-and-opinion rich digital ecosystem that we have created. 
+
+Thus, we are presented with an interesting dilemma. How do we design a mechanism by which we can preserve the qualities and lineage of ideas that have actual truth and merit while also allowing for the recombination of these ideas in ways that create new and novel ones that elevate our collective consciousness? How do we enrich the quality of the thoughts that govern our hive mind without silencing those who challenge them? How do we create a place where ideas go not to die, but to live even if it is through the vitality of other ideas? 
+
+At Open Global Mind, our commitment to open-mindedness offers a third way out: a place where thoughts and ideas can crash into each other. We seek to achieve this in three ways.
+
+*Visualization*
+![image|468x71](upload://oNlHWxLkUZKJomlUSSrgdWQcziB.png) 
+ 
+First, we will curate tools to visualize not only ideas, but also the context from which they are drawn. By connecting points of view, we can engage more deeply with the knowledge already created while also pushing it forward. We can create a web of integrated knowledge that not only synthesizes what has come before it, but also expands the knowledge sphere.
+
+*StoryThreading*
+![image|237x168](upload://yHABterU6A1NIdJCoWsIX4tbm9e.png) 
+ 
+A key component to any idea is its narrative. What are the elements of an idea’s creation story? How do those ideas connect through time? How do new perspectives change the narrative?
+
+Story-threading is a method by which ideas are “strung together” in a way that introduces new stories to the global consciousness – complete with context. Story-threaders proactively seek out these new narratives and employ a variety of creative techniques to bring these ideas to life.
+
+
+*Community Engagement*
+![image|262x196](upload://98saCt5kERu1bkFz9KVxCafmXEn.png) 
+ 
+OGM realizes that technology is only a partial answer. And while story-threading is an effective way to uncover and create new ideas, this has little value without an audience. The rest, probably the harder part, is about norms, expectations, mindset and other social/psychological attributes. Thus, the platform’s goal is to seamlessly support collective human intelligence. We will build it as we go; hacking together existing tools and inventing and integrating new capabilities as we solve new problems. The platform will be fit for purpose, prioritizing effectiveness over commercialization, and we invite all to help us build it. 
+
+
+**Building the Collective Consciousness** 
+There are multiple ways to add new content to OGM
+Fellow additions
+a.	Fellows (see role definition) are encouraged and expected to add new content to OGM. They work with master curators – sensors – who actively work to expand the ecosystem of data In the data layer. 
+Project-related additions
+b.	The input or output of specific projects can be added to OGM. See commercial use cases for context. 
+Individual additions 
+c.	OGM may include individuals pitches sponsorship. Ideas that are judged to have some merit are sponsored by the institution, and the supporting thinking is added to OGM. See individual use cases for context. 
+Produced content
+d.	 Content that is produced by story-threaders or OGM partners in support of an OGM project is added to OGM. See partnership use cases for context. 
+
+**Organization &amp; Governance**
+ 
+![image|275x366](upload://p6A2feTqiMYNKj89CMSXKb2PqAO.png) 
+
+OGM is governed based on principles of integration rather than control. Each team/discipline/focus area is expected to govern itself and be a master of a given domain. Though direction is set as a group, leaders in each space are expected to accept the responsibility of owning the thought-leadership and direction of their specific domain. However, we must decide to adopt a specific direction or project as a group. 
+
+Our initial proposal is that we have a collection of initial focus areas. One of those focus areas is “Strategy &amp; Operations”. Rules are that you can be a member/fellow of different guilds, but you cannot be the chief guild master of more than one. 
+
+A secondary proposal of the initial proposal is that we make Jerry the chief fellow in our Strategy &amp; Operations guild. 
+
+
+**Disciplines**
+
+A discipline is a domain of thought or subject area. 
+
+Number can be determined in the future and will depend on funding. 
+
+However, it would be cool to have rotating focus areas. The strategic arm of the brain can determine which areas might be good to invite or invest in. Consider it like a flex position on a fantasy football team. 
+
+**Roles**
+![image|468x351](upload://yjvAlxe97los2Fa5Fuj6h3EgUqy.png) 
+*Sensors*
+Sensors fulfill the primary research function of OGM. The primary responsibility of a sensor is to grow our knowledge base. Consider them similar to market research analysts responsible for key subject areas. They scan the environment and the world, searching for new thoughts, ideas, and insights to bring into the system. 
+
+*Protectors*
+Owners of how OGM interfaces with the outside world. Their responsibilities includes oversite of API’s, IP, access controls, cyber security, membership, etc.
+*Fellows*
+Investors, leaders, and thought-provokers. To be a Fellow suggests a deeper level of partnership with OGM. These individuals (or organizations) grow and advance the fundamental mechanisms that support OGM. They help provide or procure funding for the pursuit of new projects and help guide thought leadership. 
+*Makers (Builders)*
+The primary function of the “Makers”, or “Creators” is to create – or shepherd the creation of – tools and services.
+*Story-Threaders*
+The story-tellers of the group seek to make connections across multiple narratives, nodes, ideas, or strings of thought. They find creative ways to introduce these new stories to the global consciousness.
+*Participants*
+Users of OGM platform who may be makers, story threaders, protectors, or sensors in their own rights.
+*Sponsors*
+Members who support OGM in the form of grants, scholarships, sponsorships, time, etc.
+*Advisors*
+Members who offer guidance or advice to OGM. Perhaps more of a steering committee.
+*Guild Members*
+Membership in a guild distinguishes those that can be leveraged for guidance, advice, or inventive solutions in a given discipline or practice from other participants. An all-encompassing role, Guild Members are master practitioners of OGM capabilities. They are builders of the product, solution designers, and engagement seekers. Think of Guild Members as SME’s. For example, a developer with extensive experience developing API’s might be a guild member of an API-related guild. Similarly, a story-threader may be a member of a related guild. Furthermore, guild membership is not mutually exclusive. That is to say, a story-threader can belong to a “Builder” guild or a “Story-Threader” guild. 
+
+
+
+**Engaging/Growing with the “Data Layer”**
+![image|416x500](upload://oYzbnuwJk0EKnS6S4lzYJof11oa.jpeg) 
+While the guiding principles of OGM remain the same regardless of the application, the data layer can be managed and accessed in different ways. To allow for flexibility in application, our approach is as follows:
+ 
+The figure above is supposed to represent permeability of data later. Data from the consumer later is not allowed in the membrane. Data from the partnerships and proposals has the potential to make it through the membrane. Data from focus areas can be directly added to the core data later. 
+
+**Core Data Layer**
+
+So, this is where all of our primary output and ideas live. The copy of it that is used for core OGM capabilities (should define this later) should be view-only. Meaning that people can sign on and sign in to look at it, but cannot actually edit the content. 
+
+Anyone with a membership to OGM can see this, but only those within the membrane can actually add to it or change it. Again, fellows are the gate-keepers here. 
+
+There is a potential to include content that lives behind a pay-wall 
+
+An Ecosystem application could allow a method of engagement with the community. See ecosystem use case.
+
+*OGM Commercial* 
+
+As commercial partners seek to use OGM capabilities, they may wish to add proprietary data or findings into their version of OGM. Those versions would live outside of the OGM firewall. However, OGM will want rights to underlying ideas. See commercial use case for more info. 
+
+*OGM Street*
+There are multiple ways to create personal versions of the OGM data later. Our code  - which can be found on GitHub – can be used in the following ways
+•	Start data repository from scratch allows users all of the functionality of mind-mapping without any of the data. See Read-Dialogue-Apply Use Case. This would need to be developed. 
+•	Download ours and add to it – we can give you a point in time download of our brain. You can add to it if you want. There is an opportunity here to potentially scan these copies for novel new ideas. 
+•	Starter kits - We provide a boxed and curated experience about a subject area. We can have canned options for a certain price. 
+•	We can also offer a curated experience for people who want something a little more for a certain price. They can work with a producer or story threader to make something that is catered to the specific person. See Read-Dialogue-Apply Use Case.
+
+**Project Funding** 
+![image|302x249](upload://goX3rNSsFt6NqgxvA1VlUlcq5X7.png) 
+The primary way projects are funded is through the OGM Venture Fund. Fellows + Stakeholders meet annually to discuss project timelines and scope with steering committee. Funding is allocated based on need. If a project does not gain full funding, then it is up to the discipline leader to procure funding. 
+
+Further funding can be procured via grant or pitch. There is a possibility to link to the CN VC pitch project. OGM can provide support via grantwriting or production. Could also be a service. 
+ 
+
+
+**Revenue**
+
+*Membership*
+a.	Model includes free access to some services. However, paid membership or content subscriptions could generate revenue. Compare to something like HBR. Levels of membership could be as follows:
+i.	Free use of basic visualization engines and other free services built on OGM platform
+ii.	Paid use of OGM service (such as story threading or knowledge management)
+iii.	Access to specialized produced content (included with membership fee)
+iv.	Thought-partnership that includes participation in roundtables, engagements, or even fellowship work (like a contract network)
+v.	Fellowship, which includes leading work and creating content
+ 
+![image|432x262](upload://jnYohcE6EUiKbUxBZvOiDbxr9nm.png) 
+Engagements
+b.	As we develop ecosystems of thought around specific disciplines, we have the opportunity to produce engagements that feature projects and output from OGM focus areas. 
+Services
+c.	We can provide services on top of OGM, which can be anything from an API to curation practices. 
+i.	Curating stories/data for companies or individuals
+ii.	Technical applications - 
+iii.	Story-threading
+Partnership “royalties”
+d.	Is there a way that OGM can get a cut of commercial applications of the platform without being a pirate?
+
+**Use Case Examples:**
+Team Restructure
+Consider leader seeking to engage his team by including them in an effort to restructure their organization.  He could interact with OGM in the following ways: 
+1.	Look for information already stored in the data later.
+2.	Create mind-map independently as a way to track notes and make connections.
+3.	Work with a sensor/curator to find relevant content or even produce a mind-map of relevant content/ideas. ($$$)
+Commercial Use Case
+Consider a situation where the complexity of a firm’s business and hyper-dynamic market environment is creating a greater need for enhanced strategic sensing and sense making capabilities. Information gaps, latency, fragmentation, and abstraction limits the ability of Sr. Leadership to gain the holistic real-time understanding needed to effectively respond to rapidly evolving challenges and opportunities. They seek to build a capability that allows them to collect and qualify diverse data sets, process and organize that data, and then synthesize it to determine the most effective next steps for their business. 
+By partnering with OGM makers and story-threaders, the firm can realize its goal by building the following:
+•	Strategic Newsroom built on immersive and holistic investigative reporting and research covering both quantitative and qualitative information from internal and external sources
+•	Interconnected Landscape Maps documenting the dynamic relationships between strategic insight, thoughts, imperatives, objectives, and initiatives 
+•	Robustly Curated Knowledge Objects Library accessible through the landscape maps 
+•	Holistic Sense Making Processes capable of producing and sharing nuanced understanding to enable effective decision making
+•	Information Dissemination Platforms able to in real-time, appropriately inform leadership and clearly communicate intentions and expectations needed to drive coordinated and aligned execution
+Depending on the agreement with the firm, OGM can add data to its own data later. Similarly, output can be added as well. This could be priced into a work contract, with price varying based on benefit to OGM vs benefit to the firm.
+
+Production Use Case
+An OGM Partner wants to develop a compelling narrative around newly produced thought leadership. They engage with an OGM story-threader to create that narrative, along with some visual content.
+
+Individual Pitches
+An individual has created a program that can identify points of agreement by scanning debate transcripts. They pitch the idea to OGM Fellows, and the proposal is sponsored by the Artificial Intelligence/Machine Learning discipline. 
+
+Ecosystems
+Imagine that the AI/Machine Learning discipline takes off. OGM finds that the AI community needs something – there is tension between academia and industry, but everyone would benefit from the ability to collaborate better. OGM seeks to intentionally foster better communication, better collaboration. We create a place where we can foster fruitful collaboration and conversation across disciplines. Access to the content and networking activities is based on level of membership. The discipline sponsors conferences, which leads to revenue.  
+  
+To Be Addressed
+
+What is the flow of work?
+In general, ideas are adopted and funded. At that time, leaders/teams work amongst themselves to decide which ideas are worth pursuing, and which ideas are not. Tenants are to document the research and how you got to the final conclusion you’ve made. Teams work with threaders and to help tell that story. 
+
+Concept of a “Financial Fellow”
+What is the return on capital? Is there a chance to re-define something here?
+
+How do we address IP?
+There are a variety of ways we can address and manage IP. 
+
+For guild level endeavors, I am not sure how we would address IP. Perhaps if the entire project is managed by and for OGM, the IP belongs to OGM. For example, consider a hypothetical situation where we develop a universal banking API. How do we balance the IP claims of the individual that creates it and that of OGM?
+
+I think overall, OGM should claim that all “public” or simple “non-private” data can be housed on the platform. For example, perhaps we cannot include a specific module in the system like “History of the future” but we could have information in there saying that an effective way to scan for new opportunities is to imagine yourself at a future point and then look backwards.
+
+For commercial applications, we can price differently based on whether the engage wants the IP. We can price our work accordingly and assign a premium for knowledge that we don’t get to keep. For example, if we design a firm’s strategic plan and don’t get to keep it, it costs $500k. If we do get to keep the framework, it’s $50k. 
+
+Thought Partners
+There are members of OGM that produce. But that production is at different levels.
+Essentially we need to think about the question – what do the levels of membership look like?
+
+If you are within the firewall, you are fully supported.
+
+If you are outside of the firewall, you get the benefits of some things (conferences etc.) but you operate independently as far as Finance goes. Your access to the actual data layer is different. 
+
+Maybe we look twice at your output? 
+
+Node hierarchy: web underneath is whatever, but the big nuggets are clear. 
+
+Perhaps a ranking system where you are ranked based on how many “nuggets” you add to the brain. There has to be a nice and easy way to figure this out.</description>
+    
+    <lastBuildDate>Wed, 09 Dec 2020 15:42:18 +0000</lastBuildDate>
+    <category>Designing the System</category>
+    <atom:link href="https://forum.openglobalmind.com/t/draft-vision-document/156.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p>“elevate global consciousness”</p>
+<p>devil’s in the details, definitions &amp; logistics … <img src="https://forum.openglobalmind.com/images/emoji/apple/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/42">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/42</link>
+        <pubDate>Wed, 09 Dec 2020 15:42:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-42</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>I think the “?” needs to be bigger.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/41">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/41</link>
+        <pubDate>Tue, 08 Dec 2020 17:20:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-41</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>ultimate goal is to elevate global consciousness …</p>
+<p>?</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/40">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/40</link>
+        <pubDate>Mon, 07 Dec 2020 18:59:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-40</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="NancyW" data-post="28" data-topic="156">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/nancyw/40/9_2.png" class="avatar"> NancyW:</div>
+<blockquote>
+<p>a lot of men with a lot more free time/bandwidth available than perhaps many women. Men who have interesting ideas and like to present them. Just can’t be my world these days. I just try and keep up peripherally.</p>
+<p>It could be an interesting data point to look at. And maybe one reason women are underrepresented in these sorts of configurations.</p>
+</blockquote>
+</aside>
+<p>wow. yes <a class="mention" href="/u/nancyw">@NancyW</a><br>
+work to do here.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/39">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/39</link>
+        <pubDate>Mon, 07 Dec 2020 12:19:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-39</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="Tony" data-post="18" data-topic="156">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/letter_avatar_proxy/v4/letter/t/ee7513/40.png" class="avatar"> Tony:</div>
+<blockquote>
+<p>ultimate goal is to elevate global consciousness by creating a place for open-minded dialogue about the narratives that shape our lives.</p>
+</blockquote>
+</aside>
+<p>not mutually exclusive i think;<br>
+this document expanded, augmented into collaborative mode, ‘simply’ goes into depth and detail as to achieving such a place.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/38">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/38</link>
+        <pubDate>Mon, 07 Dec 2020 12:11:53 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-38</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="michaeldobbie" data-post="11" data-topic="156">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/michaeldobbie/40/14_2.png" class="avatar"> michaeldobbie:</div>
+<blockquote>
+<p>live portal here somewhere open 24 hours to meet, to pop into or be hanging out in, for dialogue, for spontaneous co-creation, for jamming, dreaming, for co-working, co-drawing/visualising, map-making some current reality as it’s emerging right there on the spot, for co-being, co-mmunicating, co-creating in whatever fashion…it might be a casual chat or dedicated time to try some specific style of sensemaking, to practice embodied dialogue or some other new form of communication,</p>
+</blockquote>
+</aside>
+<p>great idea, which the <a href="http://radish.org" rel="nofollow noopener">radish.org</a> folks are doing to some extent; essentially, ‘open space’</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/37">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/37</link>
+        <pubDate>Mon, 07 Dec 2020 11:57:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-37</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p>As we articulate our tacit awareness and understanding as we seek to be understood to gain better comprehension, to solve previoulsy unsolvable problems in the digital we are effectively Externalize Our Collective Intellect. I see the possibility there to do it in a way so that  we end up with a Map that is the territory that we an explore and in dwell within and after all our explorations we come back to where we started and see it for the first time, for what it is what can we do about it.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/36">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/36</link>
+        <pubDate>Sun, 20 Sep 2020 20:45:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-36</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/skreutzer">@skreutzer</a>, thank you for a very thought provoking question. It made me dig deeper to think about motivation - why would one participate, before thinking about the affordances for participation. I’m not sure affordances themselves draw me in, but I do notice they attract some folks. So thinking about those differences may be useful at some point.</p>
+<p>Here are some quick thoughts about my motivation that come to mind.</p>
+<ul>
+<li>The initial invitation from people I know, like, trust, respect, am curious about (along with others who don’t fall into any categories as they are unknown - so add a little honesty about FOMO!) (Suggests maps of people, relational tools, network weaving practices…)</li>
+<li>The relevance to the things most pressing in my life (both at the micro/personal level up to the macro/societal level and a desire to operate generatively in both) . Exposure to new ideas. OGM has a lot of that. Finding/organizing is the challenge. Signals that can draw us back in as life pulls us away.  (the kinds of tools we have been noodling on here. Yes!)</li>
+<li>The hope of a new model that IS generative. (And guilt if I’m not contributing towards it!) (the “governance” conversation. And FWIW, I have zero interest in business models at this point in my life and that alone is probably holding me back and that has NOTHING to do with tools/affordances!)</li>
+</ul>
+<p>Finally,  I have spent enough time in male dominated groups that I’m kind of feeling done with that too. (This may simply be my cornona/smoke/school grandkids at home/too much work fatigue speaking!) And my sense that (and this is probably my own sexism speaking so I’ll own it) the focus on affordances, particularly technical solutions, has to be more deeply embedded in relational and system conversations and women seem to be more often good at that. Again, gross generalization and probably too much rambling. Just trying to put my finger on my own thinking and feeling I guess!</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/35">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/35</link>
+        <pubDate>Thu, 17 Sep 2020 12:30:59 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-35</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[saiiam]]></dc:creator>
+        <description><![CDATA[
+            <p>Nancy</p>
+<p>Thanks so much for sharing and for opening up the dialogue to the broader systemic issues and the institutionalized inequities between the genders. This as well as other factors should be deeply contemplated if we are going to not only welcome, but make the potential of OGM accessible to everyone. Not an easy topic and not any easy set of answers.</p>
+<p>Matt</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/34">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/34</link>
+        <pubDate>Thu, 17 Sep 2020 01:11:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-34</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p>Looks like the forum does not play well with hypothesis</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/33">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/33</link>
+        <pubDate>Fri, 11 Sep 2020 14:42:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-33</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <a href="https://hyp.is/brvrevQ5EeqXgmv5pTKFtg/forum.openglobalmind.com/" target="_blank" rel="nofollow noopener">Hypothesis</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b.png" class="thumbnail" width="690" height="388" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b_2_10x10.png"></div>
+
+<h3><a href="https://hyp.is/brvrevQ5EeqXgmv5pTKFtg/forum.openglobalmind.com/" target="_blank" rel="nofollow noopener">ROAM-ing around this document might work.</a></h3>
+
+<p>ROAM-ing around this document
+
+or TrailMarking it hopefully soon</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/5327e6c3d92e3d28924b80663d6bf196b895c4e7.png" data-download-href="https://forum.openglobalmind.com/uploads/default/5327e6c3d92e3d28924b80663d6bf196b895c4e7" title="image"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/5327e6c3d92e3d28924b80663d6bf196b895c4e7_2_602x500.png" alt="image" data-base62-sha1="bRD7llRoHzOX6rqJ1yl4Ey4JRHh" width="602" height="500" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/5327e6c3d92e3d28924b80663d6bf196b895c4e7_2_602x500.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/5327e6c3d92e3d28924b80663d6bf196b895c4e7_2_903x750.png 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/5327e6c3d92e3d28924b80663d6bf196b895c4e7.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/5327e6c3d92e3d28924b80663d6bf196b895c4e7_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">953×791 156 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div>
+<p>The landing page is about a value proposition for the individual learner.</p>
+<p>Eventually consistent emergent people centered collaboration is our current goal.</p>
+<p><a href="https://twitter.com/TrailMarks" class="onebox" target="_blank" rel="nofollow noopener">https://twitter.com/TrailMarks</a><br>
+<a href="https://twitter.com/TrailHub1" class="onebox" target="_blank" rel="nofollow noopener">https://twitter.com/TrailHub1</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/32">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/32</link>
+        <pubDate>Fri, 11 Sep 2020 14:19:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-32</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Gyuri]]></dc:creator>
+        <description><![CDATA[
+            <p>I am a great fan and long term user of hypothesis<br>
+<a href="https://hypothes.is/users/gyuri" rel="nofollow noopener">https://hypothes.is/users/gyuri</a> 2700 of these are public</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/a3563d0c32971a1f93402cb763ae8c28b855c4c8.png" data-download-href="https://forum.openglobalmind.com/uploads/default/a3563d0c32971a1f93402cb763ae8c28b855c4c8" title="image"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/a3563d0c32971a1f93402cb763ae8c28b855c4c8_2_690x499.png" alt="image" data-base62-sha1="niWAKwiTKwmJSUixv1Kg4YnyFSM" width="690" height="499" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/a3563d0c32971a1f93402cb763ae8c28b855c4c8_2_690x499.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/a3563d0c32971a1f93402cb763ae8c28b855c4c8_2_1035x748.png 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/a3563d0c32971a1f93402cb763ae8c28b855c4c8.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/a3563d0c32971a1f93402cb763ae8c28b855c4c8_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">image</span><span class="informations">1278×925 57.6 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div><br>
+Follow this link and my annotations will show up.<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <a href="https://hyp.is/JS-GevKyEeq7Q8fCsGMn5g/forum.openglobalmind.com/" target="_blank" rel="nofollow noopener">Hypothesis</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b.png" class="thumbnail" width="690" height="388" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/2dc2b75c3c38ce72df61a3e0364af4c61d1eb67b_2_10x10.png"></div>
+
+<h3><a href="https://hyp.is/JS-GevKyEeq7Q8fCsGMn5g/forum.openglobalmind.com/" target="_blank" rel="nofollow noopener">mechanism by which we can preserve the qualities and lineage of ideas that...</a></h3>
+
+<p>lineage of ideas
+recombination
+elevate collective consciousness</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+<br>
+Hypothesis has been designed to support conversations over all knowledge.
+<p>We are developing<br>
+<a href="https://trailmarks.co/" class="onebox" target="_blank" rel="nofollow noopener">https://trailmarks.co/</a><br>
+and a lot more.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/31">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/31</link>
+        <pubDate>Fri, 11 Sep 2020 14:14:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-31</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Thank you very much for sharing! Would you say or find it useful/conceivable that if there’s some way to better organize the piles and piles of material so you could more easily find and navigate the interesting pieces or maintain a high-level overview, that this would improve quality, connection, relation for your situation? In terms of, let’s say, you have certain topics, people, events you’re interested in to be able to cherry-pick and choose from little snippets where to dive in more deeply and what to skip? Like, you know, similar to book recommendations by your friendly reader community/circle because they know what you might be interested in <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> Just asking in particular from an OGMic perspective, besides other gender dynamics.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/30">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/30</link>
+        <pubDate>Thu, 10 Sep 2020 13:04:47 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-30</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[NeilD]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="michaeldobbie" data-post="27" data-topic="156">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/michaeldobbie/40/14_2.png" class="avatar"> michaeldobbie:</div>
+<blockquote>
+<p>language itself as a technology has fooled us into believing we actually communicate with one another…</p>
+</blockquote>
+</aside>
+<p>Love it! And, by ‘love’ I’ll leave you wondering which of ‘The four loves’ I mean:</p>
+<p>Storge – empathy bond.<br>
+Philia – friend bond.<br>
+Eros – romantic love.<br>
+Agape – unconditional “God” love.</p>
+<p><img src="https://forum.openglobalmind.com/images/emoji/apple/upside_down_face.png?v=9" title=":upside_down_face:" class="emoji only-emoji" alt=":upside_down_face:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/29">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/29</link>
+        <pubDate>Thu, 10 Sep 2020 10:46:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-29</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[NancyW]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="skreutzer" data-post="24" data-topic="156">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"> skreutzer:</div>
+<blockquote>
+<p>What do you think keeps women to join and engage?</p>
+</blockquote>
+</aside>
+<p>I can’t speak to all women, but as a woman with two small (grand) children as my responsibility with both day to day parenting and online school, there is no way I have time to do my work, take care of kids, and then spend a lot of time listening, organizing, responding to anything else. OGM in theory is really wonderful. In practice, my experience is that there a lot of men with a lot more free time/bandwidth available than perhaps many women. Men who have interesting ideas and like to present them. Just can’t be my world these days. I just try and keep up peripherally.</p>
+<p>It could be an interesting data point to look at. And maybe one reason women are underrepresented in these sorts of configurations.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/28">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/28</link>
+        <pubDate>Wed, 09 Sep 2020 17:14:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-28</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[michaeldobbie]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="skreutzer" data-post="24" data-topic="156">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/skreutzer/40/7_2.png" class="avatar"> skreutzer:</div>
+<blockquote>
+<p>Are you saying that the virtual world isn’t real? You’re not suggesting that it doesn’t exist, or are you? Is it that the representation isn’t identical to the real thing it represents, and you’re in favor of the real things, at the expense of their representations?</p>
+</blockquote>
+</aside>
+<p>we probably need all the tools we can get our hands on, at least to try them out, and to continue to improve on previous tools, while also staying alert and aware of the limitations of these tools and not get misguided about how slick, cool they initially seem, definitely not to allow them to take over or replace the spirit and intention of what we’re hoping to communicate…humans have a long history with technology and with technology also using us, the fear of AI is nothing new but it’s a legitimate concern, language itself as a technology has fooled us into believing we actually communicate with one another…</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/27">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/27</link>
+        <pubDate>Mon, 31 Aug 2020 21:19:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-27</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Hey, thanks for replying, much appreciated! I think this Discourse and some of the other sites/services that are currently used are quite decent for us to find each other, learn about each other, discuss topics of interest, hang out together, and see if or where it leads to. So it may, for now, be de-facto our first version or starting point towards a/the OGM platform (whatever that means, whoever knows what/where/how it is, how it looks&amp;feels like, what it’ll do or not do, etc.), and in that respect the contribution of the draft as well as your inquiry too to address more of the social side are excellent opportunities to form the kind of thinking that may eventually get us there, to a great new place with barbeque and not just abstract speculation and digging ourselves out of the technical chaos. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+<p>Just a quick personal note, as I deliberately, have to, because of the Builder role, look more at the technical things, it’s great to have you on board to also cover and help with some of other aspects, and I think they’re not mutually exclusive opposed nor is there a need to contrast them, and we all can easily have a great time to do interesting things with both of them in parallel. I mean, it likely would be hard to find somebody who doesn’t want any social bonding, connections and hanging out with friends, or somebody who is serious in suggesting that we should shut down all the electrical stuff and mechanical instruments and meet some place in the woods (and while the latter might be fun too, it likely is somewhat impractical when it comes to things like the notion of global minds, etc.).</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/26">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/26</link>
+        <pubDate>Mon, 31 Aug 2020 11:06:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-26</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[michaeldobbie]]></dc:creator>
+        <description><![CDATA[
+            <p>thanks for hanging a bit at the bbq, i decided on watermelon bcause of the weather so will be replying in bits and pieces here, for now just to say that to me Discourse by default is our current platform. I mean, what other space exists that better represents us all at this moment? google groups has died out, zoom calls are once a week curated events for those into that kind of jam (not my preferred way of showing up or doing dialogue)…so what else do we have? all i’m saying is that we look at where we are right now, see who is engaged and poke around, ask around, ask what ppl want, what else we can add…just as you are doing…so kudos to you for staying with it my friend!</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/25">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/25</link>
+        <pubDate>Mon, 31 Aug 2020 10:22:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-25</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/michaeldobbie">@michaeldobbie</a> I’m wondering if there’s some actual differences of opinion, or if there’s wide general agreement, just some differences in terminology. For better understanding, a few questions:</p>
+<p>If there’s something called the OGM platform, in what capacity, to what extend, is this Discourse considered to be a/this OGM platform? Other or beyond serving for general OGM-related discussions?</p>
+<p>Wouldn’t it be very important and useful to have any or all bunches of engineers and system thinkers talk to each other, in contrast to only talking amongst themselves?</p>
+<p>I would object that we’re in a “technological chaos”, technology by definition and purpose can hardly ever be chaotic, to the contrary. At the same time, we’re in quite an artificial, unnecessary technical mess, which is caused by bad and malicious products, which is not a result of the technology or technicalities, but financial interests. Furthermore, there are much larger and more serious messes, when it comes to ecology, lifestyle, politics, and these are also not much aided by us remaining stuck with bad technical products. Yes, no?</p>
+<p>Also, if we all just hang for barbeque and have a good time, isn’t there a huge risk that things get worse by themselves automatically, if left unattended?</p>
+<p>What do you think keeps women to join and engage?</p>
+<p>Are you saying that the virtual world isn’t real? You’re not suggesting that it doesn’t exist, or are you? Is it that the representation isn’t identical to the real thing it represents, and you’re in favor of the real things, at the expense of their representations?</p>
+<p>Are you aware that Google Search is really not that much about the minimalistic search term input form, but what makes it work is massive crawling of all the Web pages and the page rank algorithm and huge data centers?</p>
+<p>Are you experiencing a shortage of online conversation communities/groups/opportunities? For me it’s the reverse, I likely could fill every day of every week with many calls and conversations, if I tried, and it’s all the same, not much constructive or useful or interesting, after listening to a lot over many years.</p>
+<p>Apologies if some of these sound blunt, I’m more curious instead <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/24</link>
+        <pubDate>Sun, 30 Aug 2020 22:47:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-24</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>I finally got around to read the draft after preparing/converting such long-form manually. Overall, it reads quite decent for the general direction towards which OGM appears to be framed/designed/intended behind the public/surface scenes. As a plan or outline, instead of pondering too long on some vision concept or draft or whitepapering, the storythreading as one initial offer/product/service could be conducted on some groups or for an events, so that might lead to practical experience, allow to adjust/fine-tune, maybe recommendations/testimonials, ways to advertise/promote/present and then expand. Before it remains all in the abstract and designing the perfect logo or landing page, but the real value/benefit needs to be delivered to real customers who are willing and happy to pay for it. Not much of a danger here, many participants are practicioners and professionals, but are there opportunities to try this in a sandbox, early dry-swimming training?</p>
+<p>Another interesting difference which becomes more apparent with descriptions like this (which is a good thing, getting to clarity quickly rather than realising misalignment way too late once investments/loss grew), is that OGM/facilitation as a commercial business might have certain competitive wants/needs/obligations and therefore needs to design for all these questions like artificially restricting/controlling data access, confidentiality, managing from where to get money and what to spend it on, ownership of the produced results, splitting profits, expectations on certain quality/reliability of service levels as payment/operations might depend on it, and similar. On the other hand, as <a class="mention" href="/u/abigailbrody">@abigailbrody</a> very suitably pointed out, there’s the open commons/community projects on massive scale, like Wikipedia, Open Streetmap, libre-free software development, OA/OER (the less confused, non-fake ones), and these are created and maintained/stewarded with little money or money just as a secondary instrument, open/inclusive/preserving policies, as they’re not competing with other proprietary, artificially restrictive, closed, exploiting enterprises, but are universally agreed as a necessary and superior offer in comparison to earlier products like the Encyclopedia Britannica or Encarta.</p>
+<p>Sure enough, there are still plenty of commercial information services, as I don’t think we could reasonably, usefully get a Bloomberg Terminal or Gartner reports or similar kinds of things. So now, one question might be whether or not or to what degree the OGM name/brand/initiative is supposed/expected/intended/designed to become a financial success with reputation among + access to big industry players and/or also helping small participants in some markets or supporting friendly/good organizations in/with what they do, enable stable employment, become an institution that can influence slow companies in urgent need towards more favorable actions and decision making, or, again, on the other hand, expand and apply techno-ethical libre-free future information society principles to other domains like sense-making or online collaboration or systems analysis + urgent, complex problem solving, even in cases where it would operate at a loss or no income at all in the many important areas where economically no money is available at all or generally simply not spent/invested.</p>
+<p>There’s also the option to design for a hybrid, either very deliberately separating into two branches who then via carefully installed protocols/interfaces can enjoy the fun of interacting with each other (also for resolving such conflicts of interest and remaining able to do things in both and all worlds), or OGM operates as one integrated entity but then has to somehow determine how it’s going to handle the different perceptions/expectations by people, which can easily be a source of constant confusion and subsequent frustration.</p>
+<p>Please apologize the exaggeration, of course these two main perspectives don’t need to be mutually exclusive. There’s good money to be earned for actual work, which can be highly specific, custom facilitation which isn’t useful beyond the boundaries of the single, specific case, or compensation for the investments/efforts related to physical scarcity like time, location, materials, etc. In digital and for information however, these are inherently and naturally not scarce at all, they always only keep duplicating, and there’s no reason to ever have a shortage of an immaterial good. Trying to artificially limit and restrict such in order to then be able to sell access to it, that’s suspicious at best, and in many cases very destructive and unethical. Rules of the physical world don’t necessarily carry over to the immaterial information world, nor vice versa. Business models intended for one of them exclusively or covering parts of both should better take that into account.</p>
+<p>No matter how that’s going to be decided, one direction at the exclusion of the other, or a hybrid, or a mix, it’s much better to gain some clarity about this in advance and not go on for a long time with a lot of confusion and frustration, to in the end when it’s much too late part ways in bitter disagreement and at a huge loss/waste of earlier investments/effort. For that reason, I think this draft is an excellent contribution to outline the general concepts and invoke further discussion, as already arrived in the replies to this thread and elsewhere.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/23</link>
+        <pubDate>Sun, 30 Aug 2020 22:03:54 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-23</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Jerry]]></dc:creator>
+        <description><![CDATA[
+            <p>I’d love to have that conversation, too.</p>
+<p>Connect over e? I’m <a href="mailto:sociate@gmail.com">sociate@gmail.com</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/22</link>
+        <pubDate>Sat, 29 Aug 2020 17:31:10 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-22</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Geeart1]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/michaeldobbie">@michaeldobbie</a><br>
+I’m black, thanks for asking about the diversity here Michael. It’s extremely important that we include more voices within our discussions.</p>
+<p>If you’re interested, I’d love an opportunity to chat with you about how we could possibly move forward by taking real action towards transformational evolution for most people.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/21</link>
+        <pubDate>Wed, 26 Aug 2020 16:30:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-21</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[bhnelson]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/anderbill">@anderbill</a> The biggest thing that I got out of the map was that I gave attention to a lot of topics without giving them the attention the deserve. Now, I might not be giving myself enough credit there, but I do feel that there are are a lot of tendrils to the conversation. I agree that the map would be a lot of work. Maybe it’s something that we simply revisit from time to time.<br>
+I like the “the map is not the territory” reference. In this instance in resonates with me because your map shows how all of these ideas are connected, but not necessarily how the system works.</p>
+<p><a class="mention" href="/u/tony">@Tony</a> Thanks for your comment. What I mean to say here is that the truths that we hold are amalgamations of stories we tell ourselves. Taking time to articulate those stories - or mental models - give us the opportunity to understand how points of view might differ and why. For example we might be able to have a discussion about the difference between efficiency and equity in a discussion about economic systems. By engaging in this kind of open-minded dialogue, and by seeking to understand different points of view, we can elevate and expand our conversation beyond our individual points of view.</p>
+<p><a class="mention" href="/u/neild">@NeilD</a> I am digesting the diagram that you posted here as well as the ones from your other post. I will post a more complete response when I’ve synthesized my thoughts.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/20</link>
+        <pubDate>Tue, 25 Aug 2020 22:53:38 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-20</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>Hank, I am eager to hear what the map generates for you. This map can be modified to better represent your view of the landscape described.</p>
+<p>[Hmmm … “the map is not the territory” just popped into my mind; not sure what to do with that idea in this discussion.]</p>
+<p>Keeping this kind of map up-to-date is a bit of work. Maybe it is just a marker of some part of the larger conversation. Perhaps the best next step is to incorporate some of your responses and then just post the map somewhere as a reference resource.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/19</link>
+        <pubDate>Thu, 20 Aug 2020 14:13:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-19</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+      <item>
+        <title>Draft Vision Document</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>Our ultimate goal is to elevate global consciousness by creating a place for open-minded dialogue about the narratives that shape our lives.</p>
+<p>I don’t get it.</p>
+          <p><a href="https://forum.openglobalmind.com/t/draft-vision-document/156/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/draft-vision-document/156/18</link>
+        <pubDate>Thu, 20 Aug 2020 13:49:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-156-18</guid>
+        <source url="https://forum.openglobalmind.com/t/draft-vision-document/156.rss">Draft Vision Document</source>
+      </item>
+  </channel>
+</rss>

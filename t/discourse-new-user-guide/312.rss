@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Discourse New User Guide</title>
+    <link>https://forum.openglobalmind.com/t/discourse-new-user-guide/312</link>
+    <description>OGM Forum doesn&#39;t have its own copy of this post yet, so for now, please visit:
+
+https://meta.discourse.org/t/discourse-new-user-guide/96331
+
+If you are able to port over that post (use the link at the bottom, and you&#39;ll need to copy over or recreate all the images), please feel free to do so, and adapt to OGM Forum as appropriate.  Thanks!</description>
+    
+    <lastBuildDate>Sat, 31 Oct 2020 19:25:27 +0000</lastBuildDate>
+    <category>Announcements</category>
+    <atom:link href="https://forum.openglobalmind.com/t/discourse-new-user-guide/312.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Discourse New User Guide</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>post in HTML: OK.</p>
+<p>but i’ll look at the whole web page layout. maybe we can have a local directory of the appropriate meta files? i’m not sure i want to create a set of OGM forum specific examples, but that is an option (more work).</p>
+          <p><a href="https://forum.openglobalmind.com/t/discourse-new-user-guide/312/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/discourse-new-user-guide/312/6</link>
+        <pubDate>Sat, 31 Oct 2020 19:25:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-312-6</guid>
+        <source url="https://forum.openglobalmind.com/t/discourse-new-user-guide/312.rss">Discourse New User Guide</source>
+      </item>
+      <item>
+        <title>Discourse New User Guide</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="anderbill" data-post="4" data-topic="312">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/anderbill/40/8_2.png" class="avatar"> anderbill:</div>
+<blockquote>
+<p>my first question is: do we delete the replies to that official Discourse page? I think yes is the answer.</p>
+</blockquote>
+</aside>
+<p>I agree, yes.</p>
+<aside class="quote no-group" data-username="anderbill" data-post="4" data-topic="312">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/anderbill/40/8_2.png" class="avatar"> anderbill:</div>
+<blockquote>
+<p>I have the downloaded html page and an associated directory filled with the metafiles, mostly javascript and png images. How do we import all that stuff here?</p>
+</blockquote>
+</aside>
+<p>You can post in HTML…</p>
+<p>But you’d need to either attach the images, or link to them on the web (the latter might Just Work if you point to their images).</p>
+<p>Not sure at all how to get JS, besides linking to it externally (ditto at maybe just linking to theirs).</p>
+          <p><a href="https://forum.openglobalmind.com/t/discourse-new-user-guide/312/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/discourse-new-user-guide/312/5</link>
+        <pubDate>Sat, 31 Oct 2020 19:18:49 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-312-5</guid>
+        <source url="https://forum.openglobalmind.com/t/discourse-new-user-guide/312.rss">Discourse New User Guide</source>
+      </item>
+      <item>
+        <title>Discourse New User Guide</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>Yes. Will do. Right now my first question is: do we delete the replies to that official Discourse page? I think yes is the answer. And we can answer questions that arise regarding this user guide in this group here.</p>
+<p>Second question: I have the downloaded html page and an associated directory filled with the metafiles, mostly javascript and png images. How do we import all that stuff here?</p>
+          <p><a href="https://forum.openglobalmind.com/t/discourse-new-user-guide/312/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/discourse-new-user-guide/312/4</link>
+        <pubDate>Sat, 31 Oct 2020 19:15:57 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-312-4</guid>
+        <source url="https://forum.openglobalmind.com/t/discourse-new-user-guide/312.rss">Discourse New User Guide</source>
+      </item>
+      <item>
+        <title>Discourse New User Guide</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Questions you have, or that others have?</p>
+<p>Can you post your version here, along with questions (and answers as appropriate)?</p>
+          <p><a href="https://forum.openglobalmind.com/t/discourse-new-user-guide/312/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/discourse-new-user-guide/312/3</link>
+        <pubDate>Sat, 31 Oct 2020 17:51:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-312-3</guid>
+        <source url="https://forum.openglobalmind.com/t/discourse-new-user-guide/312.rss">Discourse New User Guide</source>
+      </item>
+      <item>
+        <title>Discourse New User Guide</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>I downloaded this and am using Seamonkey to edit the webpage. Changes now are copy-edits around usage and some style nits of my own.</p>
+<p>It is self-referential and amusing reading the definitions of “topic” and “category”, definitions I am sure the connected OGM world has opinions on.</p>
+<p>I am thinking that posting any questions that come up regarding specific OGM discourse here is a reasonable approach?</p>
+          <p><a href="https://forum.openglobalmind.com/t/discourse-new-user-guide/312/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/discourse-new-user-guide/312/2</link>
+        <pubDate>Sat, 31 Oct 2020 17:38:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-312-2</guid>
+        <source url="https://forum.openglobalmind.com/t/discourse-new-user-guide/312.rss">Discourse New User Guide</source>
+      </item>
+      <item>
+        <title>Discourse New User Guide</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>OGM Forum doesn’t have its own copy of this post yet, so for now, please visit:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/1b0984d7ee08bce90572f46a1950e1ced436d028.png" class="site-icon" width="32" height="32">
+      <a href="https://meta.discourse.org/t/discourse-new-user-guide/96331" target="_blank" rel="noopener" title="03:50AM - 26 October 2020">Discourse Meta – 26 Oct 20</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/108;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/69daa023d14f06eea59e7b31da8096a3f8b7cdd8_2_690x108.png" class="thumbnail" width="690" height="108" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/69daa023d14f06eea59e7b31da8096a3f8b7cdd8_2_690x108.png, https://forum.openglobalmind.com/uploads/default/original/1X/69daa023d14f06eea59e7b31da8096a3f8b7cdd8.png 1.5x, https://forum.openglobalmind.com/uploads/default/original/1X/69daa023d14f06eea59e7b31da8096a3f8b7cdd8.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/69daa023d14f06eea59e7b31da8096a3f8b7cdd8_2_10x10.png"></div>
+
+<h3><a href="https://meta.discourse.org/t/discourse-new-user-guide/96331" target="_blank" rel="noopener">Discourse New User Guide</a></h3>
+
+<p>Welcome! As a new user of Discourse, we hope you will find this site intuitive and clearly structured, but here is some guidance to get you started:  Basic Terms Used by Discourse (Nomenclature) Here are some very basic terms that will be helpful to...</p>
+
+  <p><span class="label1">Reading time: 16 mins 🕑</span>
+    <span class="label2">Likes: 130 ❤</span></p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>If you are able to port over that post (use the link at the bottom, and you’ll need to copy over or recreate all the images), please feel free to do so, and adapt to OGM Forum as appropriate.  Thanks!</p>
+          <p><a href="https://forum.openglobalmind.com/t/discourse-new-user-guide/312/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/discourse-new-user-guide/312/1</link>
+        <pubDate>Fri, 30 Oct 2020 13:56:22 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-312-1</guid>
+        <source url="https://forum.openglobalmind.com/t/discourse-new-user-guide/312.rss">Discourse New User Guide</source>
+      </item>
+  </channel>
+</rss>

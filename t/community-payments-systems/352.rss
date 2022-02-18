@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Community Payments Systems</title>
+    <link>https://forum.openglobalmind.com/t/community-payments-systems/352</link>
+    <description>Checking in on how to do community payments in the year of 2020. (I can&#39;t believe this is still not yet a big successful thing, but whatever.)
+
+## LETS, Time Banks
+
+LETS ([local exchange trading system](https://en.wikipedia.org/wiki/Local_exchange_trading_system)), particularly the open source ones (openLETS, SimpleLETS, WebLETS, LETS Connector), seem to have basically withered and died. (SimpleLETS  *is*  under active dev, but it&#39;s alpha.)
+
+Time banks may be a little less obsolete.
+
+Also see: [LETS Software](https://www.letsf.org.uk/resources/links/lets-software/), Circular Multilateral Barter, [Complementary Currency Software](https://wiki.p2pfoundation.net/Complementary_Currency_Software), [Timebanking Software Platforms](https://wiki.p2pfoundation.net/Timebanking_Software_Platforms).
+
+## RipplePay
+
+RipplePay, now RumplePay, has always been interesting, and Ryan Fugger is still running the RumplePay server, although in his announcement of the name change on 2020-08-26, he writes, &quot;So I&#39;ve changed the name to Rumplepay. I hope that feels familiar enough, and also communicates the benign neglect that the site has seen since, oh, about 2008...&quot;
+
+He also notes that [Villages IO](https://villages.io/) is running a Rumple-ish site (although its for a locality).
+
+Separately, this: &quot;[idea: Rumple](https://fiatjaf.alhur.es/rumple.html)&quot;, which is sort of a mashup of RumplePay and Lightning, looks really interesting, but it&#39;s currently just an idea.
+
+## Crypto
+
+Maybe a community altcoin?
+
+After just a short bit of reflection, I think the way to do this is not with an altcoin, but to issue a community-based ERC-20 token. A few initial funders could back the token by buying most or all of the initial minting with fiat.
+
+There are token creation services now:
+
+* [CoinMechanic](https://coinmechanic.io/)
+* [TokenMint](https://tokenmint.io/)
+
+Or DYI, [How to Create an ERC20 Token the Simple Way](https://www.toptal.com/ethereum/create-erc20-token-tutorial).
+
+And now there is [Uniswap](https://uniswap.org/), a decentralized protocol for automated liquidity provision on Ethereum, in case you want to exchange your tokens for something more liquid.
+
+An ERC-20 token might work well, but would still have the huge disadvantage that users would have to use and maintain a compatible wallet.
+
+Also see: [ERC20 token generator comparison](https://crypt0trad3r46.medium.com/erc20-token-generator-comparison-5d5e2d24ca49), [State of the DApps — Tokenization](https://www.stateofthedapps.com/dapps?tags=tokenization).
+
+## Conclusion
+
+Pickings are still pretty slim. An ERC-20 token would be a lot of fun, but a hassle for anybody who doesn&#39;t want to wrangle a wallet and all the short- and long-term issues associated with it.</description>
+    
+    <lastBuildDate>Sat, 04 Dec 2021 16:07:44 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/community-payments-systems/352.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Community Payments Systems</title>
+        <dc:creator><![CDATA[bep20generator]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="peterkaminski" data-post="1" data-topic="352">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/peterkaminski/40/3_2.png" class="avatar"> peterkaminski:</div>
+<blockquote>
+<p>There are token creation services</p>
+</blockquote>
+</aside>
+<p>this is good BEP20  token creation service<br>
+<a href="https://lgctoken.com" rel="nofollow noopener">lgctoken</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/community-payments-systems/352/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/community-payments-systems/352/3</link>
+        <pubDate>Sat, 04 Dec 2021 16:07:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-352-3</guid>
+        <source url="https://forum.openglobalmind.com/t/community-payments-systems/352.rss">Community Payments Systems</source>
+      </item>
+      <item>
+        <title>Community Payments Systems</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/jerry">@Jerry</a> makes a link to Arthur Brock and <a href="https://www.artbrock.com/metacurrency/resources">Metacurrency</a>.</p>
+          <p><a href="https://forum.openglobalmind.com/t/community-payments-systems/352/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/community-payments-systems/352/2</link>
+        <pubDate>Tue, 29 Dec 2020 15:52:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-352-2</guid>
+        <source url="https://forum.openglobalmind.com/t/community-payments-systems/352.rss">Community Payments Systems</source>
+      </item>
+      <item>
+        <title>Community Payments Systems</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Checking in on how to do community payments in the year of 2020. (I can’t believe this is still not yet a big successful thing, but whatever.)</p>
+<h2>LETS, Time Banks</h2>
+<p>LETS (<a href="https://en.wikipedia.org/wiki/Local_exchange_trading_system">local exchange trading system</a>), particularly the open source ones (openLETS, SimpleLETS, WebLETS, LETS Connector), seem to have basically withered and died. (SimpleLETS  <em>is</em>  under active dev, but it’s alpha.)</p>
+<p>Time banks may be a little less obsolete.</p>
+<p>Also see: <a href="https://www.letsf.org.uk/resources/links/lets-software/">LETS Software</a>, Circular Multilateral Barter, <a href="https://wiki.p2pfoundation.net/Complementary_Currency_Software">Complementary Currency Software</a>, <a href="https://wiki.p2pfoundation.net/Timebanking_Software_Platforms">Timebanking Software Platforms</a>.</p>
+<h2>RipplePay</h2>
+<p>RipplePay, now RumplePay, has always been interesting, and Ryan Fugger is still running the RumplePay server, although in his announcement of the name change on 2020-08-26, he writes, “So I’ve changed the name to Rumplepay. I hope that feels familiar enough, and also communicates the benign neglect that the site has seen since, oh, about 2008…”</p>
+<p>He also notes that <a href="https://villages.io/">Villages IO</a> is running a Rumple-ish site (although its for a locality).</p>
+<p>Separately, this: “<a href="https://fiatjaf.alhur.es/rumple.html">idea: Rumple</a>”, which is sort of a mashup of RumplePay and Lightning, looks really interesting, but it’s currently just an idea.</p>
+<h2>Crypto</h2>
+<p>Maybe a community altcoin?</p>
+<p>After just a short bit of reflection, I think the way to do this is not with an altcoin, but to issue a community-based ERC-20 token. A few initial funders could back the token by buying most or all of the initial minting with fiat.</p>
+<p>There are token creation services now:</p>
+<ul>
+<li><a href="https://coinmechanic.io/">CoinMechanic</a></li>
+<li><a href="https://tokenmint.io/">TokenMint</a></li>
+</ul>
+<p>Or DYI, <a href="https://www.toptal.com/ethereum/create-erc20-token-tutorial">How to Create an ERC20 Token the Simple Way</a>.</p>
+<p>And now there is <a href="https://uniswap.org/">Uniswap</a>, a decentralized protocol for automated liquidity provision on Ethereum, in case you want to exchange your tokens for something more liquid.</p>
+<p>An ERC-20 token might work well, but would still have the huge disadvantage that users would have to use and maintain a compatible wallet.</p>
+<p>Also see: <a href="https://crypt0trad3r46.medium.com/erc20-token-generator-comparison-5d5e2d24ca49">ERC20 token generator comparison</a>, <a href="https://www.stateofthedapps.com/dapps?tags=tokenization">State of the DApps — Tokenization</a>.</p>
+<h2>Conclusion</h2>
+<p>Pickings are still pretty slim. An ERC-20 token would be a lot of fun, but a hassle for anybody who doesn’t want to wrangle a wallet and all the short- and long-term issues associated with it.</p>
+          <p><a href="https://forum.openglobalmind.com/t/community-payments-systems/352/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/community-payments-systems/352/1</link>
+        <pubDate>Sun, 08 Nov 2020 19:12:25 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-352-1</guid>
+        <source url="https://forum.openglobalmind.com/t/community-payments-systems/352.rss">Community Payments Systems</source>
+      </item>
+  </channel>
+</rss>

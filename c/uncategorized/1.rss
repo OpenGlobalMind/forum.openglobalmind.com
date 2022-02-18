@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:discourse="http://www.discourse.org/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Uncategorized - Open Global Mind Forum</title>
+    <link>https://forum.openglobalmind.com/c/uncategorized/1</link>
+    <description>Topics in the &#39;Uncategorized&#39; category </description>
+    
+      <lastBuildDate>Sat, 24 Jul 2021 21:05:02 +0000</lastBuildDate>
+      <atom:link href="https://forum.openglobalmind.com/c/uncategorized/1.rss" rel="self" type="application/rss+xml" />
+        <item>
+          <title>Article by Francois Chollet about AI, social media, and personal information assistants</title>
+          <dc:creator><![CDATA[davidk01]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>This <a href="https://medium.com/@francois.chollet/what-worries-me-about-ai-ed9df072b704" rel="nofollow noopener">article</a> might be useful to folks thinking about how to augment and enable better information consumption by using AI techniques. Francois explains how AI algorithms are currently used by social networks and then gives some guidance about how the same techniques can be used for personal information assistants.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/article-by-francois-chollet-about-ai-social-media-and-personal-information-assistants/650">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/article-by-francois-chollet-about-ai-social-media-and-personal-information-assistants/650</link>
+          <pubDate>Sat, 24 Jul 2021 21:05:02 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-650</guid>
+          <source url="https://forum.openglobalmind.com/t/article-by-francois-chollet-about-ai-social-media-and-personal-information-assistants/650.rss">Article by Francois Chollet about AI, social media, and personal information assistants</source>
+        </item>
+        <item>
+          <title>When Good Algorithms Go Sexist: Why and How to Advance AI Gender Equity</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <h2>Seven actions social change leaders and machine learning developers can take to build gender-smart artificial intelligence for a more just world.</h2>
+<p>"In 2019, Genevieve (co-author of this article) and her husband applied for the same credit card. Despite having a slightly better credit score and the same income, expenses, and debt as her husband, the credit card company set her credit limit at almost half the amount. This experience echoes one <a href="https://www.nytimes.com/2019/11/10/business/Apple-credit-card-investigation.html" rel="nofollow noopener">that made headlines</a> later that year: A husband and wife compared their Apple Card spending limits and found that the husband’s credit line was 20 times greater. Customer service employees were unable to explain why the algorithm deemed the wife significantly less creditworthy.</p>
+<p>Many institutions make decisions based on artificial intelligence (AI) systems using machine learning (ML), whereby a series of algorithms takes and learns from massive amounts of data to find patterns and make predictions. These systems inform how much credit financial institutions offer different customers, who the health care system prioritizes for COVID-19 vaccines, and which candidates companies call in for job interviews. Yet gender bias in these systems is pervasive and has profound impacts on women’s short- and long-term psychological, economic, and health security. It can also reinforce and amplify existing harmful gender stereotypes and prejudices.</p>
+<p>As we conclude Women’s History Month, social change leaders—including researchers and professionals with gender expertise—and ML systems developers alike need to ask: How can we build gender-smart AI to advance gender equity, rather than embed and scale gender bias?"</p>
+<p><a href="https://ssir.org/articles/entry/when_good_algorithms_go_sexist_why_and_how_to_advance_ai_gender_equity" class="onebox" target="_blank" rel="nofollow noopener">https://ssir.org/articles/entry/when_good_algorithms_go_sexist_why_and_how_to_advance_ai_gender_equity</a></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/when-good-algorithms-go-sexist-why-and-how-to-advance-ai-gender-equity/614">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/when-good-algorithms-go-sexist-why-and-how-to-advance-ai-gender-equity/614</link>
+          <pubDate>Fri, 02 Apr 2021 01:23:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-614</guid>
+          <source url="https://forum.openglobalmind.com/t/when-good-algorithms-go-sexist-why-and-how-to-advance-ai-gender-equity/614.rss">When Good Algorithms Go Sexist: Why and How to Advance AI Gender Equity</source>
+        </item>
+        <item>
+          <title>Proprioception: Our Imperceptible Sixth Sense</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Proprioception - where would your hands be without it?</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/0da9fea04034424db5c9c9e5fc6bd6b60e8b9b55.jpeg" class="site-icon" width="32" height="32">
+      <a href="https://neurosciencenews.com/proprioception-neuroscience-17839/" target="_blank" rel="nofollow noopener" title="08:10PM - 21 February 2021">Neuroscience News – 21 Feb 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:643/500;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/b7be2887c7ac62c7c47084ff32fe3915c741990d.jpeg" class="thumbnail" width="643" height="500" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/b7be2887c7ac62c7c47084ff32fe3915c741990d_2_10x10.png"></div>
+
+<h3><a href="https://neurosciencenews.com/proprioception-neuroscience-17839/" target="_blank" rel="nofollow noopener">Proprioception, Our Imperceptible 6th Sense - Neuroscience News</a></h3>
+
+<p>Proprioception allows us to determine the position, speed, and direction of each of our body parts, and enables our brains to guide our movements. Researchers explore what happens in the brain when proprioception is lost.</p>
+
+  <p><span class="label1">Est. reading time: 7 minutes</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/proprioception-our-imperceptible-sixth-sense/590">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/proprioception-our-imperceptible-sixth-sense/590</link>
+          <pubDate>Tue, 23 Feb 2021 17:19:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-590</guid>
+          <source url="https://forum.openglobalmind.com/t/proprioception-our-imperceptible-sixth-sense/590.rss">Proprioception: Our Imperceptible Sixth Sense</source>
+        </item>
+        <item>
+          <title>Song Paradies</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>WaPo was running a contest - here are some of the winners - my fave is Cosmetic Surgeon!</p>
+<p><strong>Jewish space laser wielder</strong>   Tune of “White Christmas”</p>
+<p>I’m aiming Jewish space lasers.<br>
+I make them bright and fast and hot.<br>
+I start work on Monday<br>
+And work through Sunday<br>
+(Though I don’t work on Shabbat).<br>
+I’m aiming Jewish space lasers.<br>
+I launch them from a trampoline.<br>
+When you see these words on your screen,<br>
+They’ll be coming from Ms. Taylor Greene.  <em>(Barbara Sarshik, McLean, Va.)</em></p>
+<p><strong>Winner of the Clowning Achievement:</strong></p>
+<p><strong>Cosmetic surgeon</strong></p>
+<p>(To "I Saw Her Standing There”)</p>
+<p>If you are past 39</p>
+<p>And your form’s in decline,</p>
+<p>Well, there may be parts that I can help repair,</p>
+<p>So how 'bout I tuck in your tummy, ooh!</p>
+<p>And lift your derriere?</p>
+<p>Well, people are vain</p>
+<p>But, hey, I can’t complain</p>
+<p>'Cause self-regard made me a millionaire</p>
+<p>There’s still time to look like Jane Fonda, ooh!</p>
+<p>When you’re on Medicare.</p>
+<p>Well, it may be crass but you’ll love your ass</p>
+<p>And your face without a line!</p>
+<p>Oh your skin may shine at night</p>
+<p>And it may feel kinda tight,</p>
+<p>And when you laugh, your mouth may feel real sore.</p>
+<p>But you’ll never look like your mother, ooh,</p>
+<p>Once you come in through my door. (Bob Kruger, Rockville, Md.)</p>
+<p><strong>A Policeman’s Lot is not a Happy One</strong></p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="U1dzE1-1Urg" data-youtube-title="A Policeman's Lot is Not a Happy One (Capitol Police Edition)" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=U1dzE1-1Urg" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/7e1604527e81b94b36667bde4023c4f53b929907.jpeg" title="A Policeman's Lot is Not a Happy One (Capitol Police Edition)" width="690" height="388">
+  </a>
+</div>
+
+<p><strong>The Librarian’s Lament, or The Cartful Drudger  <em>(To “Consider Yourself”)</em></strong><br>
+<em>Written and sung by children’s librarian Sarah Walsh, Rockville, Md.</em></p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="i2J7AUz6DVw" data-youtube-title="&quot;The Cart-ful Drudger&quot;" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=i2J7AUz6DVw" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/d9d87d00d3fa0f75603a22014004b8d0d5382c1b.jpeg" title="&quot;The Cart-ful Drudger&quot;" width="690" height="388">
+  </a>
+</div>
+
+<p><strong>Orchestral violinist</strong>  <em><strong>(To “Sixteen Tons”)</strong></em><br>
+(By Jonathan Jensen, performed by Jonathan, a Baltimore Symphony Orchestra bassist; and BSO violinist Ellen Pendleton Troyer)</p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="eFJBfbjeiis" data-youtube-title="16th Notes (Sixteen Tons)" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=eFJBfbjeiis" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/e582c46867dcc5368e19bd3d9d51892bb8403848.jpeg" title="16th Notes (Sixteen Tons)" width="690" height="388">
+  </a>
+</div>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/song-paradies/586">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/song-paradies/586</link>
+          <pubDate>Sat, 20 Feb 2021 20:00:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-586</guid>
+          <source url="https://forum.openglobalmind.com/t/song-paradies/586.rss">Song Paradies</source>
+        </item>
+        <item>
+          <title>Silicon Valley&#39;s Safe Space</title>
+          <dc:creator><![CDATA[anderbill]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Silicon Valley’s Safe Space: this article from yesterday’s NYTimes seems related to several OGM threads (themes? conversations? …) on how to have conversations about topics that raise temperatures. It also is my first intro to “the Rationalists” (although I met some “Objectivists” in a NYC software scene 20 years ago):</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/d25cbbffefa5594bcaee6d469cda5e5ae55b67d6.png" class="site-icon" width="48" height="48">
+      <a href="https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html" target="_blank" rel="noopener" title="10:00AM - 13 February 2021">nytimes.com – 13 Feb 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/460;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/ca3e238f196071890cd138a814e05eb32507b731.jpeg" class="thumbnail" width="690" height="460" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/ca3e238f196071890cd138a814e05eb32507b731_2_10x10.png"></div>
+
+<h3><a href="https://www.nytimes.com/2021/02/13/technology/slate-star-codex-rationalists.html" target="_blank" rel="noopener">Silicon Valley’s Safe Space</a></h3>
+
+<p>Slate Star Codex was a window into the psyche of many tech leaders building our collective future. Then it disappeared.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>This seems related to “Two Perspectives on Dialog” from <a class="mention" href="/u/scottmoehring">@scottmoehring</a> and “Facing the age of chaos” from <a class="mention" href="/u/kenhomer">@kenhomer</a>.</p>
+<p>(And once I figure out how to link to the actual topics, I will update this.)</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/silicon-valleys-safe-space/582">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/silicon-valleys-safe-space/582</link>
+          <pubDate>Sun, 14 Feb 2021 20:07:32 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-582</guid>
+          <source url="https://forum.openglobalmind.com/t/silicon-valleys-safe-space/582.rss">Silicon Valley&#39;s Safe Space</source>
+        </item>
+        <item>
+          <title>Fascinating look at role tectonic plates played in the evolution of life in Earth</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Plus a very cool visualization of the past 1B years of plate movements</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/a7cba1163c7ffe83bf509387f8f83855456d57f5.png" class="site-icon" width="22" height="22">
+      <a href="https://cosmosmagazine.com/earth/earth-sciences/tectonic-timelapse/" target="_blank" rel="nofollow noopener" title="05:08AM - 04 February 2021">Cosmos Magazine – 4 Feb 21</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/108fcada000dc0eb125a6e6183645f92c4951631.jpeg" class="thumbnail" width="690" height="388" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/108fcada000dc0eb125a6e6183645f92c4951631_2_10x10.png"></div>
+
+<h3><a href="https://cosmosmagazine.com/earth/earth-sciences/tectonic-timelapse/" target="_blank" rel="nofollow noopener">Tectonic timelapse</a></h3>
+
+<p>This just in: one billion years of Earth's history in 40 seconds.</p>
+
+  <p><span class="label1">Est. reading time: 8 minutes</span>
+    </p>
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/fascinating-look-at-role-tectonic-plates-played-in-the-evolution-of-life-in-earth/576">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/fascinating-look-at-role-tectonic-plates-played-in-the-evolution-of-life-in-earth/576</link>
+          <pubDate>Tue, 09 Feb 2021 03:04:13 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-576</guid>
+          <source url="https://forum.openglobalmind.com/t/fascinating-look-at-role-tectonic-plates-played-in-the-evolution-of-life-in-earth/576.rss">Fascinating look at role tectonic plates played in the evolution of life in Earth</source>
+        </item>
+        <item>
+          <title>Facing the Age of Chaos</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Excellent post on why VUCA is necessary and insufficient to the challenges we face and how BANI - Brittle, Anxious, Nonlinear, and Incomprehensible need to enter our lexicon.</p>
+<blockquote>
+<p><a href="https://medium.com/@cascio/facing-the-age-of-chaos-b00687b1f51d" rel="nofollow noopener">https://medium.com/@cascio/facing-the-age-of-chaos-b00687b1f51d</a></p>
+</blockquote>
+<p>Excerpt:</p>
+<blockquote>
+<p>The concept of VUCA is clear, evocative, and increasingly obsolete. We have become so thoroughly surrounded by a world of VUCA that it seems less a way to distinguish important differences than simply a depiction of our default condition. Using “VUCA” to describe reality provides diminishing insight; declaring a situation or a system to be volatile or ambiguous tells us nothing new. To borrow a concept from chemistry, there has been a  <em>phase change</em>  in the nature of our social (and political, and cultural, and technological) reality — we’re no longer happily bubbling along, the boiling has begun.</p>
+<p>With a new paradigm we need a new language. If we set VUCA aside as insufficient, we still need a framework that makes sense of not just the present world but its ongoing consequences as well. Such a framing would allow us to illustrate the scale of the disruptions, the  <em>chaos</em> , underway, and enable consideration of what kinds of responses would be useful. Ideally, it would serve as a platform to explore new forms of adaptive strategies. Scenarios, models, and transparency are useful handles on a VUCA world; what might be the tools that would let us understand chaos?</p>
+<p>As a way of getting at that question, consider  <strong>BANI</strong> .</p>
+<p>An intentional parallel to VUCA, BANI —  <em>Brittle, Anxious, Nonlinear,</em>  and  <em>Incomprehensible</em>  — is a framework to articulate the increasingly commonplace situations in which simple volatility or complexity are insufficient lenses through which to understand what’s taking place. Situations in which conditions aren’t simply unstable, they’re chaotic. In which outcomes aren’t simply hard to foresee, they’re completely unpredictable. Or, to use the particular language of these frameworks, situations where what happens isn’t simply  <em>ambiguous</em> , it’s  <em>incomprehensible</em> .</p>
+<p>BANI is a way to better frame, and respond to, the current state of the world. Some of the changes we see happening to our politics, our environment, our society, and our technologies are familiar — stressful in their own way, perhaps, but of a kind that we’ve seen and dealt with before. But so many of the upheavals now underway are not familiar, they’re surprising and completely disorienting. They manifest in ways that don’t just add to the stress we experience, they  <em>multiply</em>  that stress.</p>
+</blockquote>
+            <p><small>3 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/facing-the-age-of-chaos/565">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/facing-the-age-of-chaos/565</link>
+          <pubDate>Wed, 03 Feb 2021 18:53:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-565</guid>
+          <source url="https://forum.openglobalmind.com/t/facing-the-age-of-chaos/565.rss">Facing the Age of Chaos</source>
+        </item>
+        <item>
+          <title>Best explanation for why you should get vaccinated against Covid that I&#39;ve yet to see</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Two naturalpathic doctors make the case for why it makes sense to get the vaccine:</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://www.drchristianson.com/wp-content/uploads/2020/11/favicon.ico" class="site-icon" width="48" height="48">
+      <a href="https://www.drchristianson.com/the-covid-choice/" target="_blank" rel="nofollow noopener" title="01:16AM - 22 December 2020">Dr. Alan Christianson – 22 Dec 20</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:333/500;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/765bbf2850e2e78d31900c6aee37b84187acb8aa_2_333x500.jpeg" class="thumbnail" width="333" height="500" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/765bbf2850e2e78d31900c6aee37b84187acb8aa_2_333x500.jpeg, https://forum.openglobalmind.com/uploads/default/optimized/1X/765bbf2850e2e78d31900c6aee37b84187acb8aa_2_499x750.jpeg 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/765bbf2850e2e78d31900c6aee37b84187acb8aa_2_666x1000.jpeg 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/765bbf2850e2e78d31900c6aee37b84187acb8aa_2_10x10.png"></div>
+
+<h3><a href="https://www.drchristianson.com/the-covid-choice/" target="_blank" rel="nofollow noopener">The COVID Choice | Dr. Alan Christianson</a></h3>
+
+<p>Recent surveys have shed light on attitudes in the United States toward COVID-19 vaccines. American adults were asked by pollsters</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/best-explanation-for-why-you-should-get-vaccinated-against-covid-that-ive-yet-to-see/546">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/best-explanation-for-why-you-should-get-vaccinated-against-covid-that-ive-yet-to-see/546</link>
+          <pubDate>Mon, 18 Jan 2021 00:15:38 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-546</guid>
+          <source url="https://forum.openglobalmind.com/t/best-explanation-for-why-you-should-get-vaccinated-against-covid-that-ive-yet-to-see/546.rss">Best explanation for why you should get vaccinated against Covid that I&#39;ve yet to see</source>
+        </item>
+        <item>
+          <title>Have the New Jab - music video</title>
+          <dc:creator><![CDATA[kenhomer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Sweet, funny, and cute with a good message!</p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="ZnbOKH9Oe9s" data-youtube-title="&quot;Have The New Jab&quot; - &quot;Hallelujah&quot; adapted by the Marsh Family" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=ZnbOKH9Oe9s" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/f60724a8f61804ad7ed1c8135494d39b857b61ba.jpeg" title="&quot;Have The New Jab&quot; - &quot;Hallelujah&quot; adapted by the Marsh Family" width="690" height="388">
+  </a>
+</div>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/have-the-new-jab-music-video/545">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/have-the-new-jab-music-video/545</link>
+          <pubDate>Mon, 18 Jan 2021 00:13:44 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-545</guid>
+          <source url="https://forum.openglobalmind.com/t/have-the-new-jab-music-video/545.rss">Have the New Jab - music video</source>
+        </item>
+        <item>
+          <title>Two perspectives on dialogue</title>
+          <dc:creator><![CDATA[scottmoehring]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>We have healing to do. We can stand at the opening and say it’s a cave, it’s pointless, and entering it will only lead to a dead end. Or, we can see it as a tunnel, and understand the only way out is by stepping into the darkness and walking through together.</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/8c264661c2bf7f35d481b2b838881f068299d258.png" data-download-href="https://forum.openglobalmind.com/uploads/default/8c264661c2bf7f35d481b2b838881f068299d258" title="2020-01-07_The way out is through"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/8c264661c2bf7f35d481b2b838881f068299d258_2_690x411.png" alt="2020-01-07_The way out is through" data-base62-sha1="jZOQFywp6B9izkJPPyfrTpMYA2c" width="690" height="411" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/8c264661c2bf7f35d481b2b838881f068299d258_2_690x411.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/8c264661c2bf7f35d481b2b838881f068299d258_2_1035x616.png 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/8c264661c2bf7f35d481b2b838881f068299d258_2_1380x822.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/8c264661c2bf7f35d481b2b838881f068299d258_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">2020-01-07_The way out is through</span><span class="informations">1920×1144 183 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/two-perspectives-on-dialogue/526">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/two-perspectives-on-dialogue/526</link>
+          <pubDate>Thu, 07 Jan 2021 18:49:12 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-526</guid>
+          <source url="https://forum.openglobalmind.com/t/two-perspectives-on-dialogue/526.rss">Two perspectives on dialogue</source>
+        </item>
+        <item>
+          <title>the great wave playbook — ‘beautiful business’</title>
+          <dc:creator><![CDATA[lovolution]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>perhaps interesting for some here<br>
+i’ve not been through all of it<br>
+i know some people involved<br>
+the language is intriguing … predicated on the notion of “beautiful business”<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/1727410bdd20ec8ebb7145eb873e4e960d6016f7.jpeg" class="site-icon" width="32" height="32">
+      <a href="https://houseofbeautifulbusiness.com/the-great-wave-playbook" target="_blank" rel="nofollow noopener">House of Beautiful Business</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/388;"><img src="https://forum.openglobalmind.com/uploads/default/original/1X/02f367937c67fc1443ff84cfd1cfcf9c935ab9fa.jpeg" class="thumbnail" width="690" height="388" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/02f367937c67fc1443ff84cfd1cfcf9c935ab9fa_2_10x10.png"></div>
+
+<h3><a href="https://houseofbeautifulbusiness.com/the-great-wave-playbook" target="_blank" rel="nofollow noopener">The Great Wave Playbook |  House of Beautiful Business</a></h3>
+
+<p>A playbook for beautiful business when everything is in flux</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/the-great-wave-playbook-beautiful-business/477">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/the-great-wave-playbook-beautiful-business/477</link>
+          <pubDate>Fri, 11 Dec 2020 12:51:31 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-477</guid>
+          <source url="https://forum.openglobalmind.com/t/the-great-wave-playbook-beautiful-business/477.rss">the great wave playbook — ‘beautiful business’</source>
+        </item>
+        <item>
+          <title>Some Englebart links</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Continuing the discussion from <a href="https://forum.openglobalmind.com/t/the-future-of-text-a-2020-vision-book-launched/411/10">“The Future of Text – A 2020 Vision” book launched</a>:</p>
+<p>These came up in a 9 December call Frode Hegland hosted.</p>
+<p><a href="https://www.dougengelbart.org/content/view/192/165/" class="onebox" target="_blank" rel="nofollow noopener">https://www.dougengelbart.org/content/view/192/165/</a><br>
+<a href="https://www.dougengelbart.org/content/view/384/000/" class="onebox" target="_blank" rel="nofollow noopener">https://www.dougengelbart.org/content/view/384/000/</a><br>
+<a href="https://www.dougengelbart.org/content/view/348/" class="onebox" target="_blank" rel="nofollow noopener">https://www.dougengelbart.org/content/view/348/</a><br>
+<a href="https://www.dougengelbart.org/content/view/148/000/" class="onebox" target="_blank" rel="nofollow noopener">https://www.dougengelbart.org/content/view/148/000/</a></p>
+<p>Although his explicit focus was on “tools”, I wonder if people here might want to talk about the “human” side, and about the “tools+human” interaction.</p>
+            <p><small>12 posts - 4 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/some-englebart-links/475">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/some-englebart-links/475</link>
+          <pubDate>Wed, 09 Dec 2020 22:25:50 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-475</guid>
+          <source url="https://forum.openglobalmind.com/t/some-englebart-links/475.rss">Some Englebart links</source>
+        </item>
+        <item>
+          <title>&quot;The Colors of CoViD&quot; video - free</title>
+          <dc:creator><![CDATA[GlennMII]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>It’s only 13:25 minutes and contains very important information about fighting off SARS2 and preventing CoViD-19, especially for Black people, by Dr. Pearl Grimes and a host of other experts, plus Tyler Perry and other activists. Please watch!</p>
+<p>Hint: it’s about nutrition.<br>
+<a href="https://youtu.be/JpE4uN2ntvo" rel="nofollow noopener">The Colors of CoViD</a><br>
+If this isn’t the best place for this, please someone move it for me.</p>
+<p><span class="hashtag">#vitamind</span> <span class="hashtag">#zinc</span> <span class="hashtag">#vitaminc</span> <a class="hashtag" href="https://forum.openglobalmind.com/tag/health">#<span>health</span></a> <a class="hashtag" href="https://forum.openglobalmind.com/tag/blackhealth">#<span>blackhealth</span></a> <span class="hashtag">#covid19</span> <span class="hashtag">#sars2</span> <a class="hashtag" href="https://forum.openglobalmind.com/tag/nutrition">#<span>nutrition</span></a></p>
+            <p><small>3 posts - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/the-colors-of-covid-video-free/458">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/the-colors-of-covid-video-free/458</link>
+          <pubDate>Fri, 04 Dec 2020 04:51:39 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>Yes</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-458</guid>
+          <source url="https://forum.openglobalmind.com/t/the-colors-of-covid-video-free/458.rss">&quot;The Colors of CoViD&quot; video - free</source>
+        </item>
+        <item>
+          <title>Meta-discussions</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Just wondering whether, after the discussion of <a href="https://forum.openglobalmind.com/t/meta-meta-discussions/406">Meta-meta discussions</a> we might start to move in the direction of concrete discussions!</p>
+<p>That said, as I pointed out somewhere on the mailing list, “discussion” is etymologically related to taking things apart: <a href="https://en.wiktionary.org/wiki/discutio#Latin" rel="nofollow noopener">https://en.wiktionary.org/wiki/discutio#Latin</a></p>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/meta-discussions/451">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/meta-discussions/451</link>
+          <pubDate>Wed, 02 Dec 2020 23:20:32 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-451</guid>
+          <source url="https://forum.openglobalmind.com/t/meta-discussions/451.rss">Meta-discussions</source>
+        </item>
+        <item>
+          <title>Request for blogging suggestions on alternatives to LinkedIn, Blogger, Wordpress &amp; Steemit</title>
+          <dc:creator><![CDATA[GlennMII]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>I started on WP and found it frustrating, especially because if I formatted my text in Word, I’d lose it all in WP’s editor.</p>
+<p>I then went to Blogger which seemed better but I then moved to the “cyber-monetized” platform Steemit, which has no editor features other than a preview, but allows for the use of some HTML and MDL. Sometimes, however, those don’t work as expected. Just writing tutorials about them as I learned was a lesson in how goinky the system was. But, short of becoming part of a voting bloc, which voted up anyone in the group - no matter how bad their content - I could never get a following and have barely earned anything in the past 4 years. On the rare occasion when an essay of mine earned some money, it seemed as much random luck plus the keywords I chose, but there is no guidance whatsoever for those, no organizational system, no ranking, nada. And, now, the exchange value has tanked on Steem. Finally, trying to find my articles in a search engine was like the proverbial needle in a haystack.</p>
+<p>I briefly tried publishing on LinkedIn which, at least, made it easier to gather an audience, but I found the editor clumsy to the point of frustration.</p>
+<p>I’m looking for some way to get my blog out so that it’s easy to make sure it gets an audience, the editor is robust and can accept pre-formatted text, the tagging system is helpful to make sure the right audience sees things and search engines don’t ignore it, and so on. I don’t know if such a beastie exists, or if I’d have to get my own website and use and on- or offline editor, so I’m hoping all you technophiles can advise me.</p>
+<p>Thanks!</p>
+            <p><small>9 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/request-for-blogging-suggestions-on-alternatives-to-linkedin-blogger-wordpress-steemit/434">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/request-for-blogging-suggestions-on-alternatives-to-linkedin-blogger-wordpress-steemit/434</link>
+          <pubDate>Thu, 26 Nov 2020 15:16:29 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-434</guid>
+          <source url="https://forum.openglobalmind.com/t/request-for-blogging-suggestions-on-alternatives-to-linkedin-blogger-wordpress-steemit/434.rss">Request for blogging suggestions on alternatives to LinkedIn, Blogger, Wordpress &amp; Steemit</source>
+        </item>
+        <item>
+          <title>Collective intelligence for survival</title>
+          <dc:creator><![CDATA[Kevindoylejones]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>The new Messenger RNA vaccines are a major step forward in responding to viruses; they use the body’s own machinery, the RNA that carries messages, to teach a cell to make a protein that’s like the virus and start the body’s immune response. It’s much faster and with the prospect of more pandemics pretty clear means we can react faster, collectively than we could before.</p>
+<p>It still won’t teach a rugged individualist redneck anti vaxer to take it, but it’s better for the rest of us, who wear masks for our collective and individual survival. This pandemic is causing a Darwinian shift in adaptability. Rugged individualism kills you, interdepence enables our collective survival.</p>
+            <p><small>4 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/collective-intelligence-for-survival/422">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/collective-intelligence-for-survival/422</link>
+          <pubDate>Sun, 22 Nov 2020 13:05:27 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-422</guid>
+          <source url="https://forum.openglobalmind.com/t/collective-intelligence-for-survival/422.rss">Collective intelligence for survival</source>
+        </item>
+        <item>
+          <title>Hypothes.is integration with other things</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Continuing the discussion from <a href="https://forum.openglobalmind.com/t/be-a-beat-reporter-for-ogm-forum/350/14">Be a "beat reporter" for OGM Forum</a>:</p>
+<p>I think Hypothesis is really cool, but I wonder how it might be better integrated with other tools? E.g., the “cards” that one produces when annotating something (e.g., <a href="https://hyp.is/go?url=https%3A%2F%2Fwww.arxiv-vanity.com%2Fpapers%2F2001.05046%2F&amp;group=__world__" rel="nofollow noopener">here</a>) could be fed into Miro, or into a visual outlining tool like Scrivener (… though I don’t have a Mac so I don’t use that one!).</p>
+<hr>
+<p>Oh, since this is showing up inside the <a href="https://forum.openglobalmind.com/c/ogm-marketplace/30">OGM Marketplace section</a> of the site — well, at least it does on the front page — maybe it would be interesting to turn this feature request into an explicit ‘tender’.  Right now it’s too vague, but maybe it’s possible to spec it out a bit further and identify a “Sponsor” who’d want to put some money behind it!</p>
+            <p><small>2 posts - 2 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/hypothes-is-integration-with-other-things/412">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/hypothes-is-integration-with-other-things/412</link>
+          <pubDate>Sun, 22 Nov 2020 10:56:57 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-412</guid>
+          <source url="https://forum.openglobalmind.com/t/hypothes-is-integration-with-other-things/412.rss">Hypothes.is integration with other things</source>
+        </item>
+        <item>
+          <title>“The Future of Text – A 2020 Vision” book launched</title>
+          <dc:creator><![CDATA[skreutzer]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>OK, as others didn’t report on the event, I guess I should: Frode Hegland launched “The Future of Text – A 2020 Vision” anthology this week. There’s a <a href="https://www.amazon.com/Future-Text-2020-Vision/dp/B08N5PRDB2" rel="nofollow noopener">print-on-demand softcover available on Amazon</a>, otherwise also PDF and e-book for <a href="https://futuretextpublishing.com/future-of-text-2020-download/" rel="nofollow noopener">download here</a>. Two clip recordings of the launch call were published already: <a href="https://www.youtube.com/embed/5B5Ov5oGByw" rel="nofollow noopener">opening remarks</a> and <a href="https://www.youtube.com/embed/qad_wI1KZ8M" rel="nofollow noopener">closing discussion</a> (in between might have been breakout groups).</p>
+<p><a class="mention" href="/u/holtzermann17">@holtzermann17</a>, <a class="mention" href="/u/gyuri">@Gyuri</a>, <a class="mention" href="/u/maparent">@maparent</a>, <a class="mention" href="/u/jackpark">@jackpark</a> and <a class="mention" href="/u/davidprice">@DavidPrice</a> are in it. Full disclosure: I contributed a piece too. Didn’t came out quite the way I hoped, but still, might do for a start. Myself without financial interest/benefit/gain, guess the softcover is more or less roughly at-cost anyway.</p>
+            <p><small>10 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/the-future-of-text-a-2020-vision-book-launched/411">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/the-future-of-text-a-2020-vision-book-launched/411</link>
+          <pubDate>Sat, 21 Nov 2020 21:19:14 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-411</guid>
+          <source url="https://forum.openglobalmind.com/t/the-future-of-text-a-2020-vision-book-launched/411.rss">“The Future of Text – A 2020 Vision” book launched</source>
+        </item>
+        <item>
+          <title>Meta-meta discussions</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Hi <a class="mention" href="/u/peterkaminski">@peterkaminski</a></p>
+<p>Discourse seems quite nice in one particular way: it is soaking up less of my attention than the mailing list was.  However, I’m a bit surprised that it doesn’t seem to have much built in ability to do “meta-…” discussions.  Yes, we can HAVE them, but that’s not marked inside the system.</p>
+<p>Often a thread will get started and someone will come along and take it in a completely different direction.  On Wikipedia this kind of “directorial” intervention would go into a talk page (and if it gets stuck there, it will go into some sort of arbitration, etc.)</p>
+<p>It looks like there’s a built in way to do this but maybe people don’t know about it (I didn’t) so I’m going to press save to see if my hypothesis is correct…</p>
+            <p><small>2 posts - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/meta-meta-discussions/406">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/meta-meta-discussions/406</link>
+          <pubDate>Fri, 20 Nov 2020 23:40:26 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-406</guid>
+          <source url="https://forum.openglobalmind.com/t/meta-meta-discussions/406.rss">Meta-meta discussions</source>
+        </item>
+        <item>
+          <title>How to Game the System</title>
+          <dc:creator><![CDATA[GlennMII]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>For as far back in history as I’m aware of (not that I’m a historian), there are records of efforts to subvert voting, laws and governance. Efforts have included bribery; extortion; turning voters away; threats to employment, property, family, life and limb, and other forms of coercion; collusion; cronyism; nepotism; falsifying/altering ballots; revolving door voters, voting booth volunteers making completed ballots; voting for those who are mentally ineligible; voting for the deceased; and so on. Nowadays, there are even machines that will read ballots and add/change what’s on them. And governments are buying them so rejoice! You can mess up the mail-in ballots, the online ballots, the overseas ballots AND the in-person ballots, too! Hallelujah! It has become insanely easy! Huzzah!</p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="P71cvCRrZ9Y" data-youtube-title="Dominion Voting Machines have the ability to mark a Ballot" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=P71cvCRrZ9Y" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/75f5eab75040a11b34ece176f39941b051d544fb.jpeg" title="Dominion Voting Machines have the ability to mark a Ballot" width="480" height="360">
+  </a>
+</div>
+
+<p>Criminals and lobbyists alike love Congress. All that representative governance does is make it easier to fix a vote, since there are fewer people to manipulate/influence, and replace the sheeple with stooges for the decision-making process. Fix the vote, then write the bills (ala ALEC), let your stooges take credit for the bills, and then get your stooges to vote the bills into law. There are lots of dummies (i.e. people of low intelligence and/or high ignorance). I may well be a dummy, for all I know. It’s hard to tell who’s not since everything is obfuscated. Keep the populace under-educated and confused about what’s true and what isn’t, which is remarkably easy, while offering few choices that resemble anything better than a dead rat but looks like filet mignon, serves the people gaming the system quite well.</p>
+<p>Don’t like a law because it will inconvenience you? No problem! You can filibuster for as long as you want and, if you run out of steam, someone else can take your place. If that doesn’t work, you can put revisions into the law at the last minute that make it good for you and then force it through at the last minute (like the ACA), riddled with all kinds of corruption. And, hey, if it really gets hard for you, everyone on your team can simply REFUSE to consider something.  Even walk out! Being a lawmaker is such a drag, though, so don’t forget to watch stuff on your mobile phone or computer while you’re sitting there eating up taxpayer money! Your bill didn’t pass because the other party opposed it? Wait until your party dominates and reintroduce it under a different name.</p>
+<p>Tis, of course, important to select candidates to back who are more self-interested and, thus, prone to being bribed (cough Jack Abramoff et al, Nixon et al cough). People with mental conditions like megalomania, monomania, psychopathy (primary, not secondary aka sociopathy), narcissism, a touch of senility, and so on are all great candidates as they’re more likely to be corruptible if they aren’t already. Social chameleons (who may have borderline personality disorder, or they may just be good at adapting to whomever they are talking to) are one of the most effective choices, because they can mingle and be liked by just about anyone, changing with the wind coming out of someone’s mouth, but will still do your bidding because of the money you stuff in their pockets. Those with financial trouble, gambling, substance, health, marital, or other issues are also a bit weak at times, so be on the lookout for new stooges to bring into your control. Why choose a candidate who is morally upstanding when all you have to do is find someone who is corrupt but doesn’t have a record of crimes and obviously moral bankruptcy? Raise the person’s reputation up high, hush any scandals in his/her history - and it’s even easier for the person to be a shoo-in if s/he is attractive!</p>
+<p>The fact that capitalism allows the collection of wealth to a degree that eclipses those of past monarchies, without the obligatory things of royalty, and gives control over multiple nations without warfare (but that can be used, too) when combined with a democracy or republic, gives the public a feeling of freedom and opportunity while in a gilded cage. This is good for you because it means they think they’ve got it made instead of feeling like slaves in a machine, which means they’ll be more productive and, if you let them get away with lots of stuff, then you can achieve the goal of using capital to earn huge sums of money off their efforts. Heck, if someone invents something for you, you can claim the patent for yourself because you paid that person. It doesn’t matter if someone from the masses makes it big - they might be your next protege or crony!</p>
+<p>If a country (using whatever governance system) can reap the rewards of the labor and resources of unaffiliated countries without doing more than behind the scenes skullduggery, such as economic espionage, causing social unrest, and the occasional war, why isn’t that much easier than colonialism and overt empire-building?! They can use a skeleton crew, as it were, to obtain the same goals that took the Romans, the Mongols, the British, and numerous others millions of soldiers and lots of tools of war, plus lots of time, money and losses!</p>
+<p>Make sure you hold the power in an important sector, such as the military, industry or agriculture, and use that leverage to pressure people who are stubbornly ethical. Nothing like a starving, angry populous on the verge of an insurrection to get someone to capitulate!</p>
+<p>Having trouble keeping your own people happy/in line? Stuff religion down their throats and have the state-controlled clergy told what to say, just like happened for millennia between royals and clergy supporting divine right in many parts of the world. If, by chance, the populace discovers the fraud - don’t worry because you can change the government while leaving the inherited wealth in the hands of those deceitful royals, and even give them some political power and lauding them as wonderful people. The religious leaders will be forgiven, too, for is it not true that humans have short memories and tend not to want to think ill of their beloved spiritual leaders?</p>
+<p>Not enough? Add in an educational system that teaches just enough to produce lots of <em>employees</em> as opposed to <em>leaders</em> and <em>entrepreneurs</em> while instilling in them a sense of pride in their country (even if it is a somewhat pathetic and corrupt nation), without teaching them so much that they become able to realize they’re being manipulated and fleeced, and perhaps use charismatic people whom they revere and trust blindly.</p>
+<p>Even better, make sure that the media is always ready to provide diversionary news - good or bad, happy or sad - to distract from something important that you don’t want people to keep paying attention. If you have to kill someone, that’s ok as long as no one finds out!</p>
+<p>And, of course, make sure there’s lots of entertainment. Any sports should automatically be set up to create rivalries between the fans of teams - that helps keep people divided and ready to riot on the playing field, which gives the media something juicy to holler about! Get them to swoon and fantasize about gorgeous hunks and femmes to the point that they obsess, and if one stalks a famous person or kills them, that’s a great distraction for the news!</p>
+<p>Got too many people? Start a war with a stated noble cause (and a pocket-lining secret cause). Heck, play both sides against each other, selling to them both secretly. Don’t give loans unless you’re sure they’ll still be around to pay them back, though!</p>
+<p>Need to start  a war to gain control of something? Recruit from the poor in your country - it doesn’t even matter if they’re patriots. If it means they’ll get income and food, they’re easy targets. If you’re talking subversion/espionage of another country, look for dissidents in that population, or young, impressionable people to warp to your will. This is especially effective if they think it’ll help them replace the people they don’t like in office, and even more so if they are corrupt and willing to be a puppet leader for you (Mr. Marcos, The Shah, etc.).</p>
+<p>Did you get caught in a major corruption scandal? Not to worry - don’t rat out the higher-ups, just take the fall as the lone criminal who fooled everyone, deny anyone else did anything wrong, and sit in jail for a bit with your mouth shut. When you get out, you’ll end up being quite rich, Ollie. When the public finally finds out the truth, all the documents that weren’t shredded, which are safely locked away from prying eyes by claims of national security, will be released in, oh, 100 years after all of you and your co-conspirators are dead. Easy Peasy!</p>
+<p>In the US, if you get caught red-handed as the President, it’s even easier! Just resign before you can be impeached, and your replacement will pardon you! Better yet, you’ll still get your presidential pardon AND Secret Service protection (for life!). There is one down-side, though: you won’t be allowed to drive on public roads. But, you’re a bad boy, so do what you like!</p>
+<p>Do you feel like you never want to step down? Have the laws changed to make you leader for life (Hitler, Xin Ji Ping, Kim Il-sung, Stalin) or just refuse to step down with the military supporting you. CRUSH those peasants until they beg for the right to pay you extra taxes! Or, if better yet, be the human behind scenes, the puppeteer pulling all the strings, the maestro who holds all the keys and works from the shadows. Anonymity is much better than having assassin’s gunning for you as the figurehead.</p>
+<p>And, don’t forget, if you want to continue to maintain an air of acceptability, recite the mantra: “There’s a sucker born every minute!”</p>
+<p>So many other secrets to share with you, but I’m afraid this is just a teaser to get you to buy in. For only $1,000 in monthly installments for life, I will give you all the knowledge of how to rule the world. If you’d like to pay in advance, instead, just slide it under the table right now: $720,000 and you will get my <strong>Massive Book of Global Domination Secrets!</strong> What a deal!  Oh, don’t forget me when you’re the top dog! I’d hate to have to use my tricks on you, friend! <img src="https://forum.openglobalmind.com/images/emoji/apple/wink.png?v=9" title=":wink:" class="emoji" alt=":wink:"> After all, I keep dossiers on EVERYONE, and they’re quite safe from all of you. Nothing personal, you know - just life insurance, as it were!<br>
+Why, yes, I’d LOVE to join you on your yacht for dinner! I’m sure it’ll be a pleasure to meet your mistress while your spouse is away!</p>
+<p>ROFLMAO!</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/how-to-game-the-system/395">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/how-to-game-the-system/395</link>
+          <pubDate>Fri, 20 Nov 2020 04:21:49 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-395</guid>
+          <source url="https://forum.openglobalmind.com/t/how-to-game-the-system/395.rss">How to Game the System</source>
+        </item>
+        <item>
+          <title>Organizational infrastructures and affiliations Rolodex</title>
+          <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>Hi, could we make a little map of “Who’s Who” and where they are based?  This would be useful for figuring out possible team-ups around grants.</p>
+<p>E.g. my professional affiliation data would look like this:</p>
+<ol>
+<li>Joe Corneli (UK)</li>
+<li>Research Fellow, Ethical AI Institute, Oxford Brookes University</li>
+<li>Director, Hyperreal Enterprises Ltd</li>
+<li>Co-Director, <a href="http://PlanetMath.org" rel="nofollow noopener">PlanetMath.org</a> Ltd., 501© 3</li>
+<li>Editor, Peeragogy Project</li>
+</ol>
+<p>Briefly I’m interested in grants related to AI, CI, sensemaking, knowledge management, open source and such. Prior publications: <a href="http://metameso.org/~joe/publications.html" rel="nofollow noopener">http://metameso.org/~joe/publications.html</a></p>
+            <p><small>5 posts - 4 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/organizational-infrastructures-and-affiliations-rolodex/391">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/organizational-infrastructures-and-affiliations-rolodex/391</link>
+          <pubDate>Thu, 19 Nov 2020 08:22:43 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-391</guid>
+          <source url="https://forum.openglobalmind.com/t/organizational-infrastructures-and-affiliations-rolodex/391.rss">Organizational infrastructures and affiliations Rolodex</source>
+        </item>
+        <item>
+          <title>Questions about Collective Intelligence</title>
+          <dc:creator><![CDATA[GlennMII]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>On a level, I understand what it means. The Borg of <strong>Star Trek</strong> and the “insects” of <strong>Ender’s Game</strong> don’t have collective intelligence because they are a “hive-mind” rather than a collection of equals. I know there are numerous examples of aliens that communicate and share all knowledge mentally, but I can’t recall them now.</p>
+<p>Still, that doesn’t help me. So, if anyone can help, I’d appreciate it. Be prepared to give me examples. <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> I’ll start out with my questions and everyone else should feel free to add theirs.</p>
+<ul>
+<li>What is it?</li>
+<li>What activities foster its creation/dissemination?</li>
+<li>Are there any existing examples/systems?</li>
+<li>How does it differ from the following scenario:</li>
+</ul>
+<ol>
+<li>A presenter either raises a topic and briefly describes it, or has the group watch/read a story related to the topic.</li>
+<li>Participants take time afterward to think about it.</li>
+<li>Exercises to enhance comprehension from the level of seeing/hearing to doing may be done, especially if there is an emotional/social aspect to the topic.</li>
+<li>Instead of telling the participants what to think, the presenter asks them to each share their thoughts, perceptions and what they learned about the topic. This is critical in order to work towards a comprehensive understanding of the topic as well as presenting divergent viewpoints that may not have been anticipated by even the presenter, giving feedback for the presenter to improve both knowledge and future performances of the exercise. Further, in a heterogenous audience of participants, a much wider range of perspectives, informed by religion, culture, linguistics, EI and more, will be had.</li>
+</ol>
+<p>Thanks for helping me to understand!</p>
+            <p><small>8 posts - 3 participants</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/questions-about-collective-intelligence/367">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/questions-about-collective-intelligence/367</link>
+          <pubDate>Fri, 13 Nov 2020 16:58:34 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-367</guid>
+          <source url="https://forum.openglobalmind.com/t/questions-about-collective-intelligence/367.rss">Questions about Collective Intelligence</source>
+        </item>
+        <item>
+          <title>Doug&#39;s Gardenworld intro</title>
+          <dc:creator><![CDATA[dougTao]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>People do not like what they see and most are aware that the outcome might be disaster. But how do we direct our efforts without a vision beyond just seeing what is wrong or not working? A coherent vision must go beyond the “re” words of re-construction, re-novation, re-storation, all of which are conserving views, like “sustainability”, and not sufficient to get us through and onward. The earth obviously cannot take on an affluent life of consumption for all. More fundamental changes are necessary. But so far we are fighting ourselves. Just as it is clear we need fundamental change to avoid interdependent catastrophes, many are working to reinforce their current activity in order to remain viable a little bit longer. But this gets in the way of change. Moreover many are making plans for what they see as a post crisis opportunity to rebuild what was lost, but this too gets in the way of meaningful changes and delays, potentially lethal, the possibilities of a new social contract, a new constitutional order, a new civility, new community.</p>
+<p><em><strong>Keep the kids occupied with school, sex and</strong></em></p>
+<p><em><strong>video games, more babies, more workers and</strong></em></p>
+<p><em><strong>more consumers. The more people the more</strong></em></p>
+<p><em><strong>profit.</strong></em>  <em>(</em> standard business logic of the last 100 years)</p>
+<p>Are we going to keep the current systems (corporations, representative democracy, population increase) when it is clear they are producing serious failures?. Roberto Unger makes the strong case that most progressive thinking stops short of structural change: law, property, governance, laid out in his challenging beyond conventional book,  <em>The Knowledge Economy. See</em>  chapter 18, including the imperative of Structural Vision.</p>
+<p>We can imagine a better future that is organized around the way we solve the major problems: food, habitat, and meaning. Taking all three together is easier than one at a time. I call this approach Gardenworld.  <strong>It is not a plan but an intent to be worked out at every part of society</strong> . We need to manage the earth for human habitat and that requires , because our interdependencies are so strong, managing for the good of all species.</p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/dougs-gardenworld-intro/338">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/dougs-gardenworld-intro/338</link>
+          <pubDate>Sat, 07 Nov 2020 22:44:20 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-338</guid>
+          <source url="https://forum.openglobalmind.com/t/dougs-gardenworld-intro/338.rss">Doug&#39;s Gardenworld intro</source>
+        </item>
+        <item>
+          <title>Hashverse and Hashbins — Sandbox</title>
+          <dc:creator><![CDATA[lovolution]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p><a href="https://forum.openglobalmind.com/t/hashverse-hashbins-sandbox/314" class="inline-onebox">Hashverse &amp; Hashbins — Sandbox</a> please head over here <img src="https://forum.openglobalmind.com/images/emoji/apple/smiley.png?v=9" title=":smiley:" class="emoji" alt=":smiley:"></p>
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/hashverse-and-hashbins-sandbox/311">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/hashverse-and-hashbins-sandbox/311</link>
+          <pubDate>Fri, 30 Oct 2020 13:41:56 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-311</guid>
+          <source url="https://forum.openglobalmind.com/t/hashverse-and-hashbins-sandbox/311.rss">Hashverse and Hashbins — Sandbox</source>
+        </item>
+        <item>
+          <title>HoloLens and the method of Loci</title>
+          <dc:creator><![CDATA[davidk01]]></dc:creator>
+          <category>Uncategorized</category>
+          <description><![CDATA[
+            <p>This (<a href="https://iform.us/ssite/loci-hololens-app/" rel="nofollow noopener">https://iform.us/ssite/loci-hololens-app/</a>) came up when I was doing research on augmented reality tools for knowledge management. I’m curious to know if other people have been thinking about AR / VR and its relation to knowledge management and engineering.</p>
+<div class="onebox lazyYT lazyYT-container" data-youtube-id="_PvATogqGKk" data-youtube-title="Loci AR Mind Map Demo" data-parameters="feature=oembed&amp;wmode=opaque">
+  <a href="https://www.youtube.com/watch?v=_PvATogqGKk" target="_blank" rel="nofollow noopener">
+    <img class="ytp-thumbnail-image" src="https://forum.openglobalmind.com/uploads/default/original/1X/410ae688456ae658ad6c67cca863bb71354939f2.jpeg" title="Loci AR Mind Map Demo" width="690" height="388">
+  </a>
+</div>
+
+            <p><small>1 post - 1 participant</small></p>
+            <p><a href="https://forum.openglobalmind.com/t/hololens-and-the-method-of-loci/276">Read full topic</a></p>
+          ]]></description>
+          <link>https://forum.openglobalmind.com/t/hololens-and-the-method-of-loci/276</link>
+          <pubDate>Sun, 04 Oct 2020 02:34:46 +0000</pubDate>
+          <discourse:topicPinned>No</discourse:topicPinned>
+          <discourse:topicClosed>No</discourse:topicClosed>
+          <discourse:topicArchived>No</discourse:topicArchived>
+          <guid isPermaLink="false">forum.openglobalmind.com-topic-276</guid>
+          <source url="https://forum.openglobalmind.com/t/hololens-and-the-method-of-loci/276.rss">HoloLens and the method of Loci</source>
+        </item>
+  </channel>
+</rss>

@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Emergent Event Sensemaking</title>
+    <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567</link>
+    <description>A proto-guild is forming on mattermost around sensemaking of complicated emergent events, I think particularly where there are complex system dynamics and information overload:
+
+* [Emergent Event Sensemaking](https://chat.collectivesensecommons.org/agora/channels/emergent-event-sensemaking)
+
+We&#39;re focusing on the [GameStop short squeeze](https://forum.openglobalmind.com/t/r-wallstreetbets-vs-hedge-funds-gme/558) as a first exercise, but other examples might include 9/11, the 2008 mortage crash, Fukushima, COVID-19 responses, etc.
+
+Stephan Kreutzer first proposed this in the Off-Topic channel, and he describes the idea well:
+
+&quot;there could be a systemic and continual approach, to quickly condense the flood of information/feeds into approximating working models for overview/navigating.&quot;
+
+So far the tools we are considering include:
+
+* static 2D diagramming / flowcharts
+* interactive system dynamics modeling, with e.g. Insight Maker
+
+The efforts to guild-form may or may not go anywhere, we&#39;ll see.  Everybody has busy lives, and we may not actually get the spark of the idea off the ground; but, you&#39;re welcome to join in if it sounds interesting to see where it goes.</description>
+    
+    <lastBuildDate>Mon, 15 Mar 2021 17:05:43 +0000</lastBuildDate>
+    <category>Action! Doing Things Now</category>
+    <atom:link href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <p>Heh, don’t know about pattern catalogs… <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> ?! nonetheless, please don’t get discouraged or distracted by what I said in the CSC Agora, that I categorized the GameStop event as emergent and BitCoin/crypto-currencies less so (for example), just a choice arbitrarily made up. Here’s my line of thinking:</p>
+<p>Emergent events have a timely/urgent component to it, as they’re unfolding in real-time, and the sensemaking tries to understand and make sense of them as they’re happening. Typically, what’s actually going on would not be known/knowable by any party, no matter if it’s simple events with unknown/unknowable aspects/factors or if it’s a complex situation, some of which could be understood in theory but the complexity prevents observers to get a clear picture of enough of the processes, or alternatively because of the complexity, the processes are not known or their interplay understood in the first place, even if all the facts and measurements were known.</p>
+<p>So the challenge here is to make sense quickly, with incomplete, false and/or conflicting information. During the emergence, new information might arrive, which changes the entire interpretation and sense made so far. You have to be careful as some news might simply be misleading, false, or deliberate attempts to fool observers. You probably want to be able to support/entertain multiple interpretations/scenarios/perspectives at the same time, as you can’t know which, if any, is accurate, and update them frequently/quickly as you learn/research more about them, while incorporating and adapting to incoming updates. There might be many reports, news outlets and experts discussing the situation, and you can’t know if and in which regard they’re right, as well as who’s a credible authority in their field and who isn’t, plus many regular people might equally know and contribute important details, as well as in good faith offer interpretations that are based on outdated/superseeded information, or missing important factors. Also, there might be parties who know more, but hold back or only selectively supply updates, or only with a certain spin/narrative.</p>
+<p>Doing this well is not that easy without some training/exercise I assume; also, one will always make many mistakes, so no point in going for perfection, it’s worth a lot doing it better than others. For that reason, you want to be able to update, correct and retract as well as expand earlier sensemaking very explicitly, also maintain top-level overview and the amount/degree of changes, while also being able to drill into the details as all of them might matter, or change in their relevance. Good to have decent tools handy, good to keep an audit trail to review during the exercise or later that interpretations were made in good faith, considering and reflecting the information available at the time, not only if there’s allegations/liability, but also to improve the sensemaking process for the next emergent event, to learn from mistakes and get a sense about how these things tend to go.</p>
+<p>On the benefits, you get a good deal of insight and learning about a certain topic in short time for gratis, with the attention of many people swarming the particular problem domain, where otherwise and usually nobody really looks or cares. The material you collect and compile can be used later, with the downside that it may take a generation or two until the event is entirely forgotten and only then repeats again. Then I wonder what the purpose would be, because doing so as a commercial service already leads to trouble of potential conflict of interest and liability if it’s not according to journalistic standards if someone bases decisions on it, and it’s a bit stressy trying to track things in almost/near real-time (also, is everybody in the same timezone, what about the night, is it with actors/effects spread over the globe?).</p>
+<p>Would assume that this is common practice in newsrooms and war-rooms. Emergency responders and especially the military try to always maintain situational awareness in an incomplete, complex, changing, potentially chaotic situation, and still manage to do a best-effort attempt. Sometimes, lifes may depend on it.</p>
+<p>If the Guild/team pool on standby decides to go on a sensemaking Quest on an emergent topic, would assume there’s some Roles to split up the work and specialize somewhat (separation of concern), and also then some coordination role(s) for integration or even independent monitoring (to avoid getting too deep into the weeds or cluttered up and subsequently missing to track the bigger picture or sources/indicators of low visibility, or to also digg into contrarian interpretations/hypothesis).</p>
+<p>Examples could be the Wikipedia article on Fukushima, which is famous for being more complete and up-to-date than most of the news reporting, because the crowd of many people contributed way more insight than a newscast could gather and condense on this unknown/complex case. “<a href="https://www.youtube.com/embed/ZWH0ang_fBU" rel="nofollow noopener">The Disk: the real story of MPs’ Expenses</a>” had its urgency from the scoop leaking to competing newspapers, while they had to scan a lot of documents in short time. Oroville dam, with lots of reporting on current measurements of how much water runs down the spillway(s) and what the weather is or will be and how much water is in the lake, but you also would need to research a bit about dam collapses and especially earthen dams, and then think about watching the dam at night, when indeed things can happen no matter if you can or can’t see anything <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"> and consider question whether or not to evacuate.</p>
+<p>Counter-examples for less-emergent topics are probably those that aren’t that urgent, or not developing in real-time at last, so there’s more time to read up on them, usually they’re already well researched/discussed/explained, more of the effort to read up on all the known stuff and condense it into an understanding/model that makes some sense. Can easily happen that important details or main factors are omitted or not much visible, by being “obvious” or under-reported or of little previous/assumed interest/relevance, or they’re much over-done in too many detail so that the noise/clutter obstructs a clear view, etc. etc.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/19</link>
+        <pubDate>Mon, 15 Mar 2021 17:05:43 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-19</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/skreutzer">@skreutzer</a> et al<br>
+curious as to GEES meta patterns we could start identifying &amp; sketching out as proto protocols?<br>
+starting with: how to identify/ define “Emergent Event”?</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/18</link>
+        <pubDate>Mon, 15 Mar 2021 15:29:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-18</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/lovolution">@lovolution</a> Thanks for asking.<br>
+Fundamentally, the Conversation Widget was designed to be a javascript browser widget which supports structured conversations in the IBIS format: node types: question, answer, pro and con arguments. Its status: it was created back around late 2017 and exists on github, but it was wired by a fellow no-longer around to support it, and node.js has moved on.<br>
+There is an intention to build it into our larger quest-guild platform.<br>
+You would not be able to build it because it has dependencies which no-longer exists; I have a task to bring it up to date, but that’s a slow task.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/17</link>
+        <pubDate>Thu, 11 Mar 2021 03:02:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-17</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/jackpark">@jackpark</a> also curious to understand what’s the Conversation Widget about, what’s it do and is it alive ?</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/16</link>
+        <pubDate>Thu, 11 Mar 2021 02:23:14 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-16</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p><a href="mailto:cb@cicolab.org">cb@cicolab.org</a> <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/15</link>
+        <pubDate>Thu, 11 Mar 2021 02:20:50 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-15</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>What is your email?</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/14</link>
+        <pubDate>Wed, 10 Mar 2021 22:26:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-14</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p>circling back <a class="mention" href="/u/tony">@Tony</a> would love to hear/ see more</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/13</link>
+        <pubDate>Wed, 10 Mar 2021 17:41:55 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-13</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/saiiam">@saiiam</a>, Thank you for that offer. That really raises, IMHO, the possibility that this concept can have legs.<br>
+In a TopicQuests adventure, I personally funded the construction of a “<a href="https://github.com/KnowledgeGarden/conversation-widget" rel="nofollow noopener">Conversation Widget</a>” written in Javascript.  I see it as a basis for a questing platform.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/12</link>
+        <pubDate>Sun, 28 Feb 2021 19:16:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-12</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>lovolution:</p>
+<p>YES!  Hands-on specifically and concretely, it is done by creating Data Flow Diagrams.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/11</link>
+        <pubDate>Thu, 25 Feb 2021 15:19:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-11</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/tony">@Tony</a> that all sounds good and makes sense yet it’s so abstract<br>
+how can this be translated/ boiled down in practical terms to be actionable ?</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/10</link>
+        <pubDate>Fri, 19 Feb 2021 19:35:05 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-10</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>In order to make sense of complicated events (activities) we first need to understand what is meant by “complexity” .   For activity based systems (such as the system of activities involved in a short squeeze), complexity means tight coupling between the activities.  That is that there are so many inputs/outputs between the activities that we can not figure out what is going on.</p>
+<p>In order to make sense of complex activities, we need to reduce the coupling between activities (events).   This can be done by repartitioning the activities based on following the natural flow which, if done correctly, greatly reduces the inputs/outputs between activities.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/9</link>
+        <pubDate>Sun, 14 Feb 2021 14:40:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-9</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[saiiam]]></dc:creator>
+        <description><![CDATA[
+            <p>you are a crazy guy… and I’m glad to know you.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/8</link>
+        <pubDate>Tue, 09 Feb 2021 22:59:52 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-8</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p>per <a class="mention" href="/u/jerry">@Jerry</a> story about the “goose heaven“ farm</p>
+<p>we are the GEES …</p>
+<p>LOL</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/7</link>
+        <pubDate>Tue, 09 Feb 2021 18:24:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-7</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p>as mentioned in a call with some here today — cicolab would love to help shape this conversation/ quest/ model</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/6</link>
+        <pubDate>Tue, 09 Feb 2021 16:42:42 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-6</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[lovolution]]></dc:creator>
+        <description><![CDATA[
+            <p>absolutely psyched about this</p>
+<p>as it emerges (lol) i’m sensing into CSC/ Flotilla/ cicolab having roles here as well</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/5</link>
+        <pubDate>Tue, 09 Feb 2021 15:24:11 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-5</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/saiiam">@saiiam</a>, thank you for posting your proposal!</p>
+<p>I am considering it.</p>
+<p>I have also posted a link to it over in the <a href="https://chat.collectivesensecommons.org/agora/channels/emergent-event-sensemaking">EES channel in Mattermost</a>.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/4</link>
+        <pubDate>Fri, 05 Feb 2021 23:21:39 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-4</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[saiiam]]></dc:creator>
+        <description><![CDATA[
+            <p>I would like to sponsor a [[<strong>Quest</strong>]] for the [[<strong>Guild of Emergent Event Sensemakers</strong>]]. This quest is a [[<strong>prospecting</strong>]] quest (vs. a [[<strong>paid</strong>]] or [[<strong>volunteer</strong>]] quest)</p>
+<p><strong>Charter</strong><br>
+I would like to partner with your guild to turn the insights from you first exercise into a 30 minute [[<strong>high impact presentation</strong>]] that can be deliver virtually available for an April 1 delivery.</p>
+<p><strong>Offer</strong> I have a potencial client engagment where this deliverable is of value and am will offer the prospect of $10k if the engagement is sold and the deliverable is successfully completed on time. I am also willing to offer up my creative team when the time is right to produce the presentation. I am also offing deliverable ownership rights outlined outlined below.</p>
+<p><strong>Ownership:</strong> The resulting deliverable and the content contained within will be jointly owned for use by the <strong>Guild of Emergent Event Sensemakers</strong> and the <strong>Organization Collective Next</strong>. As joint owners of use each party is free to use the deliverable in anyway they see fit in accordance to the [[<strong>OGM value system</strong>]] after a limited release period of 6mo. which will begin on April 1, 2021 and ending Nov 1, 2021 the deliverable is free to be made publically availible unless both parties multually agree to restrict distributioin prior to Nov 1, 2021.</p>
+<p>Please tag <a class="mention" href="/u/saiiam">@saiiam</a> in your replies</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/3</link>
+        <pubDate>Fri, 05 Feb 2021 21:01:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-3</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[jackpark]]></dc:creator>
+        <description><![CDATA[
+            <p>That’s a topic of enormous interest to me. The combination of social dynamics and game mechanics in which guilds (can) operate is an appropriate way to <em>tame conversations</em> (among guilds).</p>
+<p>The guilds I have in mind are those associated with role-playing games, which might be considered <em>different</em> from the <em>craft guilds</em> of the past. In an RPG guild - as I think about the topic - <em>crafts</em> are the skills one learns while cycling through the various role opportunities, <em>leveling up</em>. The overall skill I think important is the one in which one learns to separate one’s personal identity while engaging in guild craft.</p>
+<p>John Seely Brown expressed that idea best in this <a href="https://www.youtube.com/watch?v=BhuOzBS_O-M" rel="nofollow noopener">video</a>.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/2</link>
+        <pubDate>Fri, 05 Feb 2021 00:17:09 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-2</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+      <item>
+        <title>Emergent Event Sensemaking</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>A proto-guild is forming on mattermost around sensemaking of complicated emergent events, I think particularly where there are complex system dynamics and information overload:</p>
+<ul>
+<li><a href="https://chat.collectivesensecommons.org/agora/channels/emergent-event-sensemaking">Emergent Event Sensemaking</a></li>
+</ul>
+<p>We’re focusing on the <a href="https://forum.openglobalmind.com/t/r-wallstreetbets-vs-hedge-funds-gme/558">GameStop short squeeze</a> as a first exercise, but other examples might include 9/11, the 2008 mortage crash, Fukushima, COVID-19 responses, etc.</p>
+<p>Stephan Kreutzer first proposed this in the Off-Topic channel, and he describes the idea well:</p>
+<p>“there could be a systemic and continual approach, to quickly condense the flood of information/feeds into approximating working models for overview/navigating.”</p>
+<p>So far the tools we are considering include:</p>
+<ul>
+<li>static 2D diagramming / flowcharts</li>
+<li>interactive system dynamics modeling, with e.g. Insight Maker</li>
+</ul>
+<p>The efforts to guild-form may or may not go anywhere, we’ll see.  Everybody has busy lives, and we may not actually get the spark of the idea off the ground; but, you’re welcome to join in if it sounds interesting to see where it goes.</p>
+          <p><a href="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/emergent-event-sensemaking/567/1</link>
+        <pubDate>Thu, 04 Feb 2021 15:59:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-567-1</guid>
+        <source url="https://forum.openglobalmind.com/t/emergent-event-sensemaking/567.rss">Emergent Event Sensemaking</source>
+      </item>
+  </channel>
+</rss>

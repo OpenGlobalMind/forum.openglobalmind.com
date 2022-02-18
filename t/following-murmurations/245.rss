@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Following Murmurations</title>
+    <link>https://forum.openglobalmind.com/t/following-murmurations/245</link>
+    <description>I&#39;m following [Murmurations – Making Movements Visible](https://murmurations.network/), because it seems like their work might be related to work I&#39;ve seen, and work I want to do.
+
+I wanted to observe that their website (which is fancy and high production value) makes it look like Murmurations is a very simple data &quot;application&quot; -- mapping organizations, even though it says &quot;The Murmurations protocol....&quot;
+
+This thread, [Developing Murmurations V1](https://murmurations.flarum.cloud/d/8-developing-murmurations-v1) - Murmurations Forum, makes it more clear that they are working on a **protocol**, and that the initial &quot;application&quot; was not meant as anything but a prototype that sat on the protocol.
+
+More as it unfolds...</description>
+    
+    <lastBuildDate>Tue, 15 Sep 2020 20:44:49 +0000</lastBuildDate>
+    <category>Action! Doing Things Now</category>
+    <atom:link href="https://forum.openglobalmind.com/t/following-murmurations/245.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Following Murmurations</title>
+        <dc:creator><![CDATA[skreutzer]]></dc:creator>
+        <description><![CDATA[
+            <ul>
+<li><a href="https://groupware-systems.org/skreutzer/diglife_mapped_decentralization_projects/murmurations.xml" rel="nofollow noopener">https://groupware-systems.org/skreutzer/diglife_mapped_decentralization_projects/murmurations.xml</a></li>
+<li><a href="https://gitlab.com/groupware-systems/diglife_mapped_projects_conversion" rel="nofollow noopener">https://gitlab.com/groupware-systems/diglife_mapped_projects_conversion</a></li>
+</ul>
+<p>Good thing is that Murmurations properly supports semantics by using JSON-LD, they did a decent job there technically. Don’t know nor necessarily care much about their WordPress plugin or directory, on the other hand, sure, why not pull/push? In their data I think it was mostly coops, so yeah, I don’t have data about coops and wouldn’t currently know what to use such for. In here, OGM struggled way too much with even <a href="https://forum.openglobalmind.com/t/invitation-design-build-a-collection-and-feed-of-project-invitations-requests">a very simple activity/project</a>, so don’t see how Murmurations would be of much use there if there’s no data created nor needed/wanted by pretty much anybody.</p>
+<p>Correction: Don’t know if they changed things again since a few months ago, as long as it doesn’t get worse, simply adapting or converting, it hardly needs to be a precise, exact science anyway.</p>
+          <p><a href="https://forum.openglobalmind.com/t/following-murmurations/245/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/following-murmurations/245/3</link>
+        <pubDate>Tue, 15 Sep 2020 20:35:24 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-245-3</guid>
+        <source url="https://forum.openglobalmind.com/t/following-murmurations/245.rss">Following Murmurations</source>
+      </item>
+      <item>
+        <title>Following Murmurations</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>My gut feeling / concern / something is that they’re following a path of [[Big Design Up Front]], but maybe (hopefully?) I’m wrong.</p>
+          <p><a href="https://forum.openglobalmind.com/t/following-murmurations/245/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/following-murmurations/245/2</link>
+        <pubDate>Tue, 15 Sep 2020 17:38:33 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-245-2</guid>
+        <source url="https://forum.openglobalmind.com/t/following-murmurations/245.rss">Following Murmurations</source>
+      </item>
+      <item>
+        <title>Following Murmurations</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m following <a href="https://murmurations.network/">Murmurations – Making Movements Visible</a>, because it seems like their work might be related to work I’ve seen, and work I want to do.</p>
+<p>I wanted to observe that their website (which is fancy and high production value) makes it look like Murmurations is a very simple data “application” – mapping organizations, even though it says “The Murmurations protocol…”</p>
+<p>This thread, <a href="https://murmurations.flarum.cloud/d/8-developing-murmurations-v1">Developing Murmurations V1</a> - Murmurations Forum, makes it more clear that they are working on a <strong>protocol</strong>, and that the initial “application” was not meant as anything but a prototype that sat on the protocol.</p>
+<p>More as it unfolds…</p>
+          <p><a href="https://forum.openglobalmind.com/t/following-murmurations/245/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/following-murmurations/245/1</link>
+        <pubDate>Tue, 15 Sep 2020 17:33:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-245-1</guid>
+        <source url="https://forum.openglobalmind.com/t/following-murmurations/245.rss">Following Murmurations</source>
+      </item>
+  </channel>
+</rss>

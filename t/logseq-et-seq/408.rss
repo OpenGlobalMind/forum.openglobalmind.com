@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Logseq et seq.</title>
+    <link>https://forum.openglobalmind.com/t/logseq-et-seq/408</link>
+    <description>I think I screwed up associating logseq with a new repo &quot;commentsPlus&quot;. I did not notice that the primary branch is named &quot;main&quot;, not &quot;master&quot;.
+
+So logseq is associated as an app with some repo on a non-existent master branch. Is there some way to find it and clean it up? Maybe remove the app association?
+
+I am a bit lost here.</description>
+    
+    <lastBuildDate>Mon, 11 Jan 2021 18:54:17 +0000</lastBuildDate>
+    <category>Tools</category>
+    <atom:link href="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>I was thinking that turning that diagram into a mind-map is also not too much work.<br>
+Hmmm … maybe we should try to encode it into a mind-map exchange format such as OPML? I am a mind-map fan, so I like that idea. If we had an OPML representation, what can we import that into? Is there a better exchange format; MindNode exports to Markdown.)</p>
+<p>I think we are in the many-different workrooms here in OGM. But I am open to trying some experiments. (I know quests are encouraged here, but experiments might be useful activities - especially if the outcome is documented, even if it is a train-wreck.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/24">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/24</link>
+        <pubDate>Mon, 11 Jan 2021 18:54:17 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-24</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Well, I can do some work to turn the diagram into a “mind map” of sorts, then we’ll see how it works at a 1-person level… but in brief if we were going to collaborate on a data collection “What we know to be true” (or something approximating that)… I think we’d also want some shared representations.  Now, it could be that we each have different places where we keep notes (e.g., <a class="mention" href="/u/lovolution">@lovolution</a> uses mind mapping software, I might use Org Roam, someone else might use strictly paper-based notes, etc.) and that could be fine, with the shared representations just being forum posts and other communication/coordination messages.  That’s the current state of the art, so clearly it’s “OK”.</p>
+<p>The question of <em>what else</em> we could be empowered to do if we had shared representations that had some lightweight semantics… I think we only have to look at Wikipedia to know that “there’s a there there.”   We’ve talked a lot, collectively, about “Where does OGM want to go?” — but maybe less about “How are we going to get there?”</p>
+<p>Tools are only one part of this “how”; processes are also important!  Perhaps we’re still at the level of “individual examples” rather than collective practices?</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/23">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/23</link>
+        <pubDate>Mon, 11 Jan 2021 17:23:35 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-23</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>All of these technologies and approaches seem to me to be solutions. What specific problem is being solved? And whose problem is it? Maybe this is the meta-level discussion??</p>
+<p>I agree that diagrams like the one from <a class="mention" href="/u/saiiam">@saiiam</a> you link to are great for humans as both an outline of a set of ideas, and a record of an activity. Transferring this diagram to a software-based representation is a lot of work. Why would we want to do that?</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/22">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/22</link>
+        <pubDate>Mon, 11 Jan 2021 15:11:16 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-22</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/anderbill">@anderbill</a>  Logseq seems to add a journal entry for each day someone visits the site.</p>
+<p>That said, it seems to me our experiment with Logseq was set aside before we got anywhere near a “critical mass” of users to be having daily updates!</p>
+<p><strong>Do we need to escalate the issue to a “meta-level”?</strong></p>
+<p>(Cf. <a href="https://forum.openglobalmind.com/t/meta-discussions/451" class="inline-onebox">Meta-discussions</a> for context.)</p>
+<p>What this might mean is that instead of trying to get everyone to use Logseq, we instead try to create some software that pulls together data from various “second brain” apps?  Granted, that’s a bit more of a technical project, but in principle it would allow people to use whatever tools they are most comfortable with (as long as there’s an open data export that they are willing to share).</p>
+<p>I’m a bit concerned that it’s relatively easy to make diagrams like the one from <a class="mention" href="/u/saiiam">@saiiam</a> at  <a href="https://forum.openglobalmind.com/t/what-is-ogm-suggested-post/117/8" class="inline-onebox">What is OGM? (suggested post)</a><br>
+and somewhat harder to operationalise them!</p>
+<p>Indeed, we have been talking about the (more limited) technological coordination issue in connection with multiple different instances of Org Roam (<a href="https://github.com/org-roam/org-roam" rel="nofollow noopener">https://github.com/org-roam/org-roam</a> + <a href="https://org-roam.discourse.group/" rel="nofollow noopener">https://org-roam.discourse.group/</a>)… doing it across different platforms wouldn’t be so different.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/21">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/21</link>
+        <pubDate>Mon, 11 Jan 2021 10:03:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-21</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>Today I noticed that OGM logseq account seems to contain a new journal page for every day, starting on Nov 17, 2020. The journal pages from Nov 21 - Nov 24 only contain a link to themselves; otherwise they are empty.</p>
+<p>Does logseq just generate a daily journal page on its own? Is it “spooky action from a server?” Or as people now say on social media “What. Is. Happening?”</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/20">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/20</link>
+        <pubDate>Tue, 24 Nov 2020 21:31:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-20</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[GlennMII]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="peterkaminski" data-post="6" data-topic="408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/peterkaminski/40/3_2.png" class="avatar"> peterkaminski:</div>
+<blockquote>
+<p>(A separate discussion could be had about who should be “Owner” and “Member”; I advocate everyone being “Owner”, but I won’t make that change unilaterally.)</p>
+</blockquote>
+</aside>
+<p>I would not recommend that, simply because the permissions are too high, which leaves the door open to destructive/disgruntled people to do damage. I’m not sure how hard that’d be to undo, but it’s best not to make the temptation available.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/19">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/19</link>
+        <pubDate>Mon, 23 Nov 2020 04:24:41 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-19</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>FYI, I moved the Logseq stuff out of the GitHub topic to this shiny new Logseq topic.</p>
+<p>Thanks Bentley for the nudge.</p>
+<p>Joe, Bill, splitting/moving topics is admin (and moderator, I hope)-specific, and will soon be handled by our newly-forming Moderation Team.</p>
+<p>Joe, let us know if you’d like to be on the Moderation Team! <img src="https://forum.openglobalmind.com/images/emoji/apple/slight_smile.png?v=9" title=":slight_smile:" class="emoji" alt=":slight_smile:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/18">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/18</link>
+        <pubDate>Sat, 21 Nov 2020 14:06:36 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-18</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>That ability seems to be available to admins. But I have not tried to do it. Yet.</p>
+<p>Maybe put all these topics under “Tools”?</p>
+<p>There may be a bit of churn before certain Topic names settle down.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/17">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/17</link>
+        <pubDate>Sat, 21 Nov 2020 13:35:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-17</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Of course we can!  That said, I’m going to take add a further distraction and say: Discourse would be quite nice if it was a bit more obvious how to move threads around.  Shouldn’t the whole thread on Logseq (and this comment) be easily transplantable into a new thread?  Maybe that feature exists for admins…?  But not as far as I can see for normal users.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/16">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/16</link>
+        <pubDate>Fri, 20 Nov 2020 22:49:29 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-16</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>yes we can do that. one topic per repo? or one topic about, say, ‘specific information repository practice’?</p>
+<p>thoughts?</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/15">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/15</link>
+        <pubDate>Thu, 19 Nov 2020 15:56:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-15</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[BentleyDavis]]></dc:creator>
+        <description><![CDATA[
+            <p>Can we move the logsec and any other discussions about specific repositories to their own forum thread so others can find this thread and understand how to sign up more easily?</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/14">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/14</link>
+        <pubDate>Thu, 19 Nov 2020 15:17:28 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-14</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>Thursday morning, 19 November.<br>
+[Nit question: how did you and pete create the pages joe and pete?]</p>
+<p>Joe, I see what you see on one of my computers.<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/a8d2554ca36e593488dc1d25b643cdb96cbe56d3.png" data-download-href="https://forum.openglobalmind.com/uploads/default/a8d2554ca36e593488dc1d25b643cdb96cbe56d3" title="logseq1b"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/a8d2554ca36e593488dc1d25b643cdb96cbe56d3_2_690x378.png" alt="logseq1b" data-base62-sha1="o5sQOtdeVlge9Xz4bOM1sybf6lJ" width="690" height="378" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/a8d2554ca36e593488dc1d25b643cdb96cbe56d3_2_690x378.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/a8d2554ca36e593488dc1d25b643cdb96cbe56d3_2_1035x567.png 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/a8d2554ca36e593488dc1d25b643cdb96cbe56d3_2_1380x756.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/a8d2554ca36e593488dc1d25b643cdb96cbe56d3_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">logseq1b</span><span class="informations">1635×897 132 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+<p>On the other one, however, I see this:<br>
+<div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/3ae6f7f3e36e75421d79265e9e557f956cde5baf.png" data-download-href="https://forum.openglobalmind.com/uploads/default/3ae6f7f3e36e75421d79265e9e557f956cde5baf" title="logseq1"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/3ae6f7f3e36e75421d79265e9e557f956cde5baf_2_690x424.png" alt="logseq1" data-base62-sha1="8p4xycktJmWGlKgb0sb3hLdkd1J" width="690" height="424" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/3ae6f7f3e36e75421d79265e9e557f956cde5baf_2_690x424.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/3ae6f7f3e36e75421d79265e9e557f956cde5baf_2_1035x636.png 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/3ae6f7f3e36e75421d79265e9e557f956cde5baf_2_1380x848.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/3ae6f7f3e36e75421d79265e9e557f956cde5baf_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">logseq1</span><span class="informations">2472×1520 322 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/13">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/13</link>
+        <pubDate>Thu, 19 Nov 2020 14:59:23 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-13</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>In my case the content looks pretty innocuous:</p>
+<p><div class="lightbox-wrapper"><a class="lightbox" href="https://forum.openglobalmind.com/uploads/default/original/1X/8f0efe7f19bfc771bc16596cecce9a07d49ba77a.png" data-download-href="https://forum.openglobalmind.com/uploads/default/8f0efe7f19bfc771bc16596cecce9a07d49ba77a" title="Screenshot from 2020-11-19 08-10-07"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/8f0efe7f19bfc771bc16596cecce9a07d49ba77a_2_690x388.png" alt="Screenshot from 2020-11-19 08-10-07" data-base62-sha1="kpyoZipVVFjK4X8o6snDvyCK6ee" width="690" height="388" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/8f0efe7f19bfc771bc16596cecce9a07d49ba77a_2_690x388.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/8f0efe7f19bfc771bc16596cecce9a07d49ba77a_2_1035x582.png 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/8f0efe7f19bfc771bc16596cecce9a07d49ba77a_2_1380x776.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/8f0efe7f19bfc771bc16596cecce9a07d49ba77a_2_10x10.png"><div class="meta"><svg class="fa d-icon d-icon-far-image svg-icon" aria-hidden="true"><use xlink:href="#far-image"></use></svg><span class="filename">Screenshot from 2020-11-19 08-10-07</span><span class="informations">1920×1080 150 KB</span><svg class="fa d-icon d-icon-discourse-expand svg-icon" aria-hidden="true"><use xlink:href="#discourse-expand"></use></svg></div></a></div></p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/12">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/12</link>
+        <pubDate>Thu, 19 Nov 2020 08:10:44 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-12</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>Wow. Have any of you looked at what shows up in a web-browser at this url (once you have associated your github id and logseq and the OpenGlobalMind/commentsPlus repository):</p>
+<aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/79a31d9d1a7522df3b141b6ce001a73a328dcfe8.png" class="site-icon" width="192" height="192">
+      <a href="https://logseq.com/all-pages" target="_blank" rel="noopener">logseq</a>
+  </header>
+  <article class="onebox-body">
+    <img src="https://forum.openglobalmind.com/uploads/default/original/1X/79a31d9d1a7522df3b141b6ce001a73a328dcfe8.png" class="thumbnail onebox-avatar" width="192" height="192">
+
+<h3><a href="https://logseq.com/all-pages" target="_blank" rel="noopener">A local-first knowledge base.</a></h3>
+
+<p>A local-first knowledge base which can be synced using Git.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<p>The pages render as filled with repeating entries of the same text. I have not counted the number of repeats, but it is many.</p>
+<p>To paraphrase the internet these days: “What is happening?”</p>
+<p>Imma gonna look at the files in github directly, but this seems to be a real mess. Of course it could just be my browser.</p>
+<p>woo hoo. we are having fun now.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/11">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/11</link>
+        <pubDate>Wed, 18 Nov 2020 22:41:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-11</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>I did pick this up this morning and as Joe mentioned, I clobbered something. Never a dull day in the software lab. <img src="https://forum.openglobalmind.com/images/emoji/apple/grimacing.png?v=9" title=":grimacing:" class="emoji" alt=":grimacing:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/10">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/10</link>
+        <pubDate>Wed, 18 Nov 2020 15:22:04 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-10</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>I’ll pick this up tomorrow. Had a pleasant afternoon in puppy training lessons and enjoying some wonderful Central Texas weather.</p>
+<p>I am looking forward to trying to co-author or -mangle a collection of paragraphs.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/9">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/9</link>
+        <pubDate>Wed, 18 Nov 2020 03:32:19 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-9</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>D’oh, I could <em>not</em> find “Add another repo” to play with my own. Thank you!</p>
+<aside class="quote no-group" data-username="holtzermann17" data-post="7" data-topic="408">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"> holtzermann17:</div>
+<blockquote>
+<p>Tags are spelled like :shortcodes: <img src="https://forum.openglobalmind.com/images/emoji/apple/sunny.png?v=9" title=":sunny:" class="emoji" alt=":sunny:"></p>
+</blockquote>
+</aside>
+<p><img src="https://forum.openglobalmind.com/images/emoji/apple/+1.png?v=9" title=":+1:" class="emoji" alt=":+1:"> <span class="hashtag">#winning</span></p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/8">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/8</link>
+        <pubDate>Wed, 18 Nov 2020 01:44:12 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-8</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Works for me after going Avitar → All repos → Add another repo. (<a href="https://github.com/OpenGlobalMind/commentsPlus" rel="nofollow noopener">https://github.com/OpenGlobalMind/commentsPlus</a>, main)</p>
+<p>Tags are spelled like :shortcodes:  <img src="https://forum.openglobalmind.com/images/emoji/apple/sunny.png?v=9" title=":sunny:" class="emoji" alt=":sunny:"></p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/7</link>
+        <pubDate>Wed, 18 Nov 2020 00:52:08 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-7</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Another piece of the puzzle for Bill’s experience.</p>
+<p>Checking my inbox (after playing with Logseq and the repo), I saw that I got an email notification from Github, “Integration Installation Request / <span class="mention">@band</span> requests you to install Logseq for OpenGlobalMind.”</p>
+<p>I’m one of several “Owners” of the org; Bill is a “Member”.  (A separate discussion could be had about who should be “Owner” and “Member”; I advocate everyone being “Owner”, but I won’t make that change unilaterally.)</p>
+<p>So anyway, when <em>I</em> tried Logseq and the repo, It Just Worked, because I’m an Owner.  When Bill tried it, it stopped, waiting for an Owner to approve the installation request.</p>
+<p>I think my using it installed it for everybody.  The request was also still pending (? github bug ?), so I approved that, too. <a href="https://github.com/organizations/OpenGlobalMind/settings/installations/13027129">https://github.com/organizations/OpenGlobalMind/settings/installations/13027129</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/6</link>
+        <pubDate>Tue, 17 Nov 2020 20:41:03 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-6</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <aside class="quote no-group" data-username="holtzermann17" data-post="12" data-topic="124">
+<div class="title">
+<div class="quote-controls"></div>
+<img alt="" width="20" height="20" src="https://forum.openglobalmind.com/user_avatar/forum.openglobalmind.com/holtzermann17/40/162_2.png" class="avatar"> holtzermann17:</div>
+<blockquote>
+<p>an experiment with logseq</p>
+</blockquote>
+</aside>
+<p>BTW, Joe, I will be angry with you (for like 200 milliseconds) if I end up falling in love with Logseq so soon after falling in love with Stroll.  After being angry, though, I would be very thankful. (And I would have to try Org-mode again!)</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/5</link>
+        <pubDate>Tue, 17 Nov 2020 20:18:34 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-5</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Hmm, I stomped around more and created a couple of other pages (hello, contents?), while trying to figure out the “Contents” and “Recent” affordances.  (Not that I meant to create pages.)  I thought “Recent” was “Recent Pages”, but now I think it’s recently viewed.  I don’t know what Contents is yet.</p>
+<p>I don’t like that there are separate <code>/journals</code> and <code>/pages</code> directories; I’m used to Stroll using tags instead of folders.  (So in Stroll, “Journal” is a tag, not a folder.)</p>
+<p>Logseq has potential, though…</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/4</link>
+        <pubDate>Tue, 17 Nov 2020 20:11:00 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-4</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/anderbill">@anderbill</a>, it looks to me like it’s working.  (I created a “Hello, world.” bullet, and it checked in.)</p>
+<p>Just use “<a href="https://github.com/OpenGlobalMind/commentsPlus">https://github.com/OpenGlobalMind/commentsPlus</a>” for the repo, and “main” (where it defaults to “master”) for the branch when Logseq asks, and I think you’ll be good to go.</p>
+<p>Also, no “master” branch got created, so I don’t think there’s any cleanup to do for that.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/3</link>
+        <pubDate>Tue, 17 Nov 2020 20:03:26 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-3</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Checking this now…</p>
+<p>(fyi, the default branch on github is now the less-oppressive-language “main” instead of the older default “master”.  more background: <a href="https://github.com/github/renaming;">https://github.com/github/renaming;</a> also, search  if you want more context.)</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/2</link>
+        <pubDate>Tue, 17 Nov 2020 19:59:18 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-2</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+      <item>
+        <title>Logseq et seq.</title>
+        <dc:creator><![CDATA[anderbill]]></dc:creator>
+        <description><![CDATA[
+            <p>I think I screwed up associating logseq with a new repo “commentsPlus”. I did not notice that the primary branch is named “main”, not “master”.</p>
+<p>So logseq is associated as an app with some repo on a non-existent master branch. Is there some way to find it and clean it up? Maybe remove the app association?</p>
+<p>I am a bit lost here.</p>
+          <p><a href="https://forum.openglobalmind.com/t/logseq-et-seq/408/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/logseq-et-seq/408/1</link>
+        <pubDate>Tue, 17 Nov 2020 19:25:56 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-408-1</guid>
+        <source url="https://forum.openglobalmind.com/t/logseq-et-seq/408.rss">Logseq et seq.</source>
+      </item>
+  </channel>
+</rss>

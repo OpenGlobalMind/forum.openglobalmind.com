@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Flotilla Project is Working on Directories</title>
+    <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503</link>
+    <description>@Arena and I would like to low-key announce two things:
+
+1. [Flotilla Project](https://flotillaproject.xyz/project/flotilla-project/), which will be doing some experiments around, and building working prototypes of, project, association, and people directories for OGM and other communities over the next few months.  The working name for these experiments is [Flotilla](https://flotillaproject.xyz/).  (That current website is a simple, hand-built placeholder, which just lists the two things we&#39;re announcing - one of our first experiments.)
+
+2. The [Tools for Connectors Association](https://flotillaproject.xyz/association/tools-for-connectors-association/), which is a special interest group for makers, designers, and other people interested in tools and processes that help connect people, such as directories and matchmaking.
+
+We&#39;re starting small -- just Vincent and me.  We&#39;d love to have other people join us, though!
+
+After the 2020 holidays, we&#39;re planning to have a weekly virtual open house, with a couple of hours of discussion and work, with everybody invited.
+
+Keep in touch! Either in [OGM Forum/Flotilla Project is Working on Directories](https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503) or [CSC Mattermost/Tools for Connectors](https://chat.collectivesensecommons.org/agora/channels/tools-for-connectors).</description>
+    
+    <lastBuildDate>Tue, 29 Dec 2020 14:15:32 +0000</lastBuildDate>
+    <category>Action! Doing Things Now</category>
+    <atom:link href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss" rel="self" type="application/rss+xml" />
+      <item>
+        <title>Flotilla Project is Working on Directories</title>
+        <dc:creator><![CDATA[BentleyDavis]]></dc:creator>
+        <description><![CDATA[
+            <p>In the spirit of Murmurations I though this might be handy for keeping the directory data up to date. I’ll be using it on my portfolio site to keep my logos up to date.<br>
+</p><aside class="onebox allowlistedgeneric">
+  <header class="source">
+      <img src="https://forum.openglobalmind.com/uploads/default/original/1X/877c1f191fe92ae02207fde0344febc07fce8dcb.png" class="site-icon" width="32" height="32">
+      <a href="https://metascraper.js.org/" target="_blank" rel="nofollow noopener">metascraper.js.org</a>
+  </header>
+  <article class="onebox-body">
+    <div class="aspect-image" style="--aspect-ratio:690/128;"><img src="https://forum.openglobalmind.com/uploads/default/optimized/1X/56a3e5e0f55392c7587c04ce6598e9d0f2f5ee5f_2_690x128.png" class="thumbnail" width="690" height="128" srcset="https://forum.openglobalmind.com/uploads/default/optimized/1X/56a3e5e0f55392c7587c04ce6598e9d0f2f5ee5f_2_690x128.png, https://forum.openglobalmind.com/uploads/default/optimized/1X/56a3e5e0f55392c7587c04ce6598e9d0f2f5ee5f_2_1035x192.png 1.5x, https://forum.openglobalmind.com/uploads/default/optimized/1X/56a3e5e0f55392c7587c04ce6598e9d0f2f5ee5f_2_1380x256.png 2x" data-small-upload="https://forum.openglobalmind.com/uploads/default/optimized/1X/56a3e5e0f55392c7587c04ce6598e9d0f2f5ee5f_2_10x10.png"></div>
+
+<h3><a href="https://metascraper.js.org/" target="_blank" rel="nofollow noopener">metascraper, easily scrape metadata from an article on the web.</a></h3>
+
+<p>easily scrape metadata from an article on the web.</p>
+
+
+  </article>
+  <div class="onebox-metadata">
+    
+    
+  </div>
+  <div style="clear: both"></div>
+</aside>
+
+<blockquote>
+<p>A library to easily scrape metadata from an article on the web using Open Graph, JSON+LD, regular HTML metadata, and series of fallbacks.</p>
+</blockquote>
+          <p><a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/7">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/7</link>
+        <pubDate>Tue, 29 Dec 2020 14:15:32 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-503-7</guid>
+        <source url="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss">Flotilla Project is Working on Directories</source>
+      </item>
+      <item>
+        <title>Flotilla Project is Working on Directories</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>Good call, <a class="mention" href="/u/tony">@Tony</a> . This seems to suggest three subtasks (in the spirit of A Christmas Carol):</p>
+<ol>
+<li>
+<em>Specify tasks to be done</em> (at some point, perhaps by self/others/teams)</li>
+<li>
+<em>Specify tasks already in progress</em> (by self/group)</li>
+<li>
+<em>Specify tasks that have been completed</em> (possibly easiest, because all the data is in!)</li>
+</ol>
+<p>Without examples, it might be hard to get started.  There was some discussion of high-level “bundles” of tasks in the form of “roles” <a href="https://forum.openglobalmind.com/t/roles-redux/450">here</a>, but that might still be too abstract.</p>
+          <p><a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/6">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/6</link>
+        <pubDate>Tue, 29 Dec 2020 14:06:48 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-503-6</guid>
+        <source url="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss">Flotilla Project is Working on Directories</source>
+      </item>
+      <item>
+        <title>Flotilla Project is Working on Directories</title>
+        <dc:creator><![CDATA[Tony]]></dc:creator>
+        <description><![CDATA[
+            <p>If more <strong>participation</strong> is needed, then maybe some work on stating what tasks need to be done is warranted.   To me saying “We need help with directories” just leaves me blank.</p>
+          <p><a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/5">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/5</link>
+        <pubDate>Tue, 29 Dec 2020 13:57:27 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-503-5</guid>
+        <source url="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss">Flotilla Project is Working on Directories</source>
+      </item>
+      <item>
+        <title>Flotilla Project is Working on Directories</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>It is a good observation, Joe.</p>
+<p>Participation is explicitly part of our thinking with Flotilla Project, although we hope it will be in the open houses, and working with people to figure out how to get their data in and out in ways that make sense to them.</p>
+<p>More as it unfolds…</p>
+          <p><a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/4">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/4</link>
+        <pubDate>Tue, 29 Dec 2020 05:06:13 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-503-4</guid>
+        <source url="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss">Flotilla Project is Working on Directories</source>
+      </item>
+      <item>
+        <title>Flotilla Project is Working on Directories</title>
+        <dc:creator><![CDATA[holtzermann17]]></dc:creator>
+        <description><![CDATA[
+            <p>I’m a little concerned given the list of threads above that there’s something missing. Symptomatically, the missing thing seems to be <strong>participation</strong>. As such, even the easiest-to-use tool isn’t going to be <em>enough</em>: there also has to be some evidence that it can help users accomplish what they’re after. That should be relatively straightforward to add (e.g., by using the tool to track sub-projects of the Flotilla project?).</p>
+          <p><a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/3">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/3</link>
+        <pubDate>Mon, 28 Dec 2020 22:48:30 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-503-3</guid>
+        <source url="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss">Flotilla Project is Working on Directories</source>
+      </item>
+      <item>
+        <title>Flotilla Project is Working on Directories</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p>Just to acknowledge some of the discussions about directories we already have in the forum:</p>
+<p><a href="https://forum.openglobalmind.com/t/existing-systems-to-leverage-free-ride-on/101/3">Existing systems to leverage, free-ride on</a></p>
+<p><a href="https://forum.openglobalmind.com/t/invitation-create-a-list-of-ogm-call-participants/93/2">Invitation: Create a list of OGM call participants</a></p>
+<p><a href="https://forum.openglobalmind.com/t/following-murmurations/245/3">Following Murmurations</a></p>
+<p><a href="https://forum.openglobalmind.com/t/potential-quests/492/12">Potential quests</a></p>
+<p><a href="https://forum.openglobalmind.com/t/invitation-design-build-a-collection-and-feed-of-project-invitations-requests/150/6">Invitation: Design + build a collection and feed of project invitations/requests</a></p>
+<p><a href="https://forum.openglobalmind.com/t/working-group-around-builder-role-for-data-media-curation-tooling/41/6">Working group around builder role for data/media curation tooling?</a></p>
+<p><a href="https://forum.openglobalmind.com/t/project-directory-connecting-matchmaking/331">Project Directory &amp; Connecting/Matchmaking</a></p>
+          <p><a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/2">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/2</link>
+        <pubDate>Mon, 28 Dec 2020 04:38:01 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-503-2</guid>
+        <source url="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss">Flotilla Project is Working on Directories</source>
+      </item>
+      <item>
+        <title>Flotilla Project is Working on Directories</title>
+        <dc:creator><![CDATA[peterkaminski]]></dc:creator>
+        <description><![CDATA[
+            <p><a class="mention" href="/u/arena">@Arena</a> and I would like to low-key announce two things:</p>
+<ol>
+<li>
+<p><a href="https://flotillaproject.xyz/project/flotilla-project/">Flotilla Project</a>, which will be doing some experiments around, and building working prototypes of, project, association, and people directories for OGM and other communities over the next few months.  The working name for these experiments is <a href="https://flotillaproject.xyz/">Flotilla</a>.  (That current website is a simple, hand-built placeholder, which just lists the two things we’re announcing - one of our first experiments.)</p>
+</li>
+<li>
+<p>The <a href="https://flotillaproject.xyz/association/tools-for-connectors-association/">Tools for Connectors Association</a>, which is a special interest group for makers, designers, and other people interested in tools and processes that help connect people, such as directories and matchmaking.</p>
+</li>
+</ol>
+<p>We’re starting small – just Vincent and me.  We’d love to have other people join us, though!</p>
+<p>After the 2020 holidays, we’re planning to have a weekly virtual open house, with a couple of hours of discussion and work, with everybody invited.</p>
+<p>Keep in touch! Either in <a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503">OGM Forum/Flotilla Project is Working on Directories</a> or <a href="https://chat.collectivesensecommons.org/agora/channels/tools-for-connectors">CSC Mattermost/Tools for Connectors</a>.</p>
+          <p><a href="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/1">Read full topic</a></p>
+        ]]></description>
+        <link>https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503/1</link>
+        <pubDate>Mon, 28 Dec 2020 04:20:20 +0000</pubDate>
+        <guid isPermaLink="false">forum.openglobalmind.com-post-503-1</guid>
+        <source url="https://forum.openglobalmind.com/t/flotilla-project-is-working-on-directories/503.rss">Flotilla Project is Working on Directories</source>
+      </item>
+  </channel>
+</rss>
